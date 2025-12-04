@@ -1,0 +1,1198 @@
+publication: AE 1973, 00580          EDCS-ID: EDCS-09401602
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Hic reli/quiae s(an)c(t)i Stephan[i]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2020, 01555
+dating: 341 to 500         EDCS-ID: EDCS-85500183
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Aurelianus / in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: musivum
+
+publication: AE 2020, 01556
+dating: 341 to 500         EDCS-ID: EDCS-85500184
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Domiti/a Cervio/la h(onesta) f(emina) vi/xit in pa/ce annis / LXIII et men/ses(!) octo
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: musivum
+
+publication: AfrRom-16-03-1791 = AE 2006, 01682 = AE 2015, +00067         EDCS-ID: EDCS-44200075
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Quocum[que 3] / ponite sive sub texto sive sub caelo abi[te et] / discedite nemo me quaerat nemo me mi[3]/cet aut si quis illo aliquando venerit aut / novos flores aut arborem novum viderit / illas meas Manes ILEVIMEV esse crede{bi}t
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: AntAfr-1981-189,66
+dating: 301 to 500         EDCS-ID: EDCS-77400017
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Sabbat/(i)olus q(u)i et Iuben/tinus(!) posi/tus in / [pace]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1892-LXXVII         EDCS-ID: EDCS-41300001
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+T(itus) Flavius / Elainus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1915-197         EDCS-ID: EDCS-45300218
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) / [3]um parte/[3] p() f(aciendum) c(uravit)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1915-201         EDCS-ID: EDCS-45300220
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]a Q(uinti) fil(io) [3] / [3]IIAC() f(ilio) [3] / [3 p]erp(etuo) [3] / [3]ss[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1928/29-398 = ILTun-01, 01250,3         EDCS-ID: EDCS-08601300
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / T(itus) Sextius Philur/tius pius vixit / annis XXXXIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01260         EDCS-ID: EDCS-17701133
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]V[3] / [3 e]x s[ua 3] / [3 pe]cuni[a 3] / [3] p(ia) v(ixit) an(nos) X[3] / h(ic) s(ita) [e(st)]
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 10581 = CIL 08, 14497          EDCS-ID: EDCS-26500708
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / P(ublius) Fabius Victor / pius vixit an(n)is XXV / m(ensibus) VI d(iebus) XV Limiti / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 10582 = CIL 08, 14509         EDCS-ID: EDCS-25500423
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Marcia Satur/nina pia vix(it) / annis VII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 10583 = CIL 08, 14510         EDCS-ID: EDCS-26500710
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) Q(uintus) Me/mmius Ma/rtinus pius / vixit annis LVI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 10584 = CIL 08, 14511          EDCS-ID: EDCS-26500711
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Munatius / Decimus Optat[i]a[n]<u=O>s [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 10585 = CIL 08, 14527         EDCS-ID: EDCS-26500712
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Strabonius Ho/noratia(nus) pius vixit [3 h(ic) s(itus)] e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 10586 = CIL 08, 14532         EDCS-ID: EDCS-26500713
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Vibius Vibia/nus pius vixit / annis XXIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14474 (p 2530)         EDCS-ID: EDCS-25402366
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) s(acrum) / [Sta]beria Mapia / [m]ater sacerdos / amantissima dulcis/[sima] vixit annis LXXX
+inscription genus / personal status: mulieres;  sacerdotes pagani;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14475 (p 2530)         EDCS-ID: EDCS-25402367
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Aemilius / Fortunatus / vixit annis XII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14476 (p 2530)         EDCS-ID: EDCS-25402368
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / Aemilius / Paulinus / p(ius) v(ixit) a(nnos) XXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14477         EDCS-ID: EDCS-25402369
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Aemilia / Prima vi/xit annis / XX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14478 (p 2530)         EDCS-ID: EDCS-25402370
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Aemilia PI[3] / Rustic[3] / [6] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14479         EDCS-ID: EDCS-25402371
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dis [Manibus] sa[c(rum)] / Agria M<ariti=IIIPI>ma / pia vixit annis XXVII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14480         EDCS-ID: EDCS-25402372
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Ammeia / Mittia vixi/t an(n)is LX m(ensibus) / V d(iebus) VII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14481         EDCS-ID: EDCS-25402373
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Antonia Fa/usta pia vixit / annis LV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14482 (p 2530)         EDCS-ID: EDCS-25402374
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Arruntia / Mima pia vix/it annis {annis} / III h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14483          EDCS-ID: EDCS-25402375
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Furfurari/us pius vixit / annis LXXXXIII / h(ic) s(itus) e(st)// D(is) M(anibus) s(acrum) / C(aius) Martialis / Furfurarianus / pius vixit an(nis) II die/bus XVII h(ic) s(itus) e(st) // P(ublius) P() Cornelianu(s)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14484         EDCS-ID: EDCS-25402376
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Caecilius / Crescens / p(ius) v(ixit) a(nnos) LXXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14485 (p 2530)         EDCS-ID: EDCS-25402377
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(a)ecilius / Luciferu/s Cererus / pius vixit / annis IX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14486 (p 2530)         EDCS-ID: EDCS-25402378
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Ho/[3] pia / vixit annis / [6] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14487         EDCS-ID: EDCS-25402379
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Caecilia / Matutin/a v(ixit) an(nos) VIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14488 (p 2530)         EDCS-ID: EDCS-25402380
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Caecilia Roga/ta [Ro]ga[t]i filia / vix(it) an(nos) LII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14490 (p 2530)         EDCS-ID: EDCS-25402381
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]s C{a}e/[ria]lis pius / [vixi]t annis LVIIII / [h(ic) s(itus)] e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14491 = ILPBardo 00255          EDCS-ID: EDCS-25402382
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Canini/us Honoratus fil(ius) pius / vixit annis / duob(us) mensib(us) / VI dieb(us) XII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14492 = ILPBardo 00256          EDCS-ID: EDCS-25402383
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Caninius Or/bianus Hono/ratian(us) pius vi/xit an(nos) XVI m(enses) IIII / d(ies) XXVI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14493 (p 2530)         EDCS-ID: EDCS-25402384
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is) M(anibus)] s(acrum) / Claudia Ho/norata pia / vixit annis / XVIII hic s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14494         EDCS-ID: EDCS-25402385
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Clodia Maxima / pia vixit annis / XXXII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14495 (p 2530)         EDCS-ID: EDCS-25402386
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Dafnis vixit / annis VIII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14496         EDCS-ID: EDCS-25402387
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Domitia Matro/na p(ia) vix(it) an(nos) CI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14498         EDCS-ID: EDCS-25402388
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Flavius Cres/cens pius / vixit annis / XXXXIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14499 (p 2530)         EDCS-ID: EDCS-25402389
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iuliarius Se/cundianus pius / vix(it) ann(os) LXXVIII / m(enses) III h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14500 (p 2530) = ILPBardo 00267          EDCS-ID: EDCS-25402390
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Iulius / Ampio vi/xit annis / LXXV h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14501 (p 2530)         EDCS-ID: EDCS-25402391
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Iulius / Perpetu(u)s / pius vix(it) / an(no)s LV / me(n)s(es) II / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14502 (p 2530)         EDCS-ID: EDCS-25402392
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Iulia Marina / pia vixit / annis XXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14503         EDCS-ID: EDCS-25402393
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iulia Mosch(i)s / vi{c}xit an(n)<i=T>s / LXXXXII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14504 (p 2530)         EDCS-ID: EDCS-25402394
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Iuliae Primiti/vae piae / vixit annis XXXV / [h(ic)] s(ita)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14505 (p 2530)         EDCS-ID: EDCS-25402395
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iulia [3] / Pau<l=I>osa / pi(a) vi(xit) an(nos) XI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14506         EDCS-ID: EDCS-25402396
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iunia / Umbr/a Cas/tula / pia / vix(it) / ann(os) / XV / d[ies
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14507 (p 2530) = ILPBardo 00271          EDCS-ID: EDCS-25402397
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iunia Victoria Mosina / vixit annis XXXX m(ensibus) / n(umero) IIII d(iebus) XV h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14508 (p 2530)         EDCS-ID: EDCS-25500422
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is)] M(anibus) s(acrum) / [3] Marcius / [Vic]tor Ian/[u]arius Va/[l]erius pius / [vi]xit an/[no]s LIIII / [h(ic)] s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14512 (p 2530)         EDCS-ID: EDCS-25500424
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Munatius / Ianuarius / pius vixit an/nis n(umero) XLVII / mens(ibus) VII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14513 (p 2530) = ILPBardo 00508          EDCS-ID: EDCS-25500425
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Opstori[o] / [M]aximia[no] qui et Gen(e)/roso
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14514 (p 2530) = ILPBardo 00274          EDCS-ID: EDCS-25500426
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Pompeia / Dubitata / pia vixit / annis LXXXXIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14515 (p 2530)         EDCS-ID: EDCS-25500427
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Pomponius / L(uci) f(ilius) Quir(ina) Iuve/nalis pius / vixit a(nnos) LXXIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14516 (p 2530) = ILPBardo 00275          EDCS-ID: EDCS-25500428
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Manilia Zaba / pia vixit a(nnis) LXI // D(is) M(anibus) s(acrum) / P(ublius) Pontius / Felico pius / vixit a(nnos) XXII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14517 (p 2530) = ILPBardo 00276          EDCS-ID: EDCS-25500429
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Pontia Victoria / pia vixit annis / XIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14518 (p 2530)         EDCS-ID: EDCS-25500430
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Porcia Vitalis / pia vixit ann(is) / LXV mens(ibus) tres(!) / diebus VII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14519         EDCS-ID: EDCS-25500431
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) sacr(um) / Primitiva / pia vixit / an(nos) XIII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14520         EDCS-ID: EDCS-25500432
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Pu<l=E>(l)ea/nia<e=T> Ia/[n]uaria[e
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14521         EDCS-ID: EDCS-25500433
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Quarta / pia vixit / annis XLVIII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14522 (p 2530) = ILPBardo 00281          EDCS-ID: EDCS-25500434
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Stella Felix pius / vixit annis / LXXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14523 (p 2530)         EDCS-ID: EDCS-25500435
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Stella Satur/ninus pius vixit / annis LVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14524 (p 2530)         EDCS-ID: EDCS-25500436
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Sallustia / [Aqu]isa pia / vixit annis / VII / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Sallustia / Venusta / pia vixit / annis IIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14525         EDCS-ID: EDCS-25500437
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+C(aio) Scribonio M(arci) f(ilio) / Quir(ina) Fortunato / f(lamonio) p(erpetuo) hono[r]ato fil(io) / [S]cribo[ni] Flamina/lis Veru[s] Macrinus / fil(ii) ex testamento patris s(ua) p(ecunia) p(onendum) / cura(verunt) Scriboni Veri patrui // L(ucius) Vallius L(uci) f(ilius) / Ser[g(ia)] Sebinus / Vallia [3]ia filia / s(ua) p(ecunia) f(aciendum) c(uravit)
+inscription genus / personal status: sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14526 (p 2530)         EDCS-ID: EDCS-25500438
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Securia / Prima pia / vixit an(n)is / LXXXVII h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14528 (p 2530) = ILPBardo 00283          EDCS-ID: EDCS-25500439
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Trebia Victori/a pia vixit an/nis XXXV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Bisu[1]elus Pris/cus [3]vius pius / vixit annis XX[1]III / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14529         EDCS-ID: EDCS-25500440
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Valerius Feli/cio pius vixit / annis XXX di/ebus nove[m
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14530 (p 2530)         EDCS-ID: EDCS-25500441
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dis Mani[bus] / Valeria Daf[nis] / vixit an(n)is / LXXIV / h(ic) s(ita est)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14531 (p 2530) = ILPBardo 00285          EDCS-ID: EDCS-25500442
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Valeria Zabul/liga pia vixit / anni(s) XVII m(ensibus) XI / d(ie) I h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 14533         EDCS-ID: EDCS-25500443
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Q(uintus) Vin[ici]/us Sa[lvi] / fil(ius) <M=A>o[des]/tus piu[s vi]/xit ann(os) [3] / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14534 (p 2530)         EDCS-ID: EDCS-25500444
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is)] M(anibus) s(acrum) / Vitellius / Honoratu/s p(ius) v(ixit) an(nos) / XXIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14535          EDCS-ID: EDCS-25500445
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Volusi/nius Ia/nuarius / p(ius) vixit an(n)is / LXXVII / hic s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 14536 (p 2530)         EDCS-ID: EDCS-25500446
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+SE[3] / Zaba[3] / vixit an(nos) [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14537         EDCS-ID: EDCS-25500447
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]XV me[ns(es) 3] / [h(ic)] s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14539         EDCS-ID: EDCS-25500449
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]V[3] / N [3]vus / p(ius) vix(it) ann(os) / XXV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 14540         EDCS-ID: EDCS-25500450
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / [3]tus / [3]V[3] / [3]S[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 14541         EDCS-ID: EDCS-25500451
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / vix{s}it annis / XVIII h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14542         EDCS-ID: EDCS-25500452
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] vix(it) / an(nos) XXXX / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14543 (p 2530)         EDCS-ID: EDCS-25500453
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / XXXXIII
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14544         EDCS-ID: EDCS-25500454
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 14744 = CIL 08, 25612         EDCS-ID: EDCS-25200072
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Umidius / Q(uinti) filius / Felix pater p(osuit) / vixit annis LXXXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25529 = ILPBardo 00251          EDCS-ID: EDCS-25100401
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Iulius / Marinus vet(eranus) / vix(it) an(nos) LI m(enses) II / d(ies) VIIII h(ic) s(itus) e(st)
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25538 = ILPBardo 00252          EDCS-ID: EDCS-25100414
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) // h(ic) s(itus) e(st) // Edinia / Candida / pia vixit / annis / XVIIII // D(is) M(anibus) s(acrum) / Axilia Ni/na pia vi/xit annis / LXXV h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25539         EDCS-ID: EDCS-25100415
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / Aemilia / Ianuaria / pia vixit / annis LXII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25540         EDCS-ID: EDCS-25100416
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Aemilia / Inventa / pia vix(it) an(n)is / LXXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25541         EDCS-ID: EDCS-25100417
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / (A)emilia pia / Donata / vixit an/nis LXXV me/nses VIII di/es XII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25542         EDCS-ID: EDCS-25100418
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / T(itus) Al[2]ius T(iti) f(ilius) / Cavilius pi/us vix(it) ann(os) / II h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25543 = ILPBardo 00253          EDCS-ID: EDCS-25100419
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Alfius / Zabullus / vixit ann(os) / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25544         EDCS-ID: EDCS-25100420
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / P(ublius) Annius P(ubli) f(ilius) Quir(ina) / Martialis pius / vixit annis LXVI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25545         EDCS-ID: EDCS-25100421
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Annia Vic/toria pia / vix(it) an(nos) XXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25546         EDCS-ID: EDCS-25100422
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Attius / Rosarius / pi(us) vix(it) / an(n)is / LXXXI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25547         EDCS-ID: EDCS-25100423
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] Bovia / [3 Fo]rtuna/[ta pi]a vi/[x(it) a(nnos) 3] h(ic) s(ita)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25547a = ILPBardo 00254 = ILTun-01, 01245          EDCS-ID: EDCS-25100424
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Bovis pius / vix(it) annis / XXIII h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25548         EDCS-ID: EDCS-25100425
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) [M(anibus)] / Cae[3] / Felix / vixit / a(nnos) XXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25549         EDCS-ID: EDCS-25100426
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Caecilius Felix pi/us vi<x=CS>i{s}t an(n)is / LVIIII d(iebus) XXX hic / sepultus est
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25551 = ILPBardo 00257          EDCS-ID: EDCS-25100428
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Cituitia Tertul/la pia vixit ann(os) XXVII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25552 = ILPBardo 00258          EDCS-ID: EDCS-25100429
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dis Manib/us sacrum / Cocceia Au/gina p(ia) v(ixit) / annis LX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25553         EDCS-ID: EDCS-25200011
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Cocceiu[s] / Felix Caletio(?) / pius vixit ann/[os(?)] LVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25554         EDCS-ID: EDCS-25200012
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Con[c]or/dia [pi]a vi/xit [an]ni/s XX[
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25555         EDCS-ID: EDCS-25200013
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Coponius / Fortun[a]/tus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25556 = ILPBardo 00259          EDCS-ID: EDCS-25200014
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Cor/nelius / P(ubli) fil(ius) Qui/rina M/[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25557 = ILPBardo 00260          EDCS-ID: EDCS-25200015
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) // Cornelius Fel/co pius vixit an/nis LXXXXX IIIIIX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25557a = ILPBardo 00261          EDCS-ID: EDCS-25200016
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Cornelia / M(arci) f(ilia) Victo/ria [3]TA / [3]A[3]M / VII[3]III h(ic) s(ita) / [e(st) 3] o(ssa) t(ibi) b(ene) q(uiescant)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25558         EDCS-ID: EDCS-25200017
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Domitia
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25559         EDCS-ID: EDCS-25200018
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) s(acrum) / Domit/[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25560         EDCS-ID: EDCS-25200019
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Domitia T(iti) f/ilia Fortun/ata pia vixit / an(n)is XXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25561         EDCS-ID: EDCS-25200020
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Donitia Pau<l=I>a / Martialis filia / pia vix(it) an(nos) XIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25562 = ILPBardo 00262          EDCS-ID: EDCS-25200021
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Donata / p(ia) v(ixit) a(nnos) XVIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25563 = ILPBardo 00263          EDCS-ID: EDCS-25200022
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dubitata / pia Iuli Er/mophan/ti vixit an/nis XXII / h(ic) s(ita) e(st) // O(ssa) / t(ibi) / b(ene) / q(uiescant) // T(erra) / t(ibi) / l(evis) / s(it)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25564         EDCS-ID: EDCS-25200023
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Euthyciu[s
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25565         EDCS-ID: EDCS-25200024
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) s(acrum) / [3]cius / [Fe]lix / [3] vixit / [anno]s XXVIII / h(ic) [s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25566 = ILPBardo 00264          EDCS-ID: EDCS-25200025
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Gemin/ius Roga/tianus pius vix{s}it an/nis LX m(ensibus) V / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25567 = ILPBardo 00265          EDCS-ID: EDCS-25200026
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Grilla pia / vix(it) a(nnos) III m(enses) VIII / d(ies) V h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25568         EDCS-ID: EDCS-25200027
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]FAVS[3]/nus Honorat[i]/an{n}us pius vix(it) / ann(os) VIII m(enses) VI {D} / d(ies) XV IIII h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25568a         EDCS-ID: EDCS-25200028
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) s(acrum) / [3]nius L(uci) f(ilius) / [Ia]nuari/[us(?) pius] vixit / [annos] VII h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25569 = ILPBardo 00266          EDCS-ID: EDCS-25200029
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Insteius Satu/rninus pius vi/xit annis LIIII m(ensibus) VII / die uno / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25571         EDCS-ID: EDCS-25200031
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Iulius / Baliaho / pius vi<x=S>it / an(n)is XXVIIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25572 = ILPBardo 00505         EDCS-ID: EDCS-25200032
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Iulius C(ai) / [f(ilius)] Buco pi/[us] vixit an/[nos] VI / [h(ic)] s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25573         EDCS-ID: EDCS-25200033
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Iulius / Festus vi<x=S>it / an(n)is LXXX/VIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25574         EDCS-ID: EDCS-25200034
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iulius / Parasi/tus vix/it annis / V / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25575 = ILPBardo 00269          EDCS-ID: EDCS-25200035
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) Iulius / Primus / pius v[ixit] / ann[os XI] / [h(ic) s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25576 = ILPBardo 00506         EDCS-ID: EDCS-25200036
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / Iulia Casta / pia vixit a/nnis XXXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25577 = ILPBardo 00270 = ILTun-01, 01246          EDCS-ID: EDCS-25200037
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iulia Veneri/a vixit a(nnos) {vixit} / {annis} LXXXXIII / m(enses) III h(ic) s(e)p(ulta)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25578         EDCS-ID: EDCS-25200038
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iulia Venus/ta pia vixit an(nos) / LIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25579 = ILPBardo 00272 = ILTun-01, 01247          EDCS-ID: EDCS-25200039
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Manilia Cat/tula pia vixit / [ann]is XXXIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25580         EDCS-ID: EDCS-25200040
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Marcia P(ubli) M/arci f(ilia) For/tunata / pia vixit / annis XXX h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25581         EDCS-ID: EDCS-25200041
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) s(acrum) / [M]arcia Se/cura pia / [v]ixit / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25582         EDCS-ID: EDCS-25200042
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Memius Anice/tetus pius vixit / an(n)is LI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25583 = ILPBardo 00273          EDCS-ID: EDCS-25200043
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) [M(anibus) s(acrum)] / Munatius / Renatus pius / vix(it) annis III m(ensibus) V / d(iebus) III h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Munatius / Victoricus / pius vix(it) annis / III m(ensibus) IIII d(iebus) VI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25584         EDCS-ID: EDCS-25200044
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Municius / Felix pius / vixit annis / IX[3] h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25585         EDCS-ID: EDCS-25200045
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dis M(anibus) sac(rum) / Musaniu/[s
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25586 = ILPBardo 00507         EDCS-ID: EDCS-25200046
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dis M(anibus) sac(rum) / Musania / Fortunata / [v(ixit)] an(nos) LXXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25587         EDCS-ID: EDCS-25200047
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Primus (H)ort<e=II>(n)sius / Ia<n=M>uarius pius / vix{s}it annis LXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25588         EDCS-ID: EDCS-25200048
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / P(ublius?) P(ubli) f(ilius) vixit / an(n)is pius / LVIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25589         EDCS-ID: EDCS-25200049
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Pompe/ius [F]austu/lus pius vi/xit anni(s) / V menses(!) / n(umero) VI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25590         EDCS-ID: EDCS-25200050
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Praecilius [3] / Varicus pius vi/xit annis XV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25591         EDCS-ID: EDCS-25200051
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] Priscilia / [3] pia vixit an/[nos 3]VIIII
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25592         EDCS-ID: EDCS-25200052
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Pullenius / Mercator vi/xit annis / LXXIII pius / vixit / h(ic) se(pultus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25593         EDCS-ID: EDCS-25300385
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / [3] Rog/ata pia v/ixit ann/[os 3]CXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25594         EDCS-ID: EDCS-25200054
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Romanus / pi(us) vix(it) ann(o)s / XXXX m(enses) II / h(ic) <e=O>(st) s(itus)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25595 = ILPBardo 00509          EDCS-ID: EDCS-25200055
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / Satur/nina p(ia) / vixit an/nis II hic / situs(!) est
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25595a         EDCS-ID: EDCS-25200056
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]ODI / [3] Satur/[ni]nus pius / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25596 = ILPBardo 00277          EDCS-ID: EDCS-25200057
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Scribonius / Euasius pius / vix(it) an(n)is(!) IIII / mense(s) IIII dies VII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25597 = ILPBardo 00278          EDCS-ID: EDCS-25200058
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) [s(acrum)] / [3]A Secu[3] / [3] vixit [3] / [3] XX [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25598         EDCS-ID: EDCS-25200059
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]SEIVS / [3]onus vi/[x(it) 3]III mens(es) / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25599         EDCS-ID: EDCS-25200060
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / P(ublius) Seius Silvanus / pius vix(it) an(nos) LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25600 = ILPBardo 00279          EDCS-ID: EDCS-25200061
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Sempronia Veneria / pia vixit annis / LI m(ensibus) III / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25601 = ILPBardo 00280          EDCS-ID: EDCS-25200062
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+C(aius) Sicc() Hur/is f(ilius) pius vi/xit annis / LXXXXVI h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25602         EDCS-ID: EDCS-25300386
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Q(uintus) Stallus Ex[tr]/icatus pius v[i]/xit annis XX[3] / h(ic) s(itus) [e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25603 = ILPBardo 00282          EDCS-ID: EDCS-25200063
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is) Ma]nibus / sacrum / Q(uintus) Stel(l)a Felix / pius vixit an/nis LXXVI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25604         EDCS-ID: EDCS-25200064
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Tonne/ius Fortu/natus p(ius) v(ixit) / an(nos) XV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25605         EDCS-ID: EDCS-25200065
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / C(aius) To[nne]ius / Satu[r]ninus / pi(us) v[i]xit an/[nos 3]XXXX / h(ic) [s(itus)] e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25606         EDCS-ID: EDCS-25200066
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Valeri/us Ono/ratus pi(us) / vix(it) an(nos) L / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25607 = ILPBardo 00284          EDCS-ID: EDCS-25200067
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Valeria Augusta / [pi]a vixit annis V / posuit Victor
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25608         EDCS-ID: EDCS-25200068
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Valeria Fortuna/ta pia / vix(it) an(nos) / LXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 25609         EDCS-ID: EDCS-25200069
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Valerius / Saturni/nus filius / pius vixit / ann(os) II et / dies XX h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25610         EDCS-ID: EDCS-25200070
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]ivedius / [Na]mphamo / [pius] vixit an/[nos
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25611         EDCS-ID: EDCS-25200071
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]elius Victor / pi(us) vix(it) an(nos) XLI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 25614         EDCS-ID: EDCS-25200074
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]AVGD A[3] / [3 vixit] an(n)is XXXXI[3] / [3]EPLIT[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25615         EDCS-ID: EDCS-25200075
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) [M(anibus) s(acrum)] / AR RV[3] / Vict[or(?)] / p(ius?) v(i)x(it) a[n(nos)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25616         EDCS-ID: EDCS-25200076
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]urus / pi(us) vix(it) an(nos) / XVII m(enses) V / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25617         EDCS-ID: EDCS-25200077
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / EL[3] / pia vi[xit] / annis [3] / d(iebus) XVII[3] / filii matri
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25618         EDCS-ID: EDCS-25200078
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) [M(anibus) s(acrum)] / [3]lito / pius / annis / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25619         EDCS-ID: EDCS-25200079
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]/rio pius vi/xit annis / LXXXXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25620         EDCS-ID: EDCS-25200080
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+]ror pius / vixit annis / XXXXVII / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25621         EDCS-ID: EDCS-25200081
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+] / R[3] / P(ubli) f(ilius) Quir(ina) / pius vix(it) an(nos) / h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25622 = ILPBardo 00286          EDCS-ID: EDCS-25200082
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Pius v(ixit) a(nnos) VI / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25623         EDCS-ID: EDCS-25200083
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / [6] / pia vixit / an(n)is VII / (h)ic situs(!) / est
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 25624         EDCS-ID: EDCS-25200084
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Gericus / [3] pius / [vixi]t ann/is [3] / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 25626 = ArchAnz-2019-317,66 
+dating: 1 to 100         EDCS-ID: EDCS-25200086
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+L(ucius) Mutius L(uci) f(ilius) Arn(ensi) / Faustinus / p(ius) vix(it) an(nos) LXXIV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00026 {Manfred Clauss}          EDCS-ID: EDCS-42300137
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Cornelia Dia/bullica pia vixit / annis XXIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: EDCS 00162 {Manfred Clauss}          EDCS-ID: EDCS-51800004
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Sex(tus) Iulius / Victor / p(ius) v(ixit) annis / LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00163 {Manfred Clauss}          EDCS-ID: EDCS-51800005
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Helvia Iulia / Suita
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: EDCS 00164 {Manfred Clauss}          EDCS-ID: EDCS-51800006
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Musaeus p(ius) v(ixit) / annis VII / h(ic) s(itus) est
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: EDCS 00165 {Manfred Clauss}          EDCS-ID: EDCS-51800007
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Opstorio / Marco patri / suo caris(s)i/mo
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: EDCS 00166 {Manfred Clauss}          EDCS-ID: EDCS-51800008
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Cornelia / Atuspina
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: EDCS 00167 {Manfred Clauss}          EDCS-ID: EDCS-51800009
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+C(aius) Iustus / Iunior
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00169 {Manfred Clauss}          EDCS-ID: EDCS-51800011
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / L(ucius) Caelius Cenimi/us p(ius) v(ixit) a(nnos) LXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00170 {Manfred Clauss}          EDCS-ID: EDCS-51800012
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+L(ucius) Tannoni/us Fausti/nus Artius / vix(it) an(nos) LXV / m(enses) VIIII d(ies) X / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00171 {Manfred Clauss}          EDCS-ID: EDCS-51800013
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Faustinus / Egnati fili(us) / pius vixit / annos XX / h(ic) s(itus)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: EDCS 00172 {Manfred Clauss}          EDCS-ID: EDCS-51800014
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Q(uintus) Volussi/us Phidius / pius vixit / annis / XXXIIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00173 {Manfred Clauss}          EDCS-ID: EDCS-51800015
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Gellius Suc(c)essus pi(u)s / vixit annis LVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00174 {Manfred Clauss}          EDCS-ID: EDCS-51800016
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[D(is)] M(anibus) s(acrum) / [3]elia / [3 p]ia v/[ix(it) anni]s XXXI / [
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: EDCS 01414 (Manfred Clauss - Jona Lendering)          EDCS-ID: EDCS-83300034
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Cn(aeo) Domitio / Cn(aei) f(ilio) Quir(ina) Bellico / flam(ini) perp(etuo) / Cn(aeus) Domitius L(uci) fil(ius) / Quir(ina) Bellicus / patruo piissimo / s(ua) p(ecunia) p(osuit)
+inscription genus / personal status: sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 01415 (Manfred Clauss - Jona Lendering)          EDCS-ID: EDCS-83300035
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Dis M(anibus) s(acrum) / Flavia Spica / pia vixit an(nos) LXXI / hic sita est
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: EDCS 01418 (Manfred Clauss - Jona Lendering)          EDCS-ID: EDCS-83400005
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Iulia Sperata / pia vix(i)t annis / LXXXI Sex(tus) Cal/vius Felix ei/us dixit s(it) t(ibi) t(erra) l(evis) A / NS RE annos / LXXXXI [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00460 = AE 1916, 00080          EDCS-ID: EDCS-10300896
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / M(arcus) Gargili/us Augus/talis mil(es) c(o)h(ortis) / I ur(banae) pius vix/it annis XXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00461         EDCS-ID: EDCS-10300897
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Faustina T(iti) / Imp(eratoris) serva Cre/scentis con/serva v(ixit) a(nnos) XX/VII h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  servi/servae;  tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00462         EDCS-ID: EDCS-10300898
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[Dis Manibus] / sacrum / Cn(aeus) Iulius Sa/turus Forti/cianus struc/[to]r cum suis / [3]FV[
+inscription genus / personal status: officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00463,1 = BCTH-1915-201         EDCS-ID: EDCS-10300899
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Edinia Fl[1]/ta vixit an(nos) / XXVIIII m(enses) X / [h(ic)] s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00463,2 = BCTH-1912-372         EDCS-ID: EDCS-10300900
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Caecilia / Tertia vix(it) / annis LXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00463,3 = BCTH-1915-202         EDCS-ID: EDCS-10300901
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Honora/tus p(ius) v(ixit) a(nnos) / LIII
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00463,4 = BCTH-1912-371         EDCS-ID: EDCS-10300902
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / Kurgliu[3] / Fortun[3] / [3] vix[it
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00463,5 = BCTH-1915-188         EDCS-ID: EDCS-10300903
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) / P(ublius) Marcius / Victo{o}r / Hermetia/nus pius
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00463,6 = BCTH-1912-371         EDCS-ID: EDCS-10300904
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+D(is) M(anibus) s(acrum) Na/mphame p/ia vixit an/nis XXX
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00463,7 = BCTH-1915-207         EDCS-ID: EDCS-10300905
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+[Dis] Ma/nibus / L(ucius) Tenati/us Pud/e(n)s p(ius) v(ixit) an(nos) / LVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 01250,1         EDCS-ID: EDCS-08601298
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+M(arcus) Caecilius Felix
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 01250,2         EDCS-ID: EDCS-08601299
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Evagogus
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 01252         EDCS-ID: EDCS-08601302
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Sabbatolus et Iubentinus
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: RICIS-02, 00703/0401 = AE 2005, 01690 
+dating: 131 to 170         EDCS-ID: EDCS-34000171
+province: Africa proconsularis         place: Hammam Darradji / Hammam Derradji / Bulla Regia
+Isidi Aug(ustae) sac(rum) / P(ublius) Aelius Priva/tus et Cocceia / Bassa uxor eius / aram ex vot(o) / liben(te)s animo / posuer(unt) et / ded(icaverunt)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis

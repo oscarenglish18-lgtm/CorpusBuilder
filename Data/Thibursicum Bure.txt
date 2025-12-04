@@ -1,0 +1,1152 @@
+publication: AE 1968, 00611          EDCS-ID: EDCS-09701769
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Papius / Rogatianu/s pius vixit / an(n)is XXVI / h(ic) s(itus) e(st) // Fagargi / fecerunt s/odali suo / carissimo
+inscription genus / personal status: sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2013, 02101          EDCS-ID: EDCS-69200533
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Q(uintus) Aproni/us Maxu/tius vixit / an(n)is LXXXII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+
+publication: AE 2013, 02102          EDCS-ID: EDCS-69200534
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Cepia Ma/rgarita / vixit an(n)/is LXXI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+
+publication: AE 2013, 02103          EDCS-ID: EDCS-69200535
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Iulia / vixit an(n)/is XXXII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: AE 2013, 02104          EDCS-ID: EDCS-69200536
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+M(arcus) Aninius / M(arci) f(ilius) Hono/ratus pius / vixit an(nos) / IV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+
+publication: AE 2013, 02105          EDCS-ID: EDCS-69200537
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Spili/us N/apamo / vixit [3]II
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+
+publication: BCTH-1921-CCLVI         EDCS-ID: EDCS-46300028
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / Cae[3] / Vict[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 01440 (p 2577)         EDCS-ID: EDCS-17900351
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Q(uinto) Urvino Crescenti Liviano / equestri dignitate exornato / nobili viro piissimo adolescenti / qui cum suis carus parentibus / [
+inscription genus / personal status: ordo equester;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01451         EDCS-ID: EDCS-17900362
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Abidius / Faustus / Lucilianus / pius vixit / annis XX / dies XX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01452 (p 1473)          EDCS-ID: EDCS-17900363
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Fabius Faus/tinus pius / vixit annis / LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01453 = CIL 08, 15257 = ILTun-01, 01333         EDCS-ID: EDCS-17900364
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Zibuc[is(?) f(ilius?)] / Fortuna/tus p(ius) v(ixit) a(nnos) XXX / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 01454         EDCS-ID: EDCS-17900365
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Herculeius / Abidianus / p(ius) v(ixit) a(nnos) XII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01455 (p 1473)          EDCS-ID: EDCS-17900366
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Hercu/leius Ia/nuari/us p(ius) vix(it) / an(nos) LXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01456 (p 2577)         EDCS-ID: EDCS-17900367
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) / M(arcus) Hercu/leius Ianua/rius / p(ius) v(ixit) a(nnos) LV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01457         EDCS-ID: EDCS-17900368
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Hercule/ius Vic[t]or / pius v(ixit) a(nnos) / XIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01458 (p 2577)         EDCS-ID: EDCS-17900369
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Herculeia / Marciana / pia / v(ixit) a(nnos) XII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 01459         EDCS-ID: EDCS-17900370
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Q(uintus) Heredius / Fortuna/tus p(ius) v(ixit) a(nnos) / LXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01460 (p 2577)         EDCS-ID: EDCS-17900371
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Magni/us Felix / pius vixit / annis LXXXV / h(ic) s(itus) e(st)/ s(it) t(ibi) t(erra) l(evis)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01461         EDCS-ID: EDCS-17900372
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / F() Mellus / Ausumiilus(!) / pius vixit / annis LV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01462         EDCS-ID: EDCS-17900373
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Otacilia Su/ra p(ia) v(ixit) an(nos) LXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 01464 (p 938) = CIL 08, 01538         EDCS-ID: EDCS-17900375
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / M(arcus) Sallus/tius Celer / p(ius) v(ixit) a(nnos) XLVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01466         EDCS-ID: EDCS-17900377
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Severina M(arci) f(ilia) / vixit annis XX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  praenomen et nomen;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 01467         EDCS-ID: EDCS-17900378
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Ticcienia / Galla p(ia) v(ixit) / annis / LXXIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 01468 (p 1473)          EDCS-ID: EDCS-17900379
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Turrania / Ianuaria / p(ia) v(ixit) a(nnos) / LXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 01469         EDCS-ID: EDCS-17900380
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Valerius / Valens / p(ius) v(ixit) a(nnos) LXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15273         EDCS-ID: EDCS-25900315
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Q(uintus) Abboni/us Iunia/nus p(ius) v(ixit) a(nnos) / XX h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15274 (p 2577)         EDCS-ID: EDCS-25900316
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Abi(dia) Hono/rata pi(a) v/ix(it) an(nos) LXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15275 (p 2577)         EDCS-ID: EDCS-25900317
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / S(extus) Abian/ius Ba/liaho/n an(norum) / LXXXI // D(is) M(anibus) s(acrum) / Sabia / Salita vi(xit) an(nos) / LXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15276 (p 2577)         EDCS-ID: EDCS-25900318
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Abia(n)/ius Priv/atus an/nis vixit / LXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15277 (p 2577)         EDCS-ID: EDCS-25900319
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) // Iar<t=I>is / p(ius) v(ixit) a(nnos) / III // (A)elius P(ubli) / filius / p(ius) v(ixit) a(nnos) XX/V
+inscription genus / personal status: nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15278         EDCS-ID: EDCS-25900320
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Aemilia / Fortuna/ta p(ia) v(ixit) a(nnos) [3]/XXXXV[3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15279 (p 2577)         EDCS-ID: EDCS-25900321
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Emilia [3 f(ilia)] / Secun[da] / LXX[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15280 (p 2577)         EDCS-ID: EDCS-25900322
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Agria In/genua / p(ia) v(ixit) a(nnos) LXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15281 (p 2577)         EDCS-ID: EDCS-25900323
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Apronius / Carus p(ius) v(ixit) / annis XL / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15282 (p 2577)          EDCS-ID: EDCS-25900324
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Apronius / Carus pius v(ixit) / XXXII annis / d(iebus) XXVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15283 (p 2577)         EDCS-ID: EDCS-25900325
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Au<g=C>enda / pia vix(it) an/ni(s) XXXI
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15284 (p 2577)         EDCS-ID: EDCS-25900326
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Q(uintus) C(aecilius) F(elix) pi/us vixit / an(nos) LXXI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15285 (p 2577)         EDCS-ID: EDCS-25900327
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aecilia) Secu/ra vix/it pia XXX / h(ic) e(st) s(ita) / N()
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15286         EDCS-ID: EDCS-25900328
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Fortunata / Caecilia pia / v(ixit) an(nos) CX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15287 (p 2577, 2617) = CIL 08, 15537 = ILTun-01, 01338         EDCS-ID: EDCS-25900329
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Cassia Ianu/aria pia vix(it) / annis LXXV / h(ic) s(ita) e(st) / o(ssa) b(ene) q(uiescant) s(it) t(erra) t(ibi) l(evis)
+inscription genus / personal status: mulieres;  tituli operum;  tituli possessionis;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15288 (p 2577)         EDCS-ID: EDCS-25900330
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Cas[t]ul/a vix{s}it / annis XXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15289 (p 2577)         EDCS-ID: EDCS-25900331
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Clod/ia Vic/toria / p(ia) v(ixit) [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15290 (p 2577)         EDCS-ID: EDCS-25900332
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Cordulus / p(ius) v(ixit) an(nos) VIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15291 (p 2577)         EDCS-ID: EDCS-25900333
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Cornifici/us Dacho/ntius v(ixit) an(nos) / III h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15292 (p 2577)         EDCS-ID: EDCS-25900334
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]IBVI[3]/us Datus / pius vixit / annis LXXX/III / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15293 (p 2577)         EDCS-ID: EDCS-25900335
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Fau]stin[a] / [pi]a vixit / [a]nnis / LXXV / h(ic) s(ita)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15294 (p 2577)         EDCS-ID: EDCS-25900336
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]/naciu[s] / Fortun/atus / vix(it) LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15295 (p 2577)         EDCS-ID: EDCS-25900337
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Fortun/ata pia / vix(it) an(n)is / LVIII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15297         EDCS-ID: EDCS-25900339
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+<G=C>abinia / C(ai) f(ilia) Fortu/nata pi[a] / v(ixit) a(nnos) LX[3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15298 (p 2577)         EDCS-ID: EDCS-25900340
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Carcilia / Nampam(e) / vix(it) LXXXVI
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15299 (p 2577)         EDCS-ID: EDCS-25900341
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Carcili/a Quart/a p(ia) v(ixit) a(nnos) / LXXXX / h(ic) s(ita) <e=P>(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15300 (p 2577)         EDCS-ID: EDCS-25900342
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Hafu(?) / vix(it) an(n)i/s VIII
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15301 (p 2577)         EDCS-ID: EDCS-25900343
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Her<e=I>n(n)io V/ictor(i) pius / vix(it) an(n)is / LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15303 (p 2577)         EDCS-ID: EDCS-25900344
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Honor/ata pi/a vixi/t an(nos) LX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15304 (p 2577)         EDCS-ID: EDCS-25900345
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Ialaud/a Nam/goddi/na p(ia) v(ixit) a(nnos) / LXXXIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15305 (p 2577)         EDCS-ID: EDCS-25900346
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Luci Iuli / Cassi vixi/t annis LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15306 (p 2577)         EDCS-ID: EDCS-25900347
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Iulia / Dorchas / p(ia) v(ixit) a(nnos) LXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15308 (p 2577)         EDCS-ID: EDCS-25900348
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Iulia Vic/toria vi/xit annis / LXXV h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15309 (2577)         EDCS-ID: EDCS-25900349
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Iulia / Victori/a Secun/dina / v(i)x(it) (!) XXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15310 (p 2577)         EDCS-ID: EDCS-25900350
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Salvius / p(ius) v(ixit) a(nnos) LXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15311 (p 2577)         EDCS-ID: EDCS-25900351
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Licinia / Silvana / p(ia) v(ixit) a(nnos) LXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15312         EDCS-ID: EDCS-25900352
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / L(ucius) Urv[inius] / L(uci) Urv[ini f(ilius?)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15313 (p 2577)         EDCS-ID: EDCS-25900353
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Manili/a Faustin/a pia vix(it) / an(nos) XXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15314 = CIL 08, 26044         EDCS-ID: EDCS-25501564
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Manil[i]a S[p(uri)] / fil(ia) Hospi[t]a / pia vixit / annis LV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15315 = ILTun-01, 01340         EDCS-ID: EDCS-25900354
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Marius / [3] v(ixit) a(nnos) LXXXX / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15316         EDCS-ID: EDCS-25900355
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / Memmius / Sal[vi]us / p(ius) v(ixit) a(nnos) LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15318 (p 2577)         EDCS-ID: EDCS-25900357
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Octavius / Castus / p(ius) v(ixit) a(nnos) XXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15319 (p 2577)         EDCS-ID: EDCS-25900358
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Aelia / Prima / p(ia) v(ixit) a(nnos) LXV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / C(aius) Octavius / Castus / p(ius) v(ixit) a(nnos) LXV / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15320 (2577)         EDCS-ID: EDCS-25900359
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Octavi/us Ianuari/us p(ius) vi(xit) an(nos) / LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15321 (p 2577)         EDCS-ID: EDCS-25900360
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Octavius / Libosus / p(ius) v(ixit) a(nnos) LXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15322 (p 2577)         EDCS-ID: EDCS-25900361
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Octavius / Maximus / Felix pius / vixit an/nis III / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15323 (p 2577)         EDCS-ID: EDCS-25900362
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Octavia / Maxima / p(ia) v(ixit) a(nnos) XVIIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15327 = ILTun-01, 01341          EDCS-ID: EDCS-25900364
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Passenus / Restutus / p(ius) v(ixit) ann(os) LVI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15328 (p 2577)         EDCS-ID: EDCS-25900365
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) [M(anibus) s(acrum)] / Pri[3] / Q(uinti?) Chain[3] / p(ius?) v(ixit) [3] / h(ic) [s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15329 (p 2577)         EDCS-ID: EDCS-25900366
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Primasus / vixit an(n)is / III h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15330 (p 2577)         EDCS-ID: EDCS-25900367
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Restuta pia / vixit / annis LX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15331 = ILTun-01, 01342          EDCS-ID: EDCS-25900368
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Romanus / Zibucis pius / vixit annis / LXXXV h(ic) s(itus) / e(s)t t(erra) t(ibi) l(evis) s(it) o(ssa) t(ibi) b(ene) / q(uiescant)
+inscription genus / personal status: mulieres;  tituli operum;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15332 = CIL 08, 26073          EDCS-ID: EDCS-25501593
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [S]abullica / pia vixit / annis / BD[3] LXXXX
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15335 (p 2577)         EDCS-ID: EDCS-25900369
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Seius / Buresis / p(ius) v(ixit) a(nnos) LXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15336 (p 2577) = ILTun-01, 01344          EDCS-ID: EDCS-25900370
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [3] Septimia<n=I>/a p(ia) v(ixit) men(ses) VI / dies XV
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15337 (p 2577)         EDCS-ID: EDCS-25900371
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Ser]/vatus [v(ixit)] / a(nnos) XXV h(ic) s(itus) [e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15338 (p 2577)         EDCS-ID: EDCS-25900372
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Suc(c)es(s)/us vixit / an(nos) VI me(nses) / III di(es) XXIII
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15339 (p 2577)          EDCS-ID: EDCS-25900373
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Tamnifia / Victoria / p(ia) v(ixit) a(nnos) XIIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15340 (p 2577)         EDCS-ID: EDCS-25900374
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Triump(h)a<l=I>is / pius / vix{s}it / a(nnos) LXXI
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15341 (p 2577) = AE 1979, 00662 = AntAfr-13-1979-229          EDCS-ID: EDCS-25900375
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Tere(n)tia / Fortunata / pia vixit / an/nis XLI t(ibi) t(erra) / l(evis) s(it)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15342 (p 2577)         EDCS-ID: EDCS-25900376
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / Venusta / v(ixit) a(nnos) III
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15343 (p 2577)         EDCS-ID: EDCS-25900377
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Vibius / F<e=II>lix pi/us vixit an/n(os) XVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15344 (p 2577)         EDCS-ID: EDCS-25900378
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Vibius / Ingen/<u=N>us vix(it) / an(n)is LII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15345 (p 2577)         EDCS-ID: EDCS-25900379
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Vibius / Mustulus / p(ius) v(ixit) an(nos) LLXXX/V
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15346 (p 2577)         EDCS-ID: EDCS-25900380
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Vibi(us) / Nam(p)h(a)m/o VMVVVITA / caus<a=E> vi(xit) / a(nnos) XXXVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15347 (p 2577)         EDCS-ID: EDCS-25900381
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Vibiu/s Procu/lus p(ius) v(ixit) a(nnos) / LXXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15348 (p 2577)         EDCS-ID: EDCS-25900382
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Vibia Ia/nuaria / p(ia) v(ixit) a(nnos) XV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15349 ( p 2577)         EDCS-ID: EDCS-25900383
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Vibia / Ingenua / p(ia) v(ixit) a(nnos) LXXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15350 (p 2577)         EDCS-ID: EDCS-25900384
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Vic]/toria [v(ixit) a(nnos)] / XXXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15351 (p 2577)         EDCS-ID: EDCS-25900385
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Vibia / Procula / Fortuna / v(ixit) a(nnos) XXVII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15354         EDCS-ID: EDCS-25900386
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Vi[3]IO / Pricis / p(ius) v(ixit) an(nos) / LXXX / h(ic) e(st) s(itus)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15355         EDCS-ID: EDCS-25900387
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]/mina / p(ia) v(ixit) an(nos) / II h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15356 (p 2577)         EDCS-ID: EDCS-25900388
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]naris / [3 v(ixit)] a(nnos) LXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15359 (p 2577)         EDCS-ID: EDCS-25900391
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+] XX/X h(ic) s(itus?) e(st) / s(it) t(erra) t(ibi) [l(evis)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26002         EDCS-ID: EDCS-25501521
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Abdilia / Elia / p(ia) v(ixit) a(nnos) LX / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Abdilius / Marcia/nus p(ius) v(ixit) / LXXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26002a         EDCS-ID: EDCS-25501522
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Abidia Sa/turnina / p(ia) v(ixit) a(nnos) / XXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26003         EDCS-ID: EDCS-25501523
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Edinius / (H)onoratu/s v(ixit) a(nnos) XXXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26003a         EDCS-ID: EDCS-25501524
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / M(arcus) (A)emiliu/s Fortis / p(ius) vix(it) a(nnos) XXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26004         EDCS-ID: EDCS-25501525
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Ambitiosa / pia vixit / anni[s] XII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26005 = ILTun-01, 01346         EDCS-ID: EDCS-25501526
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Amm[a] / Hann[i] / VC[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26006         EDCS-ID: EDCS-25501527
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Antoni/a Vict/oria pia vi/xit anni/s XII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26008         EDCS-ID: EDCS-25501529
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Cecilius / Corona/rius v(ixit) a(nnos) / XVIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26009         EDCS-ID: EDCS-25501530
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Caecilia / Fortuna/ta pia vixit / annis LXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26010         EDCS-ID: EDCS-25501531
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Caecilia / Victoria / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26011         EDCS-ID: EDCS-25501532
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Caecilia V/enusta p(i)a / v(ixit) an(nos) XXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26012         EDCS-ID: EDCS-25501533
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Caf() Lep[3] / Ian[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26013         EDCS-ID: EDCS-25501534
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [3]calla / [3]I Na/[3]uceius / [piu]s vixit / [an(nos)] XXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26014         EDCS-ID: EDCS-25501535
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Cam[1]/a Must/ula vix(it) / an(nos) XXXI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26015         EDCS-ID: EDCS-25501536
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Candid/a p(ia) v(ixit) a(nnos) / LXXV
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26016         EDCS-ID: EDCS-25501537
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Casta / p(ia) v(ixit) a(nnos) / VIIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26017         EDCS-ID: EDCS-25501538
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+[D(is) M(anibus)] s(acrum) / Clodiu[s] / Rog[ati]/anu[s vix(it)] / a(nnos) X
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26018         EDCS-ID: EDCS-25501539
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Clodia / Burrita/na p(ia) v(ixit) / annis / XXV h(ic) / s(ita) e(st) t(erra) t(ibi) l(evis) s(it)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26019         EDCS-ID: EDCS-25501540
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Corneli/us Mustas / p(ius) v(ixit) a(nnos) XXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26020         EDCS-ID: EDCS-25501541
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+[D(is)] M(anibus) s(acrum) / [Co]rnelia / Galla L(uci) Satri / pia vixit ann(os) / XXXX h(ic) s(ita) e(st) s(it) t(ibi) t(erra) l(evis)
+inscription genus / personal status: mulieres;  praenomen et nomen;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26021         EDCS-ID: EDCS-25501542
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Egnati/a Augus/tiana / p(ia) v(ixit) a(nnos) LXXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26022         EDCS-ID: EDCS-25501543
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / F<l=E>avia / Felicitas / p(ia) v(ixit) a(nnos) V
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26023 = CIL 08, 26024          EDCS-ID: EDCS-25501544
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Fortuna/[t]us [p]ius vix(it) / annis LV / HESEM pi/us <v=F>i<c=X>i(t) ann(os) / AVXC
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26025         EDCS-ID: EDCS-25501545
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / G(aius!) Gemini[us] / Rogatia[nus] / p(ius) v(ixit) a(nnos) X[3] / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26026         EDCS-ID: EDCS-25501546
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Granius / fil(ius) Felix / p(ius) v(ixit) a(nnos) XXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26027         EDCS-ID: EDCS-25501547
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Grilia / p(ia) vi(xit) an(nos) / [3]XXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26028         EDCS-ID: EDCS-25501548
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Ateriana / [3]AMIN / AP[3]XV
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26029         EDCS-ID: EDCS-25501549
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Her[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26030         EDCS-ID: EDCS-25501550
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / M(arcus) Hercul/ius Ianuari/us pius vixit / annis XLV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26031         EDCS-ID: EDCS-25501551
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Herculeia / Marci[3]/na pia / v(ixit) a(nnos) XII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26032         EDCS-ID: EDCS-25501552
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Heredius / Felix p(ius) v(ixit) a(nnos) / LXI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26033         EDCS-ID: EDCS-25501553
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [3]edia / an(nos?) / [
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26034         EDCS-ID: EDCS-25501554
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / I[3] / XIII[3] / I[3] / I[3] / I[3] / LV[3] / h(ic) s(itus?) e(st) // D(is) M(anibus) s(acrum) / Q(uintus) Ialu/[1]nius / PI[3] / IV[3] / LVI[3] / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26035         EDCS-ID: EDCS-25501555
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Imbeutus / Primus pi/us v(ixit) a(nnos) LXXXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26036         EDCS-ID: EDCS-25501556
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Inbe/uta Pri/ma vi/xit an/n(os) LXXXX / h(ic) e(st) s(ita) // D(is) M(anibus) s(acrum) / Inbeu/tus Vi/ctor / vixit / ann(os) / LXXXIII / h(ic) e(st) s(itus)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26037         EDCS-ID: EDCS-25501557
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Iuliana
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26038         EDCS-ID: EDCS-25501558
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / M(arcus) Iulius / Calendio / pius vixit / ann(os) [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26039         EDCS-ID: EDCS-25501559
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / D(ecimus) Iunius / Gremin/tius PO[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26040 = ILTun-01, 01347         EDCS-ID: EDCS-25501560
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Lampa[da]/ria Satur/nina v(ixit) [a(nnos) 3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26042         EDCS-ID: EDCS-25501562
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Luria / Secunda / p(ia) v(ixit) a(nnos) CI
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26043         EDCS-ID: EDCS-25501563
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Magnius / Donatus / Felicis fil(ius) / p(ius) v(ixit) a(nnos) XXII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26046         EDCS-ID: EDCS-25501566
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Marius Ro/gatulus p(ius) v(ixit) / a(nnos) CXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26047         EDCS-ID: EDCS-25501567
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]ilasia / Maxima / [pi]a [vix(it) an(nos)] / LXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26048 = AntAfr-1981-184,38         EDCS-ID: EDCS-25501568
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / G(aius!) Naici/us Afri/cus p(ius) v(ixit) / a(nnos) LXV / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Papia / Briuna / p(ia) v(ixit) a(nnos) LXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26049 = ILTun-01, 01348          EDCS-ID: EDCS-25501569
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / NIVIA C[a]s[ta(?)] / vixit annis / centu[m]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 26050         EDCS-ID: EDCS-25501570
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Nivata / Rogati Met/uni f(ilia) p(ia) v(ixit) a(nnos) XXI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26051         EDCS-ID: EDCS-25501571
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Numisi / Q(uinti) f(ilii) Eroti
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26052         EDCS-ID: EDCS-25501572
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [1]OCT[3] / S[3]T[3] / P[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26053         EDCS-ID: EDCS-25501573
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Orbia / CR[3]I / [6] / XXXII / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Q(uintus) Clodi/us For/tuna/tus p(ius) v(ixit) a(nnos) / LIII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26054         EDCS-ID: EDCS-25501574
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / M(arcus) Pa[3] / [3]GER / p(ius) v(ixit) a(nnos) V[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26055         EDCS-ID: EDCS-25501575
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Pala[3]/tor [3] / vix[it an]/nis [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26056 = ILTun-01, 01349         EDCS-ID: EDCS-25501576
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / A(ulus) Papir[i]/us Mus[tus] / p(ius) v(ixit) a(nnos) I[3] / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26057         EDCS-ID: EDCS-25501577
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+L(ucius) Pas[s(i)enus(?)] / Felic[ianus p(ius) v(ixit)] / a(nnos) LXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26058         EDCS-ID: EDCS-25501578
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+] / Peregri/na pia / vixit / annis / LXIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26059         EDCS-ID: EDCS-25501579
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Propertia / [
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26060         EDCS-ID: EDCS-25501580
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Punis[3] / [3]A[3] / VL[3 an]/nis XVII / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26061         EDCS-ID: EDCS-25501581
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Rogata / FIILICI / vi{c}(xit) / LXV / (h)ic s(ita) // D(is) M(anibus) s(acrum) / Rogat() F / DOM II / vix(it) / LXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26062         EDCS-ID: EDCS-25501582
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Roga/ta Kapr/ioli fili/a v(ixit) a(nnos) LXXX
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26063         EDCS-ID: EDCS-25501583
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Saprius / Castus [pi]/us vixit a[n]/nis LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26064         EDCS-ID: EDCS-25501584
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Satrius / Saturnini / f(ilius) p(ius) v(ixit) a(nnos) XXXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26065         EDCS-ID: EDCS-25501585
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+] / Secunda [3]/nes f(ilia?) pia vixit / an(nos) LVI h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26066         EDCS-ID: EDCS-25501586
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Sedius / Propertius / Arabianus / pius felix / vix(it) ann(os) / XV m(ensem) I d(ies) X / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26067         EDCS-ID: EDCS-25501587
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / SP[3]O / M[3]osa / pia / [v(ixit) a(nnos) 3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26068         EDCS-ID: EDCS-25501588
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / T(itus) Anno/nius Tito/r p(ius) v(ixit) a(nnos) LI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26069         EDCS-ID: EDCS-25501589
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Valerius Babi/lo mi(hi) vivo feci
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26070         EDCS-ID: EDCS-25501590
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Valeri/us Hono/ratus / p(ius) v(ixit) XI // D(is) M(anibus) s(acrum) / Iulia / Severa / [3]III / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26071         EDCS-ID: EDCS-25501591
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Volum/nius Ho/noratus / p(ater) f(lamen) p(erpetuus) p(ius) vixit / an(n)is LXXI / h(ic) s(itus) <e=F>(st) // D(is) M(anibus) s(acrum) / Iulia Ca/ndida / f(laminica) p(erpetua) p(ia) vixit / annis / LXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26072         EDCS-ID: EDCS-25501592
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Zabuc/ius Te/rentius / vix(it) an(num) I
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 26074         EDCS-ID: EDCS-25501594
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / [Z]abullus / OS[3]IS V / [3] an(n)is
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26075 = ILTun-01, 01350          EDCS-ID: EDCS-25501595
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Zucu[3] / pius vix(it) / tr(ien)niu(m)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26077         EDCS-ID: EDCS-25501597
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Brefya / p(ia) v(ixit) a(nnos) LXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26078         EDCS-ID: EDCS-25501598
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+] / Cana[3] / fil(ia) pia [vix(it)] / an(nos) LII h(ic) [s(ita) e(st)] / [o(ssa) t(ibi)] b(ene) q(uiescant) [
+inscription genus / personal status: mulieres;  tituli operum;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26079         EDCS-ID: EDCS-25501599
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [1]CE[3] / [1]A[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26080         EDCS-ID: EDCS-25501600
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+] / CIV / pia vix(it) an(nos) XIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26081         EDCS-ID: EDCS-25501601
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) [s(acrum)] / [1]GADIV / [pi]us vixit / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26082         EDCS-ID: EDCS-25501602
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Lad[3] / LV[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26083         EDCS-ID: EDCS-25501603
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]/lio pi[u]/s vix[it an]/nis LX[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26084         EDCS-ID: EDCS-25501604
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Ma[3]us / PE FEX / [3]VI / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26085         EDCS-ID: EDCS-25501605
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / M[3]P[3]TV / A[3]VI / [h(ic) s(itus?)] e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26087         EDCS-ID: EDCS-25501607
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Spencus / pius [3] / DIXI[3] / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26088 = CIL 08, 26089         EDCS-ID: EDCS-25501608
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / [3]VAGO / RVA[3]I / [3] piu[s] / [v(ixit)] a(nnos) [3] / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26090         EDCS-ID: EDCS-25501609
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]ICI[3] / [3]VICVSI[3] / [3]I d(ies) XIIII[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 26091         EDCS-ID: EDCS-25501610
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+]V[3] / [3]ius V[3] / [3] vi<x=CS>it [3] / [3] LXXXI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 26092         EDCS-ID: EDCS-25501611
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+ICO / MVSI(?) / annis LV
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00507,01 = BCTH-1921-CCLIII         EDCS-ID: EDCS-46300019
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Amma/hanius / Privatus / vixit an/nis octo/ginta du/os h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00507,02 = BCTH-1921-CCLIII         EDCS-ID: EDCS-46300020
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / C(aius) Annius / Mellitus / p(ius) v(ixit) a(nnos) / LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00507,03 = BCTH-1921-CCLIV         EDCS-ID: EDCS-46300021
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Atiolena / Felicitas / p(ia) v(ixit) a(nnos) LXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00507,05 = BCTH-1921-CCLV          EDCS-ID: EDCS-46300025
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+Clod[ius] / Hospitalis / pius vix(it) / an(n)is LXXXXV / h(ic) s(itus) e(st) t(erra) l(evis) s(it)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00507,06 = BCTH-1921-CCLIV         EDCS-ID: EDCS-46300022
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Gaius Clodi/us Lucilian/us pius vix/it annis / plus m(inus) LXXXX/III
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00507,07 = BCTH-1921-CCLV         EDCS-ID: EDCS-46300023
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Flavius Ro/manianus / pius vixit / annis XVIII / mensib(us) VI d(iebus) XVIII / h(ic) s(itus) e(st) o(ssa) t(ibi) b(ene) q(uiescant)
+inscription genus / personal status: tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00507,08 = BCTH-1921-CCLV         EDCS-ID: EDCS-46300024
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Fortunata / [
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00507,09 = BCTH-1921-CCLVI         EDCS-ID: EDCS-46300026
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+L(ucius) Sedius Firmus / pius vix(it) an(nos) LXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00507,10 = BCTH-1921-CCLVI         EDCS-ID: EDCS-46300027
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / Ulpi/us Vi/ctor / vixit / an[nos // D(is) M(anibus) s(acrum) / Armi/nia / Prim[a] / v[ixit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 01353 = BCTH-1932/33-78         EDCS-ID: EDCS-08601325
+province: Africa proconsularis         place: Teboursouk / Tabursuq / Thibursicum Bure
+D(is) M(anibus) s(acrum) / L(ucius) Nonius / Felix / p(ius) v(ixit) a(nnos) LXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis

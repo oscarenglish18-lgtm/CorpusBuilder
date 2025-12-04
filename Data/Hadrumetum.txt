@@ -1,0 +1,2691 @@
+publication: AE 2019, 01876 = ILMS 00087
+dating: 151 to 300         EDCS-ID: EDCS-79600064
+province: Africa proconsularis         place: Mhadhba / Hadrumetum
+D(is) M(anibus) / L(ucius) A[pp]ius(?) Do/natus Do/nati f(ilius) Nigri/nianus vi/xit annis / XXXXXIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1903, 00118 = Brunet-2022, 00565          EDCS-ID: EDCS-16700257
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Ulnerika(?) vixit / an(n)os LXX hoc nep/otes fecerunt
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: AE 1968, 00617 = AE 2019, 01849 = ILMS 00025          EDCS-ID: EDCS-09701775
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / AV[3] / Isidor() f[3]
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: AE 1968, 00621 = ILMS 00014 
+dating: 151 to 300         EDCS-ID: EDCS-09701779
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Man(ibus) sacr(um) / M(arcus) Caelius Satur/ninus pius vix(it) / annis XVIIII / h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1968, 00622 = ILMS 00015          EDCS-ID: EDCS-09701780
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]VI[3] / Fortunatus / [3]imae / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 1968, 00623          EDCS-ID: EDCS-09701781
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) [M(anibus) s(acrum)] / L(ucius) Liciniu[s vi]/xit ann(os) XX / Faustus pat(er) / fecit
+inscription genus / personal status: nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 1968, 00624 = AE 2019, 018444c = ILMS 00019 
+dating: 151 to 300         EDCS-ID: EDCS-09701782
+province: Africa proconsularis         place: Sousse / Hadrumetum
+M(arcus) Seius Ianua[rius] / vix(it) ann(os) V[3] / Seius Ianuariu[s 3]/mia Fortunata / filio piissi[mo]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1968, 00625 = ILMS 00020 
+dating: 151 to 300         EDCS-ID: EDCS-09701783
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s Manibus / sacrum / P(ublius) Sextilius Libycus / h(ic) s(itus) vix(it) p(ius) ann(os) V
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1968, 00627          EDCS-ID: EDCS-09701785
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]IR[3] / Aemilia [3]/la mat[er
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: AE 2018, 01901
+dating: 161 to 250         EDCS-ID: EDCS-81300117
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) / Pompeiae Zois / M(arcus) Aur(elius) Aug(usti) lib(ertus) Ap<hr=RH>odisiu[s] / coniugi karissimae
+inscription genus / personal status: liberti/libertae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01844b = ILMS 00017
+dating: 1 to 150         EDCS-ID: EDCS-79600052
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) [M(anibus) s(acrum)] / L(ucius) Licini[us vi]/xit ann(os) XX / Faustus pat(er) filio
+inscription genus / personal status: nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01845 = ILMS 00006
+dating: 151 to 300         EDCS-ID: EDCS-79600050
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Rutilio Primitivo ar<c=K>(ario) / naviculariorum Suff() / amici fecerunt // Pomponiae Crescentiae coniugi [3] / matri karissimae / P(ublius) Turpilius Victor maritus et Tu[r]/pilia Victoria filia fecerunt
+inscription genus / personal status: mulieres;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01846 = ILMS 00013
+dating: 151 to 300         EDCS-ID: EDCS-79600051
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Aemilia Bonif[a]/tia karissima fe/mina incomparab(ilis) / vix(it) annis XXII m(ensibus) II / dieb(us) XV Severianus / maritus merenti fec(it)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01847 = ILMS 00022          EDCS-ID: EDCS-79600053
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Di]s Manib(us) / [3]unda Aug(usti) / [ver]na v(ixit) m(enses) VIII / [ // ]AGIN[
+inscription genus / personal status: mulieres;  servi/servae;  tituli sepulcrales
+material: lapis
+
+publication: AE 2019, 01848 = ILMS 00023          EDCS-ID: EDCS-79600055
+province: Africa proconsularis         place: Sousse / Hadrumetum
+a]nnis LX / [3] maritus / [3 con]iugi
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01856 = ILMS 00046          EDCS-ID: EDCS-79600058
+province: Africa proconsularis         place: Sousse / Hadrumetum
+M(arcus) [3]vius f(ecit)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01858 = ILMS 00098          EDCS-ID: EDCS-79600066
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[D(is)] M(anibus) / [3]ennius Op/[3]s vix(it) / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01859 = ILMS 00099          EDCS-ID: EDCS-79600067
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) / sacr[um] / Epaenis [3] / v(ixit) p(ia) Cas[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: AE 2019, 01860 = ILMS 00100
+dating: 151 to 300         EDCS-ID: EDCS-79600068
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3 F]ortunatus / [Ca]psensis / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01861 = ILMS 00101
+dating: 151 to 300         EDCS-ID: EDCS-79600069
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus sacrum / M(arcus) Iulius Celerio / vixit annis XXVII mens(ibus) / XI diebus XVI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01862 = ILMS 00102
+dating: 151 to 300         EDCS-ID: EDCS-79600070
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis [Man(ibus) sac(rum?)] / M(arcus) Iu[3] / h(ic) s(itus) e(st) v(ixit) a[nnos] / LXX[3]
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01863 = ILMS 00103
+dating: 1 to 150         EDCS-ID: EDCS-79600071
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marius / Maximus / v(ixit) an(nos) LXXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01864 = ILMS 00104
+dating: 1 to 150         EDCS-ID: EDCS-79600072
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3] Natesius / p(ius) vixit an(no)s m(enses) / LXXXXXXVI(!)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01865 = ILMS 00105          EDCS-ID: EDCS-79600073
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / Urbanu[s 3]/cae vixi[t annos(?)] / CXIII
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01866 = ILMS 00106
+dating: 151 to 300         EDCS-ID: EDCS-79600074
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[D]i{i}s Man[ibus] / [3]dia T(ita) f(ilia) [3]ito / [3]sim[3]V / [3]us c[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 2019, 01867 = ILMS 00107          EDCS-ID: EDCS-79600075
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / LAS a(n)/nis LXII h(ic) s(itus?) e(st) / II Sitius Secundus / f(ilius) eius / CIT ITI LO
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2019, 01875 = ILMS 00096          EDCS-ID: EDCS-79600065
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]s / [3] vix(it) ann(os) XIV
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+comment: imago mulieris
+
+publication: BCTH-1889-115         EDCS-ID: EDCS-41100008
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus sacris(!) Secundus [3]/anis vixit an(n)is [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1938/40-695          EDCS-ID: EDCS-60500108
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Sorica in pace vixit / annis XL pl(us) m(inus) / Euticius in pace vixit / annis L pl(us) m(inus) die Idus Maias
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: BCTH-1938/40-696         EDCS-ID: EDCS-60500109
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Cr(e)sc[ens] / in pa[ce]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1938/40-697         EDCS-ID: EDCS-60500110
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Tzal[3] / in pa[ce] / vixi[t an]/nis X[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1938/40-698         EDCS-ID: EDCS-60500111
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] in pace vi/[xit 3] p(lus) m(inus) / [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1938/40-700         EDCS-ID: EDCS-60500112
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ingenua [in pace(?)] / vi[x]it annis [3] / [3] ex{s}ivit d(ie) [3] / [No]nas No<v=B>em[b(res)]
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1938/40-701          EDCS-ID: EDCS-60500113
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Renata in pace / vixit annu(m) unu(m) / menses duo dies / XVIII reddidit die / Kal(endis) No<v=B>embri(bu)s /
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: BCTH-1938/40-704         EDCS-ID: EDCS-60500114
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Erac[3] / in pa[ce vixit] / ann[os
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1938/40-704         EDCS-ID: EDCS-60500115
+province: Africa proconsularis         place: Sousse / Hadrumetum
+i]n pace / [3]ED / [3]ER / [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1938/40-705         EDCS-ID: EDCS-60500116
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] in p[ace 3] / [3]V[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1938/40-706         EDCS-ID: EDCS-60500117
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Nemodella in pace / vixit annis XXV p(lus) m(inus) req/uievit die XV Kal(endas) Decemb(res)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1943/45-301         EDCS-ID: EDCS-46900331
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Geminius fidelis in pace vi/xit an(n)is plus minus XXII[3]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1943/45-302         EDCS-ID: EDCS-46900332
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Fasilia in pace / vixit annis L p(lus) m(inus)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1943/45-303         EDCS-ID: EDCS-46900333
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Quodbuld/eus Eupaliu/s in pace vix(it) / an(n)is XXXV / mens(ibus) / V d(i)e(bu)s XII / p(lus) m(inus)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1943/45-305 = BCTH-1943/45-364          EDCS-ID: EDCS-46900334
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pascasius / in pace vixit / annis LXV p(lus) m(inus)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: musivum
+
+publication: BCTH-1946/49-522 = ILAfr 00059 = AE 1912, 00048 = AE 1949, 00062 = AE 2013, 01772 = ILMS 00004 = Africa-2023-191 
+dating: 317 to 336         EDCS-ID: EDCS-16300411
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Claudio Chresto v(iro) e(gregio) p(rinci)p(ali) c(oloniae) I(uliae) T(raianae) Hadr(umetinae) / liberti patrono bene merenti / qui {vi}vixit an(nos) p(lus) m(inus) LV // Dysco li
+inscription genus / personal status: liberti/libertae;  ordo decurionum;  ordo equester;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1955/56-41 = AE 1960, 00090          EDCS-ID: EDCS-13302421
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Miri exempli / et pudoris / concordiae / exuperantiae / M(arcus) Eustorgius / Heraclamon / Leonides / maritus uxori / rarissim(a)e / unicae / <ph=F>iloso<ph=F>ae / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1955/56-45 = AE 1960, 00092          EDCS-ID: EDCS-13302423
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Cotbuldeus in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-2013-67a = AE 2013, 01770
+dating: 101 to 300         EDCS-ID: EDCS-64800298
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Mussius In/genu(u)s vix(it) / annis (!)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-2013-67b = AE 2013, 01771
+dating: 101 to 300         EDCS-ID: EDCS-64800299
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / M(arco) Fadio Claro vixit / ann(is) XXXV mens(ibus) III / diebus XXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BSAS-1907-116         EDCS-ID: EDCS-70300012
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XIIII Kal(endas) / Maias(?)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: BSAS-1907-116 = ILTun-01, 00201,095         EDCS-ID: EDCS-70300013
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Mustitoniu(s) / Romanus
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BSAS-1907-117         EDCS-ID: EDCS-70300014
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Titia(nus)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: BSAS-1907-117         EDCS-ID: EDCS-70300017
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Augen(tius)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: BSAS-1907-117         EDCS-ID: EDCS-70300016
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Ianuar]ia Ianu(aria) Ianu[ari]a
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: BSAS-1907-117         EDCS-ID: EDCS-70300015
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]imini(u)s Pistiu(s) / in pace
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+
+publication: BSAS-1907-118         EDCS-ID: EDCS-70300018
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VI[3] / in [pace]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: BSAS-1907-118         EDCS-ID: EDCS-70300021
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Emerita / hic dor/mit
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: BSAS-1907-118 = ILTun-01, 00201,073         EDCS-ID: EDCS-70300019
+province: Africa proconsularis         place: Sousse / Hadrumetum
+In pa/ce // Issbal/la
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-118 = ILTun-01, 00201,123         EDCS-ID: EDCS-70300020
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Sperte in / pac(e)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-119         EDCS-ID: EDCS-70300023
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]na in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+
+publication: BSAS-1907-119         EDCS-ID: EDCS-70300024
+province: Africa proconsularis         place: Sousse / Hadrumetum
+In pace
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: BSAS-1907-119 = ILTun-01, 00201,030         EDCS-ID: EDCS-70300022
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Cassi/ca in pace // Ch(ristus?)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-120         EDCS-ID: EDCS-70300027
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Anton[ia de]/posita
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: BSAS-1907-120         EDCS-ID: EDCS-70300028
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Anto]nia in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: BSAS-1907-120 = ILTun-01, 00201,038         EDCS-ID: EDCS-70300026
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Domitia / Domitia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-120 = ILTun-01, 00201,050         EDCS-ID: EDCS-70300025
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Feli[ci]tas / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-121         EDCS-ID: EDCS-70300029
+province: Africa proconsularis         place: Sousse / Hadrumetum
+In p(ace)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: BSAS-1907-122 = ILTun-01, 00201,006         EDCS-ID: EDCS-70300032
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Agapi in (!)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-122 = ILTun-01, 00201,024         EDCS-ID: EDCS-70300034
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Biot in / pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BSAS-1907-122 = ILTun-01, 00201,029         EDCS-ID: EDCS-70300031
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Capras / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-122 = ILTun-01, 00201,120         EDCS-ID: EDCS-70300030
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Simplicius / in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BSAS-1907-122 = ILTun-01, 00201,124         EDCS-ID: EDCS-70300033
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Su/bi/ta/n/u/s
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BSAS-1907-123         EDCS-ID: EDCS-70300036
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]ori qui / et Memori / i<n=M> pace // M/e/m/o/r/i
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: BSAS-1907-123 = ILTun-01, 00201,002         EDCS-ID: EDCS-70300037
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Acpe i<n=M> pa(ce)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BSAS-1907-123 = ILTun-01, 00201,017         EDCS-ID: EDCS-70300038
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aprilis pie / q(u)ies<cit=SE>
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BSAS-1907-123 = ILTun-01, 00201,076         EDCS-ID: EDCS-70300035
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Iustine in p(ace)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BSAS-1907-124         EDCS-ID: EDCS-70300040
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XX
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: BSAS-1907-124         EDCS-ID: EDCS-70300041
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]X / in p/a(ce)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: BSAS-1907-124 = ILAfr 00066,12 = ILCV 03945 = AE 2019, 01851 = ILMS 00038
+dating: 151 to 300         EDCS-ID: EDCS-70300042
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / L(ucius) Maevius Valerianus / qui et Moflontius / hic situs est vix(it) ann(os) / XXXV mens(es) III
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BSAS-1907-124 = ILTun-01, 00201,096         EDCS-ID: EDCS-70300039
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Nat(ali) // N/a/t/a/l/i
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BSAS-1907-164,1         EDCS-ID: EDCS-70200534
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis Man]ibus(?)
+inscription genus / personal status: tituli sepulcrales
+
+publication: BSAS-1907-164,2         EDCS-ID: EDCS-70200535
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] L(ucius) Ari[
+inscription genus / personal status: tituli sepulcrales;  viri
+
+publication: BSAS-1907-164,3         EDCS-ID: EDCS-70200536
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]VI[3] / [3]NEM[3] / [3]FAE[
+inscription genus / personal status: tituli sepulcrales
+
+publication: BSAS-1907-164,4         EDCS-ID: EDCS-70200537
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis] Manibus / [3]ISAPSIN[
+inscription genus / personal status: tituli sepulcrales
+
+publication: BSAS-1907-164,5         EDCS-ID: EDCS-70200538
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis M[anibus] / [3]lia F[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+
+publication: CIL 08, 00064 = CIL 08, 11137          EDCS-ID: EDCS-14900022
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] vixit an(nos) XIX / [3] Norbanus centu/[3] puer [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00065          EDCS-ID: EDCS-14900023
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] sic tibi [contingant] / quae vi[s si hoc se]/[pulcrum non violaveris
+inscription genus / personal status: tituli operum;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 00067 (p 1160) = ILCV 02675          EDCS-ID: EDCS-14900025
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Iorticius(!) / vi{s}xit in / pace an/nis LXV p(l)us / minus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 10503         EDCS-ID: EDCS-26400653
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Aurelius Maximia/nus vix(it) an(nos) LI m(enses) VIII / d(ies) XXII viro rarissimo / uxor carissima / fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 10504 = Louvre 00739         EDCS-ID: EDCS-26400654
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Iulio Vitaliano fr(ater) (e)t / soror / carissima / fecit Viren/tio
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 10505 = Louvre 00740         EDCS-ID: EDCS-26400655
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[D(is)] M(anibus) s(acrum) / [T]erentia Celet/ina vixit ann(os) V / et menses V {M} / die(m) Tecusa fec(it)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 10506         EDCS-ID: EDCS-26400656
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Man(ibus) / Herma/di vi<x=V>(it) XI
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 10507 = Louvre 00741         EDCS-ID: EDCS-26400657
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]/tina h(ic) s(ita) e(st) vix(it) a(nnos) / XXXIX par(entes) f(e)<c=K>(erunt) f(iliae)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 10509 = ILCV +03262a          EDCS-ID: EDCS-26400659
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Seqda i(n) pac(e) Chr(isti) // AS in pace Chr(isti)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 10510 = AE 1893, 00028          EDCS-ID: EDCS-26400660
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Hic inclusus vitam perdit
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11141 (p 2319) = ILPBardo 00137          EDCS-ID: EDCS-25002183
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[D(is)] M(anibus) [s(acrum)] / Fl(avius) Zoil[us] / h(ic) s(itus) e(st) vix(it) [ann(os)] / XLIII m(enses) VIII [d(ies) 3 f]il(ii) / patri piissimo fec(erunt)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11142 (p 2319) = ILTun-01, 00150         EDCS-ID: EDCS-22400674
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) [M(anibus)] / Hilar[inius(?) 3] / vixit [3] / men[ses 3] / pater [filio piis]/simo fecit
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11143 = CIL 08, 22832 = ILPBardo 00111          EDCS-ID: EDCS-22400675
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis Manib]us / [3]na h(ic) s(ita) / [3]XX / [3]s Metro/[dorus mat]ri bene / [merenti fe]cit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11145 = ILTun-01, 00131          EDCS-ID: EDCS-22400677
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus hic / sita est Pusinnica / vixit annis tribus / mensibus X d(iebus) XXI / Donata mater filiae / dulcissimae fecit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11146 (p 2319)         EDCS-ID: EDCS-22400678
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus sacris [3]/anis vixit an(n)is [ // ] Secund[in]us
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11147 (p 2319)         EDCS-ID: EDCS-22400679
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / L(ucius) Sulpicius Marcellus / h(ic) s(itus) e(st) / vixit annis XXI / pater fecit
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11148         EDCS-ID: EDCS-22400680
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus sa]crum / [3]a / [vixit annos 3]IX m(enses) V
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11149 (p 2319)         EDCS-ID: EDCS-22400681
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[F]elicia in pace [vixit] / annis XV[3] / [P]rima in pa[ce vixit] / [an]nis XXV S[
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22915 = ILTun-01, 00154          EDCS-ID: EDCS-24200131
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Fortunata // co(n)iu[gi 3] / Purpuri[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22920 = D 04472 = ILPBardo 00120          EDCS-ID: EDCS-24200136
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / P(ublius) Rutilius Maxim[us] sa/cerdos Plutonis h(ic) [s(itus)] e(st) / v(ixit) a(nnos) LX / Porcia Veneria sacer/dos Caelestis viro pi/issimo fecit
+inscription genus / personal status: mulieres;  sacerdotes pagani;  tituli sacri;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22921 = ILPBardo 00121 = ILTun-01, 00159 = SEG-09, 00817          EDCS-ID: EDCS-24200137
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Ti(berius) Claudius Antigonus / h(ic) s(itus) e(st) / Polyenus libertus patrono / piissimo et Menander / ἐνθάδε κεῖται ἰητὴρ / ἀγαθὸς Κλαύδιος Ἀντίγο/νος v(ixit) annis XLI
+inscription genus / personal status: liberti/libertae;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22922 = ILTun-01, 00160          EDCS-ID: EDCS-24200138
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Q(uintus) Pescennius Fus/cus Bucco hic situs / est vixit annis XVII / Egnatia Donata mater / filio pi(i)ssimo fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22923 = ILTun-01, 00161         EDCS-ID: EDCS-24200139
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manib(us) sacr(um) / Salvia Caes(aris) n(ostri) ser(va) / h(ic) s(ita) e(st) / vixit ann(os) VII m(enses) III / Donatus pater piiss(imae) fec(it)
+inscription genus / personal status: mulieres;  nomen singulare;  servi/servae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22924         EDCS-ID: EDCS-24200140
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Tertia Caesarum nnn(ostrorum) / serva hic sita est / vixit annis XXXIIII
+inscription genus / personal status: mulieres;  nomen singulare;  servi/servae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22925         EDCS-ID: EDCS-24200141
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Di]s Man[ibus sac(rum)] / [A]ebutius Fel[icissimus] / [qu]i vixit annis X[3 mens(ibus) 3] / [di]eb(us) III Aebutius Du[3] / [ca]rissimo fecit
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22926         EDCS-ID: EDCS-24200142
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] Aeliu[s 3] / [3] vixit a(nnos) [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22927 = ILPBardo 00122          EDCS-ID: EDCS-24200143
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Aelia Aquesita / vixit ann(os) XVIIII / m(enses) XI d(ies) XXVIIII / frater fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22928 = ILPBardo 00123 = Alumnus 00075          EDCS-ID: EDCS-24200144
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Aelia Fortunata / vixit annis XXX / L(ucius) Aelius Victor / alumn(a)e obse/quentissim(a)e fecit
+inscription genus / personal status: liberti/libertae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22929 = ILPBardo 00124          EDCS-ID: EDCS-24200145
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) [Manibus sacrum?] / Aemi[lius(?) 3] / vix[it
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22930 = ILPBardo 00125          EDCS-ID: EDCS-24200146
+province: Africa proconsularis         place: Sousse / Hadrumetum
+C(aius) Aemilius Verus vixit ann(um) I m(enses) VII d(ies) XX // C(aius) Aemilius Exuperans vixit ann(os) V m(enses) XI [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22931         EDCS-ID: EDCS-24200147
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Aemilia Aquilina h(ic) s(ita) e(st) / vixit annis XXXV / d(ie) I Antidia Ammia filiae / piissimae fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22932         EDCS-ID: EDCS-24200148
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Aemilia Marina h(ic) s(ita) e(st) vix(it) / ann(os) XL m(enses) II d(ies) VIIII Saturninus / maritus piissimus fecit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22933         EDCS-ID: EDCS-24200149
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s Manibus / h(ic) s(ita) e(st) Annea Quinta / vix(it) annis LXV / Clodius Fortunatus
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22934         EDCS-ID: EDCS-24200150
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Annius Auspicalis h(ic) s(itus) e(st) / vix(it) ann(os) XXII Pupia Fe/licissima filio dulcis/simo fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22935         EDCS-ID: EDCS-24200151
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manib(us) / P(ublius) Antonius Faust(us) / h(ic) s(itus) e(st) vix(it) an(nos) LXXV / Antonia Quart(a) uxo<r=T>
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22936 = ILPBardo 00126 = ILTun-01, 00162          EDCS-ID: EDCS-24200152
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s [Man(ibus) sac(rum)] / Arronia Hil[ara] / vixit ann(is) XXXII m(ensibus) IIII / dieb(us) XI / Verna uxori piissimae
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22937 = ILTun-01, 00163 = ILMS 00024
+dating: 151 to 300         EDCS-ID: EDCS-24200153
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / M(arcus) Arruntius Felix / h(ic) s(itus) e(st) vix(it) ann(os) XIIII et d(iem) / pater piissimus fec(it)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22937a         EDCS-ID: EDCS-24200154
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis [Manibus] / [3] Baebia[3] / [3 vix]it an[nos
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22938         EDCS-ID: EDCS-24200155
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / L(ucius) Bommius Rogatus h(ic) s(itus) e(st) / vixit ann(os) XXVII / Donatus fratri optimo
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22939 = ILMS 00026
+dating: 151 to 300         EDCS-ID: EDCS-24200156
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Man(ibus) / Caecilius Ma/ximus h(ic) s(itus) e(st) v(ixit) / a(nnos) LXXXVI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22940 = ILPBardo 00127          EDCS-ID: EDCS-24200157
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Caecilia Grata h(ic) s(ita) e(st) / vix(it) an(nos) LXXIII / L(ucius) Ovinius Verna fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22941         EDCS-ID: EDCS-24200158
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Caecilia Victorina / h(ic) s(ita) e(st) vixit a(nnis) II / diebus XXXII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22942 = ILPBardo 00128          EDCS-ID: EDCS-24200159
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Man(ibus) / P(ublius) Ceselli/us Fel(i)x vi/xit ann(is) / XXXXVIIII / mensib(us) VII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22943 = CIL 08, 22978 = ILPBardo 00129 = ILTun-01, 00164          EDCS-ID: EDCS-24200160
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis] Manibus / [3]ae Nomadis / [vixit an]ni[s 3] / Calpurnius A[3] / uxori piiss[imae] / fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22944 = AE 1903, 00238 = AE 1903, +00258          EDCS-ID: EDCS-24200161
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / L(ucius) Calpurnius / furnarius vixit / annis LX et bene / vixit et ad funus / eius erogati |(denarios) C
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22945 = CIL 08, 22949 = ILPBardo 00130 = ILTun-01, 00165          EDCS-ID: EDCS-24200162
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s Manibus / C(aius) Clodius P[3]lius h[ic] situs est / vi[xit ann(os) 3] / C(aius) Cl[odius 3]millia Chry/[sis 3] piissimo fecerunt
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22946 = ILPBardo 00131 = ILTun-01, 00166          EDCS-ID: EDCS-24200163
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[D]is Manib[us] / [3]lia Chrysis h(ic) s(ita) e(st) / [vix]it ann(os) XXXVIIII / [3]s Liberalis uxori p(iissimae) f(ecit)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22947 = ILTun-01, 00167         EDCS-ID: EDCS-24200164
+province: Africa proconsularis         place: Sousse / Hadrumetum
+vixit] anni[s 3] / [3 Cla]udius Auximus / [3] uxori optimae
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22948 = ILPBardo 00132          EDCS-ID: EDCS-24200165
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Cl]audia(?) [3] / [3] piissim[a(?)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22950 = ILMS 00027
+dating: 151 to 300         EDCS-ID: EDCS-24200166
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manib(us) / C(aius) Clodius Maximus / h(ic) s(itus) e(st) vixit annis VII / C(aius) Iulius Donatus / nepoti piissimo
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22951 = ILPBardo 00133          EDCS-ID: EDCS-24200167
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Clodia C(ai) f(ilia) Artemi/sia vix(it) a[nn(os)] XI Clodi/us Liberalis pater filiae / piissimae fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22952 = ILTun-01, 00168         EDCS-ID: EDCS-24200168
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Clodia Montana / v(ixit) a(nnos) XV mens(es) II d(ies) II / mater piissima fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22953 = ILTun-01, 00169         EDCS-ID: EDCS-24200169
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s Manibus / sacrum / Clodia Spendusa / vixit ann(os) XXXXI / C(aius) Iulius Celer coniugi / piissimae
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22954         EDCS-ID: EDCS-24200170
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Coeliae P(ubli) f(iliae) Rogatae / vixit pi(a)e annis / XXV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22955 = ILMS 00008
+dating: 151 to 300         EDCS-ID: EDCS-24200171
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Cornelius Constan/tius vixit ann(is) XVII / m(ensibus) VII dieb(us) XII Corne/lia Assuria soror ka/rissimo fratri fec(it)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22956 = ILMS 00009
+dating: 151 to 300         EDCS-ID: EDCS-24200172
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Demetrius vi/xit annis LX / mens(ibus) III Iulia / Afrodite uxor piissi/ma fec(it)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22957         EDCS-ID: EDCS-24200173
+province: Africa proconsularis         place: Sousse / Hadrumetum
+an]n(os) XVII[3] / [3 an]n(os) X P(ublius?) Do[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22958 = ILPBardo 00134 = ILTun-01, 00170          EDCS-ID: EDCS-24200174
+province: Africa proconsularis         place: Sousse / Hadrumetum
+C(aius) Domi[tius 3] / Atavinus [hic situs] / est vixit [ann(os) 3] / EPPR[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22959 = ILPBardo 00135 = ILTun-01, 00171          EDCS-ID: EDCS-24200175
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] h(ic) s(itus) e(st) / vix(it) annis L / C(aius) Fabricius Sabi/nianus patri / piissimo
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22960 = ILPBardo 00136          EDCS-ID: EDCS-24200176
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Felicissimus qui et Malandri/us vixit annis XXXVIIII m(ensibus) VI / Manilia Ianuaria marito / dulcissimo posuit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22961 = ILMS 00029
+dating: 151 to 300         EDCS-ID: EDCS-24200177
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / et Festa Cyrilla vixit / an(nos) III mens(es) VIIII / T(itus) <F=E>l(avius) Secundus uxori et / filiae pi(i)ssimis fec(it)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22962         EDCS-ID: EDCS-24200178
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Firma h(ic) s(ita) e(st) vix(it) an/nis XVIIII d(iebus) III / maritus fecit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22963 = ILMS 00028
+dating: 151 to 300         EDCS-ID: EDCS-24200179
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / T(ito) Flavio Polybio liberto / bene merenti / T(itus) Flavius Epit{h}ync(h)anus(!) patronus
+inscription genus / personal status: liberti/libertae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22964 = ILMS 00010
+dating: 1 to 100         EDCS-ID: EDCS-24200180
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Gavillia Amanda h(ic) s(ita) e(st) / vixit annis XXXV / L(ucius) Gavillius Peregrinus / uxori piissimae fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22965         EDCS-ID: EDCS-24200181
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Man(ibus) sacr(um) / Gilia vixit annis LXVIII / mensi(bus) IIII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22966 = ILPBardo 00138          EDCS-ID: EDCS-24200182
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]S Herac[3] / [3]IHE[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22967 = ILMS 00030
+dating: 151 to 300         EDCS-ID: EDCS-24200183
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Herennia Tampia / vixit ann(os) LXIII / filius matri ca/rissimae fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22968         EDCS-ID: EDCS-24200184
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis M[anibus] / Iov[3] / V[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22969         EDCS-ID: EDCS-24200185
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) [M(anibus) s(acrum)] / Iuni[3 coniugi piis]/sima[e 3] / mar[itus bene merenti] / f[ecit]
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22970 = ILMS 00016
+dating: 151 to 300         EDCS-ID: EDCS-24200186
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s Man(ibus) sacr(um) / Iunia Optata h(ic) s(ita) e(st) / vix(it) an(nos) LX pl(us) m(inus) / Iunia Peregrina / lib(erta) fec(it)
+inscription genus / personal status: liberti/libertae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22972 = ILMS 00031
+dating: 151 to 300         EDCS-ID: EDCS-24200188
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / L(ucius) Magnius Setinus / h(ic) s(itus) e(st) vix(it) a(nnos) LXXXII / M(arcus) Magnius Capito f(ilius) / patri piissimo fecit
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22973         EDCS-ID: EDCS-24200189
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis Ma]n(ibus) sacr(um) / [3]amilianus / [3 an]nis LXX hic s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22974 = ILPBardo 00140 = ILTun-01, 00172          EDCS-ID: EDCS-24200190
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) [s(acrum)] / Marsia [3] / h(ic) s(ita) e(st) vix(it) a[nn(os) 3] / mens(es) V[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22975         EDCS-ID: EDCS-24200191
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Martialicus qui / et Luxurius vixit / ann(is) n(umero) XXIIII mens(ibus) / n(umero) II diebus n(umero) VI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22975a         EDCS-ID: EDCS-24200192
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis] Manib(us) sacr(um) / [3] Maxima vixit / [ann(os) 3] hic sita est / [
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22976         EDCS-ID: EDCS-24200193
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Maxim/a vixit an/nos XXXX[3]I / m(ense)s V
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22977 = ILMS 00037
+dating: 151 to 300         EDCS-ID: EDCS-24200194
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus sacr(um) / L(ucius) Mevius Petronianus h(ic) s(itus) e(st) / vix(it) ann(is) XX mens(ibus) VIII / diebus VIII / Aelia Tyche mater filio piis/simo fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22977a         EDCS-ID: EDCS-24200195
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis [Manibus 3] / Narci[ss
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22979 = ILPBardo 00141          EDCS-ID: EDCS-24200196
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manib(us) / Optata h(ic) s(ita) e(st) vix(it) / ann(os) XLVIII
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22980 = ILTun-01, 00173         EDCS-ID: EDCS-24200197
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manib(us) sacr(um) / Q(uintus) Pompeius Silvanus / vixit annis LXXV h(ic) s(itus) e(st) / Pompeius Augustian(us) patri p(iissimo) f(ecit)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22981 = ILPBardo 00142          EDCS-ID: EDCS-24200198
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Pompeius Vitalis v(ixit) a(nnos) LXV / h(ic) s(itus) e(st) / Pompeia Privata marito piissimo
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22982 = ILMS 00011
+dating: 151 to 300         EDCS-ID: EDCS-24200199
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Di{i}s Manibus / P(ublius) Pomponius Fortu/natus h(ic) s(itus) e(st) / vix(it) ann(os) XXXIII / Cornelia Maxima / coniugi piissimo / fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22983 = ILTun-01, 00174 = ILMS 00018
+dating: 151 to 300         EDCS-ID: EDCS-24200200
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus sacr(um) / Postumia Donata quae et / Pincula hic sita est / vixit annis XVII mensib(us) / VIII maritus uxori / piissimae fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22984         EDCS-ID: EDCS-24200201
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Pri]mitivus vi/[xit] ann(os) XX III d(ies) / XVII
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22985 = ILPBardo 00143 = ILTun-01, 00175          EDCS-ID: EDCS-24200202
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Man[ibus] / Publicia Pri[vata(?)] / vixit an[n(os)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22986 = ILTun-01, 00176         EDCS-ID: EDCS-24200203
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis] Manibus / [3] Successus / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22987 = ILPBardo 00144          EDCS-ID: EDCS-24200204
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Sulpicia Veneria h(ic) s(ita) / e(st) vixit ann(os) XXVIIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22987a = ILMS 00032
+dating: 151 to 300         EDCS-ID: EDCS-24200205
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Mani[bus] / Terentia Dona[ta] / vixit ann(os) XV [3] / hic s(ita) est
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22987b = ILMS 00012          EDCS-ID: EDCS-24200206
+province: Africa proconsularis         place: Sousse / Hadrumetum
+P(ublius) Trebelli[us(?)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22988 = ILMS 00033
+dating: 151 to 300         EDCS-ID: EDCS-24200207
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manib(us) / Vatronia For/tunata / vix(it) an(nos) XXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 22989 = ILPBardo 00145          EDCS-ID: EDCS-24200208
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / L(ucius) Vettius Donatus / h(ic) s(itus) e(st) vixit annis C / Adventus lib(ertus) patrono / piissimo fecit
+inscription genus / personal status: liberti/libertae;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22990         EDCS-ID: EDCS-24200209
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] mens(es) V[3] / [3] Victoru[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22991 = ILMS 00021
+dating: 1 to 151         EDCS-ID: EDCS-24200210
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dis Manibus / Vitalis vixit m(enses) IIII / h(ic) s(itus) e(st) Felix pater f(ecit)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22992 = ILPBardo 00146 = ILTun-01, 00177          EDCS-ID: EDCS-24200211
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / C(aius) Vol(umnius) Faust(inus?) v(ixit) a(nnos) XXVII / die(m) I C(aius) Volumnius / Saturn(inus) pat(ri) piissimo / Aucupi
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22993 = ILPBardo 00147 = Alumnus 00079          EDCS-ID: EDCS-24200212
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Volusio Victorico q(ui) vix(it) an(nos) / VI m(enses) VI d(ies) XXIIII bene me/renti fecit patrona alum/no suo
+inscription genus / personal status: liberti/libertae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 22994         EDCS-ID: EDCS-24200213
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Puer Vulca/nalis vix(it) / ann(os) X d(ies) XXXVI
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22995 = Brunet-2022, 00607         EDCS-ID: EDCS-24200214
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Veneri<c=K>a vixit / an(n)os LXXII (h)oc nep/otes fecerunt
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22996         EDCS-ID: EDCS-24200215
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis] Manibus / [3]philus / [3]e C / [3]V XI d(ies) XXIII / [3] pater T/[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22997 = ILPBardo 00148          EDCS-ID: EDCS-24200216
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis] Manib(us) / [3 Re]pentina h(ic) s(ita) / [e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 22998 = ILPBardo 00149 = ILTun-01, 00178          EDCS-ID: EDCS-24200217
+province: Africa proconsularis         place: Sousse / Hadrumetum
+l]oculi II / [3 hi]c situs est / [3] p(lus) m(inus) / [3]olussino
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 22999         EDCS-ID: EDCS-24200218
+province: Africa proconsularis         place: Sousse / Hadrumetum
+]+uriva / [3 vi]x(it) ann(is) / [3]is S[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23000         EDCS-ID: EDCS-24200219
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Dis M]anibus / [3]ata hic / [3]NN[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23001         EDCS-ID: EDCS-24200220
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / III[3] / m(enses) IV[3] / h(ic) s(itus?) e(st) v(ixit) a(nnos) [3] / LXX[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23002 = ILPBardo 00497          EDCS-ID: EDCS-24200221
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[D(is) M(anibus)] s(acrum) / [3]ia vixit / [annis 3 me]nsibus V / [diebus 3] II (h)or(is) III
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23003 = ILPBardo 00150          EDCS-ID: EDCS-24200222
+province: Africa proconsularis         place: Sousse / Hadrumetum
+an]n(os) III / [3 ma]ter / [3 f]ecit
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23008         EDCS-ID: EDCS-24200227
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / dulcissimo [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23010 = ILCV +01555          EDCS-ID: EDCS-24200230
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / casta[3 inn]/oce(n)s [3] / nec[3] penitenai[3] / CI[3] fide cuncto [3] / [3]LF[3] / [3]meniste D[3] / [3]atisisu[3] / [3]VAV[
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23012 = ILCV +00898 = ILTun-01, 00180 = ILMS 00034 
+dating: 301 to 500         EDCS-ID: EDCS-24200233
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ausityc(h)e / dulcis anima / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23012a         EDCS-ID: EDCS-24200234
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Fili(i) matri fe/cerunt Dona/tul(a)e in pac{a}e
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23012b = ILCV +03204         EDCS-ID: EDCS-24200235
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Emerita / hic dor/mit
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23012c = ILCV +03234a          EDCS-ID: EDCS-24200236
+province: Africa proconsularis         place: Sousse / Hadrumetum
+T(itus) E() D() qui / et Evasius / dor(mit) in pace
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23012d         EDCS-ID: EDCS-24200237
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[For]tunat[3] / [in] pac[e]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23013 = ILCV 04110f          EDCS-ID: EDCS-24200238
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Longino patri / Zotice
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23014 = ILCV 03234a          EDCS-ID: EDCS-24200239
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Rosarius / dormit in pace / <v=B>ixit an(nos) {⟦bixit⟧} / XXVIII m(enses) X / [d(ies) 3 (h)o(ras)] VII
+inscription genus / personal status: inscriptiones christianae;  litterae erasae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23015         EDCS-ID: EDCS-24200240
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Rust[3 in] / pace v[ixit an]/nis XL[3] / d(iebus) V[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23016 = ILCV 02297ha         EDCS-ID: EDCS-24200241
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Sescenti / in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23019 = ILCV +02514 = ILMS 00040
+dating: 301 to 500         EDCS-ID: EDCS-24200244
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Veneria in / pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23020,01 = ILCV 03998         EDCS-ID: EDCS-24200245
+province: Africa proconsularis         place: Sousse / Hadrumetum
+IIII Idus Nov(embres) / Ammia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,02 = ILCV +03998         EDCS-ID: EDCS-24200246
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XIII O(c)tob(res) / Antonius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,04 = ILCV +03998         EDCS-ID: EDCS-24200248
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VI Kal(endas) April(es) / Maxima // Caes[e]llia / Maxima
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23020,05         EDCS-ID: EDCS-24200249
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pr(idie) Non(as) Ian(uarias) Cres/cenia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,06 = ILTun-01, 00182          EDCS-ID: EDCS-24200250
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Datiba in pace // Datiba in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,07 = ILCV 03965fa         EDCS-ID: EDCS-24200251
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Faustina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,08 = ILCV +03989a         EDCS-ID: EDCS-24200252
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Felicianus / T(itus) C(a)esarius
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,09 = ILCV 03965fb         EDCS-ID: EDCS-24200253
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Felicissima
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,10 = ILCV +03323         EDCS-ID: EDCS-24200254
+province: Africa proconsularis         place: Sousse / Hadrumetum
+X <K=C>al(endas) Iunias Fortunata / coniu<n=C>x / V <K=C>a(lendas) I(u)nias / [red]dit(io?)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,11 = ILCV +03998         EDCS-ID: EDCS-24200255
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VIII K(a)l(endas) / Oct(obres) Gentilis
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,12         EDCS-ID: EDCS-24200256
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VII Kal(endas) Au(ugustas) / Hilarian(us)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,13 = ILCV +03998         EDCS-ID: EDCS-24200257
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VIII Idus Oct(o)b(re)s / in(f)a(n)s(?) Hilaria/nus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,14 = ILCV +03998         EDCS-ID: EDCS-24200258
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XIIII Kal(endas) Sept(embres) / Lucanus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,15         EDCS-ID: EDCS-24200259
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XVI Kal(endas) De(ce)m/br<e=I>s M()
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,16 = ILCV +03998         EDCS-ID: EDCS-24200260
+province: Africa proconsularis         place: Sousse / Hadrumetum
+IIII Nona(s) Maias Maior
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,17 = ILCV 03965fc         EDCS-ID: EDCS-24200261
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marci/ane
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,18 = ILCV +03998         EDCS-ID: EDCS-24200262
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XII / Martinus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,19 = ILCV 03965fd         EDCS-ID: EDCS-24300299
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marius Victo/rinus
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,20 = ILCV +03998         EDCS-ID: EDCS-24300300
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Catullus / Nundiminus / III Idus Octo(bre)s // Kal(endas) Oct(obres) // Maximiniis
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,21 = ILTun-01, 00183 = ILCV +03998          EDCS-ID: EDCS-24300301
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XVII XAI / Filumenna
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,22 = ILCV +03998         EDCS-ID: EDCS-24300302
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Kal(endis) Novemb(ribus) / NICO
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,23 = ILCV +03998         EDCS-ID: EDCS-24300303
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Prid(ie) Kal(endas) Octo(bres) / Nov[e]llus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,24 = ILTun-01, 00184 = ILCV +03998          EDCS-ID: EDCS-24300304
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XVII Kal(edas) I[u]ni<a=V>s / Onunusa
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,25         EDCS-ID: EDCS-24300305
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VI Idus Decem(bres) / P[3]da
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,26 = ILCV +03998         EDCS-ID: EDCS-24300306
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XV Kal(endas) Aug(ustas) / Paula Paula Paula
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,27 = ILCV +03998         EDCS-ID: EDCS-24300307
+province: Africa proconsularis         place: Sousse / Hadrumetum
+III Idus Ma[i]as / Paulus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,28         EDCS-ID: EDCS-24300308
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Peregit / in pac<e=I>
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,29         EDCS-ID: EDCS-24300309
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pri(die) Ka(lendas) Prima
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,30         EDCS-ID: EDCS-24300310
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XIIII Kal(endas) / Octob(res) // Priv[a]/ta
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,31 = ILCV +03998         EDCS-ID: EDCS-24300311
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pri(die) Kal(endas) Nov(embres) / Re(s)t<u=I>tus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,32 = ILCV +03998         EDCS-ID: EDCS-24300312
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VI Kal(endas) Maias Rustica
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,33 = ILCV +03965fe         EDCS-ID: EDCS-24300313
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Q(u)inta
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,34         EDCS-ID: EDCS-24300314
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VII Ka(lendas) Aug(ustas) / [S]aturnina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,35         EDCS-ID: EDCS-24300315
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XV K(alendas) / Sept(embres) // Saturninus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,36 = ILCV +03998         EDCS-ID: EDCS-24300316
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Sausa Pridi(e) / Idus Oct(obres)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,37         EDCS-ID: EDCS-24300317
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VIIII Ka(lendas) Oct(obres) / Secundina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,38 = ILCV +03998         EDCS-ID: EDCS-24300318
+province: Africa proconsularis         place: Sousse / Hadrumetum
+XV Kal(endas) Iul(ias) Serot(i) / Seroti
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,39 = ILCV +03998         EDCS-ID: EDCS-24300319
+province: Africa proconsularis         place: Sousse / Hadrumetum
+III Nonas Maias / Serv()
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,40 = ILCV +03998         EDCS-ID: EDCS-24300320
+province: Africa proconsularis         place: Sousse / Hadrumetum
+"GR" // Nonas Oct<o=V>bres
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,42 = ILCV +03998         EDCS-ID: EDCS-24300322
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vimiasius / III Kal(endas) Maias
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,43 = ILTun-01, 00185         EDCS-ID: EDCS-24300323
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vince(ntius?) / in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,44 = ILCV +03998         EDCS-ID: EDCS-24300324
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VIII Idus Urban() / Urbanus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,45 = ILCV +03965ff         EDCS-ID: EDCS-24300325
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Urbi<c=K>us / Akuzr
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,46         EDCS-ID: EDCS-24300326
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]cusa XIIII Kal(endas) Oct(obres)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,47         EDCS-ID: EDCS-24300327
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Eifo/bus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,48         EDCS-ID: EDCS-24300328
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is?) / Ma(nibus?) MA()
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,49         EDCS-ID: EDCS-24300329
+province: Africa proconsularis         place: Sousse / Hadrumetum
+VII K(alendas) Maia(s) / [3]sia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,50         EDCS-ID: EDCS-24300330
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Tai[3]irh // "GR"
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: opus figlinae
+
+publication: CIL 08, 23020,51         EDCS-ID: EDCS-24300331
+province: Africa proconsularis         place: Sousse / Hadrumetum
+V Kal(endas) Mai(as) / Rom[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,52         EDCS-ID: EDCS-24300332
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[6] / Iunior[3] / in pace
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: opus figlinae
+
+publication: CIL 08, 23020,53         EDCS-ID: EDCS-24300333
+province: Africa proconsularis         place: Sousse / Hadrumetum
+III Kal(endas) April(es)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: opus figlinae
+
+publication: CLEAfr-02, 00244 = AE 1914, 00063 = AE 2014, +01487          EDCS-ID: EDCS-16300010
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Aelius Saturninus signo Calvus / filius nobis carissimus vix(it) ann(os) XXXIIII / m(enses) IIII quod ipse nobis facere debuisti / fato victus non potuisti // "GR"
+inscription genus / personal status: carmina;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CSIR-TUN-02-02, 00213 = AE 1968, 00626 = ILMS 00057 
+dating: 151 to 300         EDCS-ID: EDCS-09701784
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / P(ublius) Minucius Satur/ninus vix(it) ann(os) L / hic situs est
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Carletti-2008, 00047b
+dating: 251 to 300         EDCS-ID: EDCS-71200007
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marcell(i)na / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: EDCS 01123 = AE 2019, 01853 = ILMS 00041
+dating: 301 to 500         EDCS-ID: EDCS-76100169
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aurelius Chrestinus et Caelia / Dativa Caeliae Chrestinae filiae / ob innocentiam eius / fecerunt
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 01124 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100170
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Istidius in pa/ce vi{c}xit annos XV / menses VII dies XV
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: EDCS 01125 = AE 2019, 01855 = ILMS 00045
+dating: 301 to 500         EDCS-ID: EDCS-76100171
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vari(a)e Victoriae coniugi / karissim(a)e Urbanus ma/ritus memori(a)e causa / ob contuberni<u=O>(m) ann(os) XLV fecit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 01126 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100172
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3] Θεοδωρα / [3 ε]νθαδε / [3 κ]οιματε
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: EDCS 01127 = AE 2019, 01852 = ILMS 00039
+dating: 301 to 500         EDCS-ID: EDCS-76100173
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vincentia in pace
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: EDCS 01128 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100174
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] / ΔΟΜΝ[3] / ΗΣΕ[3] / μνοτα[τ 3]/ ΙΚΑΘ[3] / ουδου [3] / ενθ[αδε
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: EDCS 01129 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100175
+province: Africa proconsularis         place: Sousse / Hadrumetum
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+comment: pastor bonus
+
+publication: EDCS 01130 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100176
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Benatia in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: EDCS 01131 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100177
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Innocentia / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: EDCS 01132 {Manfred Clauss - Jona Lendering, Livius}
+dating: 401 to 500         EDCS-ID: EDCS-76100178
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Seve/rina / in pace / vixit anno/s VII / men/ses V / di/es / XX
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: EDCS 01133 {Manfred Clauss - Jona Lendering, Livius}          EDCS-ID: EDCS-76100179
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ex{x}itio/sa in pa/ce <v=B>ixit a/nn(os) V m(enses) II
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: EDCS 01134 = AE 2019, 01857 = ILMS 00097
+dating: 1 to 150         EDCS-ID: EDCS-76100180
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aurelius Ius/tianus vixit / an(n)is duo m(ense) un/o diebus n(umero) XIII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00060         EDCS-ID: EDCS-10300148
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Istricatus navicu/larius MIM() Dioni() / Kanvas vi{c}x{s}it an/nos XXXV me<n=S>ses III
+inscription genus / personal status: nomen singulare;  officium/professio;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00061 = AE 1912, 00177          EDCS-ID: EDCS-10300149
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Q(uinto) Papio Q(uinti) f(ilio) Saturnino / Iuliano centurioni / leg(ionis) II Part(hicae) vix(it) ann(os) LX / Papia Victoria soror / piissima fratri suo / fecit
+inscription genus / personal status: milites;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00062         EDCS-ID: EDCS-10300150
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Pulesius ves/tiarius
+inscription genus / personal status: nomen singulare;  officium/professio;  tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00066,01         EDCS-ID: EDCS-10300154
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aelius Saturninus signo Calvus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,02 = BSAS-1907-163         EDCS-ID: EDCS-70200530
+province: Africa proconsularis         place: Sousse / Hadrumetum
+P(ublius) Aelius Urani/us Fortun/atus v(ixit) a(nnos) XII / m(enses) II d(ies) XXV / parentes fec(erunt)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,03         EDCS-ID: EDCS-10300156
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aemilia Flora et Trebius Florentinus
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,04         EDCS-ID: EDCS-10300157
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Arator
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00066,05         EDCS-ID: EDCS-10300158
+province: Africa proconsularis         place: Sousse / Hadrumetum
+L(ucius) Caecilius Mauricus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,06 = Caro 00123 = AE 1999, +01756          EDCS-ID: EDCS-10300159
+province: Africa proconsularis         place: Sousse / Hadrumetum
+L(ucius) Erennius / Maximus / bub(u)larius / vixit annis XXX
+inscription genus / personal status: officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,07 = BSAS-1907-163         EDCS-ID: EDCS-70200529
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Euvarcius / vix(it) an(nos) XXXVIII / d(ies) XVII uxor c(arissimo) m(arito) / fe(cit)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00066,08 = AE 2019, 01850 = ILMS 00036
+dating: 151 to 300         EDCS-ID: EDCS-10300161
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Flaviae Faenu() / fe(m)inae incom(parabi)l(i) / multa eius erga c(lara) m(e)rita / Caus coniugi dulcis(s)im(ae) / (fe)cit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,09 = BSAS-1907-164         EDCS-ID: EDCS-70200533
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Graniae Vitalinae / qui(!) vixit annis III / m(ensibus) V diebus XIII / parentes fecerunt
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00066,10         EDCS-ID: EDCS-10300163
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Helvia Autronia Rufina
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00066,11         EDCS-ID: EDCS-10300164
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Lamyrus
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00066,13         EDCS-ID: EDCS-10300166
+province: Africa proconsularis         place: Sousse / Hadrumetum
+L(ucius) Mevius Petronianus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,14         EDCS-ID: EDCS-10300167
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ofellia Felicula
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00066,15         EDCS-ID: EDCS-10300168
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Perpetua
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00066,16 = BSAS-1907-164         EDCS-ID: EDCS-70200532
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / L(ucio) Septimio Agrippae / infanti dulcissim(o) vixit / ann(is) XI m(ensibus) V dieb(us) XII L(ucius) Septi/mius Agrippa |(centurio) pater fec(it)
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,17         EDCS-ID: EDCS-10300170
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Valerius Fuscianus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00066,18 = BSAS-1907-163         EDCS-ID: EDCS-70200531
+province: Africa proconsularis         place: Sousse / Hadrumetum
+D(is) M(anibus) s(acrum) / Volussia Aman/tia vix(it) ann(is) / IIII men(sibus) IIII / dieb(us) V
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILCV 00601 = ILTun-01, 00194         EDCS-ID: EDCS-08201773
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ianuaria vestiaria / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  officium/professio;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 02297i-j         EDCS-ID: EDCS-42700554
+province: Africa proconsularis         place: Sousse / Hadrumetum
+<Ch=K>riste in pac{a}e
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 02297ka         EDCS-ID: EDCS-42700555
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pascasi / in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 02297kb         EDCS-ID: EDCS-42700556
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Abundanti / in pac{a}e
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 02511 = ILTun-01, 00201,022          EDCS-ID: EDCS-08201800
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aurelius Robustius in pace
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: musivum
+
+publication: ILCV 02520a = Carletti-2008, 00047a = ILMS 00035
+dating: 251 to 300         EDCS-ID: EDCS-43400822
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Flaviae Domitiae in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILCV 02525         EDCS-ID: EDCS-43400823
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Laurentiam(!) / in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 02653 (add)         EDCS-ID: EDCS-43400824
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vitale in pace vixit annis / septe(m) et menses(!) dece(m) / Zosimus pater perfecit
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 02654a         EDCS-ID: EDCS-43400825
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Victorina in pace / vixit annis viginti oct(o)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 02654b         EDCS-ID: EDCS-43400826
+province: Africa proconsularis         place: Sousse / Hadrumetum
+F() Lucil/us filius / eius in / pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 02751 (add) = ILTun-01, 00198          EDCS-ID: EDCS-08201777
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vincincius vixit / in hunc s(ae)culum (!) / ann(os) XII m(enses) XI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 03368         EDCS-ID: EDCS-43400821
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Seberum cum pace in deu(m)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 03998aa         EDCS-ID: EDCS-43700757
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Felix III {c}K(alendas) De(cembres)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 03998ab         EDCS-ID: EDCS-43700758
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Iuncina / XIIII Kal(endas) Ianu/arias
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 03998ad         EDCS-ID: EDCS-43700760
+province: Africa proconsularis         place: Sousse / Hadrumetum
+IIII Non<a=I>(s) A(u)g(ustas) / Agape
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 04429a = ILTun-01, 00196 = Luciani-02, 00023 
+dating: 301 to 400         EDCS-ID: EDCS-08201775
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Arisus i(n) pace / natus (h)ora sexta / <v=B>ixit ss(cripula) VIIII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 04737 = ILTun-01, 00191 = CLEAfrique 00004 = CLEAfr-02, 00224 = AE 2014, +01487 = AE 2018, +01900          EDCS-ID: EDCS-08201770
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Se[x] annos vi/xi(t) Florentia / iu(n)iora puella / quae genus / duxit Camp(a)<n=M>o(?) / dei op<e=ULOP> fidelis / mente consociata / deo def(uncta) III Kal(endas) Feb(ruarias) / dep(osita) Id(ib)us Mar(tiis)
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00186 = AE 1912, 00170 = Africa-2023-202          EDCS-ID: EDCS-08201765
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Istrikatus(!) navicu/larius Mim() Bioni / Fanuas vi{c}x{s}it an/nos XXXV me(n)s{s}es III
+inscription genus / personal status: nomen singulare;  officium/professio;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00188         EDCS-ID: EDCS-08201767
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Macari
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00189         EDCS-ID: EDCS-08201768
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Claudia O[3] / [Vic]torianus
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00190         EDCS-ID: EDCS-08201769
+province: Africa proconsularis         place: Sousse / Hadrumetum
+V Kal(endas) Mai(as) / Io(h)anna v(irgo) q(uiescit) i(n) d(omino)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00192         EDCS-ID: EDCS-08201771
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Theodotum servum dei / Sextina et Macarius filio / karissimo memoriae gratia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00193 = CLEAfrique 00003 = CLEAfr-02, 00076 = ILMS 00043 = AE 2018, +01900 
+dating: 301 to 500         EDCS-ID: EDCS-08201772
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Haec fuit Eusebia fratres rara castissima coniunx / quae merevit mecum vitam coniugii ut tempora monstrant / annis decem sex{s} mensibus octo et viginti diebus / huius ut confiteor vitam deus ipse probavit / innocua vere coniunx exempli rarissimi sexus / oro Successus ego tabularius huiusque maritus / eius semper meminisse fratres vestris precibusque
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  nomen singulare;  officium/professio;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00197 = ILMS 00042
+dating: 301 to 500         EDCS-ID: EDCS-08201776
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Coniugibus dulcissimis / soror(i)bus Diogas fecit / V Kal(endas) Febr(uarias) // Domine / Besse(?) Di/ogas
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00199         EDCS-ID: EDCS-08201778
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vin[cincius] vixit / in hun(c) s(a)eculum (!) / ann(os) VIIII m(enses) VIII / hi duo fratres in d(ie) / XII r(esurrectionis?) do(mi)ni
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,001         EDCS-ID: EDCS-08201779
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Acksius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,003         EDCS-ID: EDCS-08201781
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aem(ilius?)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,004         EDCS-ID: EDCS-08201782
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Africa
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,005         EDCS-ID: EDCS-08201783
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Agape
+inscription genus / personal status: miliaria;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,007         EDCS-ID: EDCS-08201785
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Agne
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,008         EDCS-ID: EDCS-08201786
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ag{g}rippina
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,009         EDCS-ID: EDCS-08201787
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Amantia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,010         EDCS-ID: EDCS-08201788
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Amant[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,011         EDCS-ID: EDCS-08201789
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Amitella(n)us
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,012         EDCS-ID: EDCS-08201790
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Amitellanus Fabius
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 00201,013         EDCS-ID: EDCS-08201791
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Amoria
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,014         EDCS-ID: EDCS-08201792
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Anton[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,015         EDCS-ID: EDCS-08201793
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Apilua
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,016         EDCS-ID: EDCS-08201794
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Appasi
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,018         EDCS-ID: EDCS-08201796
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Augen
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,019         EDCS-ID: EDCS-08201797
+province: Africa proconsularis         place: Sousse / Hadrumetum
+August[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,020         EDCS-ID: EDCS-08201798
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Augustus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,021         EDCS-ID: EDCS-08201799
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Aur[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,023         EDCS-ID: EDCS-08201801
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Biceci
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,025         EDCS-ID: EDCS-08201803
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Blivi[3]
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,026         EDCS-ID: EDCS-08201804
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Caelia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,027         EDCS-ID: EDCS-08201805
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Chrestina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,028         EDCS-ID: EDCS-08201806
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Caneia Emerita
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILTun-01, 00201,031         EDCS-ID: EDCS-08201809
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Catula
+inscription genus / personal status: inscriptiones christianae;  miliaria;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,032         EDCS-ID: EDCS-08201810
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Christilla
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,033         EDCS-ID: EDCS-08201811
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Coddeus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,034         EDCS-ID: EDCS-08201812
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Costhantia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,035         EDCS-ID: EDCS-08201813
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Crescenti
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,037         EDCS-ID: EDCS-08201815
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[De]uteria
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,039         EDCS-ID: EDCS-08201817
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Dona[3]
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,040         EDCS-ID: EDCS-08201818
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Donata
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,041         EDCS-ID: EDCS-08201819
+province: Africa proconsularis         place: Sousse / Hadrumetum
+El(ia?)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,042         EDCS-ID: EDCS-08201820
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Gorgonia
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,043         EDCS-ID: EDCS-08201821
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Eutychianus
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,044         EDCS-ID: EDCS-08201822
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[E]uticius
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,045         EDCS-ID: EDCS-08201823
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Fabius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,046         EDCS-ID: EDCS-08201824
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Faddatiu(s)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,047 = AE 2019, 01854 = ILMS 00044
+dating: 301 to 500         EDCS-ID: EDCS-0820182
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Fastidius in pa/ce vi{c}xit annos XV / menses VII dies XV
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+comment: monogramma Christi
+
+publication: ILTun-01, 00201,048         EDCS-ID: EDCS-08201826
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Fel(i)cianus
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,049         EDCS-ID: EDCS-08201827
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Felicitas
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,051         EDCS-ID: EDCS-08201829
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Felix
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,052         EDCS-ID: EDCS-08201830
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Fla]via
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,053         EDCS-ID: EDCS-08201831
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Flavia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,054         EDCS-ID: EDCS-08201832
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[For]tuna
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,055         EDCS-ID: EDCS-08201833
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Gnossa
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,056         EDCS-ID: EDCS-08201834
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Gorgonius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,057         EDCS-ID: EDCS-08201835
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Gu[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,058         EDCS-ID: EDCS-08201836
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Gudulus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,059         EDCS-ID: EDCS-08201837
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Elena
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,060         EDCS-ID: EDCS-08201838
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Helvia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,061         EDCS-ID: EDCS-08201839
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Autronia Rufina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILTun-01, 00201,062         EDCS-ID: EDCS-08201840
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Heraclius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,064
+dating: 301 to 500         EDCS-ID: EDCS-08201842
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Hermes / coniugi et fil(io?) dul/cis/simis
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,065         EDCS-ID: EDCS-08201843
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Hil(a)ri[anus] iunior
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,066         EDCS-ID: EDCS-08201844
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ispa[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,067         EDCS-ID: EDCS-08201845
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Onoria Primitiva
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILTun-01, 00201,068         EDCS-ID: EDCS-08201846
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ianuaria
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,069         EDCS-ID: EDCS-08201847
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Ianuaria Felicissima
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILTun-01, 00201,071         EDCS-ID: EDCS-08201849
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Innocentia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,072         EDCS-ID: EDCS-08201850
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Innocentius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,074         EDCS-ID: EDCS-08201852
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[I]ulia Vagula
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILTun-01, 00201,075         EDCS-ID: EDCS-08201853
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Iuncina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,077         EDCS-ID: EDCS-08201855
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Latizo(?)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,078         EDCS-ID: EDCS-08201856
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Laurentia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,079         EDCS-ID: EDCS-08201857
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Livia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,080         EDCS-ID: EDCS-08201858
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Longella
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,081         EDCS-ID: EDCS-08201859
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[L]ucia
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,082         EDCS-ID: EDCS-08201860
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Lucilla
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,083         EDCS-ID: EDCS-08201861
+province: Africa proconsularis         place: Sousse / Hadrumetum
+] e(t) Lucilus
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,084         EDCS-ID: EDCS-08201862
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Maiulus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,085         EDCS-ID: EDCS-08201863
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Marc]ella
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,086         EDCS-ID: EDCS-08201864
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marcell(i)na
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,087         EDCS-ID: EDCS-08201865
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marcia
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,088         EDCS-ID: EDCS-08201866
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Marcianus
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,089         EDCS-ID: EDCS-08201867
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Martia
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,090         EDCS-ID: EDCS-08201868
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Masineca
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,091         EDCS-ID: EDCS-08201869
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Matro[na]
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,092         EDCS-ID: EDCS-08201870
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Mig[3]
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,093         EDCS-ID: EDCS-08201871
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Misimia
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,094         EDCS-ID: EDCS-08201872
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Monnika
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,097         EDCS-ID: EDCS-08201875
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Nauk[3]
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,099         EDCS-ID: EDCS-08201877
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Nilles
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,100         EDCS-ID: EDCS-08201878
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Nundinius
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,101         EDCS-ID: EDCS-08201879
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Orosa
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,102         EDCS-ID: EDCS-08201880
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pascasi
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,103         EDCS-ID: EDCS-08201881
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Paula
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,104         EDCS-ID: EDCS-08201882
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[Pa]ula
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,105         EDCS-ID: EDCS-08201883
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[P]eregrinus
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,106         EDCS-ID: EDCS-08201884
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Pompeia Augustina
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,107         EDCS-ID: EDCS-08201885
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Primania Domna
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,109         EDCS-ID: EDCS-08201887
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Restuta
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,110         EDCS-ID: EDCS-08201888
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Restutus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,111         EDCS-ID: EDCS-08201889
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Rodia(n)us
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,112         EDCS-ID: EDCS-08201890
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Rogat[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,113         EDCS-ID: EDCS-08201891
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Rusinia
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,114         EDCS-ID: EDCS-08201892
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[R]usti<c=K>a
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,115         EDCS-ID: EDCS-08201893
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Se<v=B>erus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,116         EDCS-ID: EDCS-08201894
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Severina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,117         EDCS-ID: EDCS-08201895
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Siarius
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,118         EDCS-ID: EDCS-08201896
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Siditius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,119         EDCS-ID: EDCS-08201897
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Sil[l]an(us?)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,122         EDCS-ID: EDCS-08201900
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Euticius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,125         EDCS-ID: EDCS-08201903
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Subitan[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,126         EDCS-ID: EDCS-08201904
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Teofila
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,127         EDCS-ID: EDCS-08201905
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Titia[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,128         EDCS-ID: EDCS-08201906
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Turtura
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,129         EDCS-ID: EDCS-08201907
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[T]urtura
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,131         EDCS-ID: EDCS-08201909
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Valerius
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,132         EDCS-ID: EDCS-08201910
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Varia Victoria
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILTun-01, 00201,133         EDCS-ID: EDCS-08201911
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Benatia(!)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,134         EDCS-ID: EDCS-08201912
+province: Africa proconsularis         place: Sousse / Hadrumetum
+<V=B>ernac(u)la
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,135         EDCS-ID: EDCS-08201913
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[V]ernac(u)lus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,136         EDCS-ID: EDCS-08201914
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vesturi
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,137         EDCS-ID: EDCS-08201915
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vict[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,138         EDCS-ID: EDCS-08201916
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Victo[r]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,139         EDCS-ID: EDCS-08201917
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vict(or?)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,140         EDCS-ID: EDCS-08201918
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[V]icto(r)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,141         EDCS-ID: EDCS-08201919
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Victoria
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,142         EDCS-ID: EDCS-08201920
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Victorina
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,143          EDCS-ID: EDCS-08201921
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Bigul/antiu/s in p/ace vi(xi)t an(ni)/s XXXXI / m(ensibus) V
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: musivum
+
+publication: ILTun-01, 00201,144         EDCS-ID: EDCS-08201922
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[V]iminius
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,145         EDCS-ID: EDCS-08201923
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Spesin[us]
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,146         EDCS-ID: EDCS-08201924
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vincentia
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,147         EDCS-ID: EDCS-08201925
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vince(ntius?)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,148         EDCS-ID: EDCS-08201926
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Vitale
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,149         EDCS-ID: EDCS-08201927
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Urania
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00201,150         EDCS-ID: EDCS-08201928
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Urbanus
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,151         EDCS-ID: EDCS-08201929
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]gnosi
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,152         EDCS-ID: EDCS-08201930
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]ignius
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00201,153         EDCS-ID: EDCS-08201931
+province: Africa proconsularis         place: Sousse / Hadrumetum
+[3]inepa
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: SEBarc-2012-348 = AE 1968, 00618          EDCS-ID: EDCS-09701776
+province: Africa proconsularis         place: Sousse / Hadrumetum
+Neoterius occidit
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: musivum
+
+publication: CIL 08, 00061 (p 924, 1160) = ILMS 00049 = AE 2018, +01900 
+dating: 171 to 230         EDCS-ID: EDCS-14900019
+province: Africa proconsularis         place: Thrayet / Hadrumetum
+Hydatii / T(ito) Fl(avio) Umbrio / Antistio Satur/nino Fortunati/ano c(larissimo) v(iro) patrono / Aemilius M[3]e/sis cum suis
+inscription genus / personal status: ordo senatorius;  tituli sepulcrales;  tria nomina;  viri
+material: lapis

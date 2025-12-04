@@ -1,0 +1,715 @@
+publication: ZPE-229-295          EDCS-ID: EDCS-85700973
+province: Africa proconsularis         place: El Krib / Al Krib / Mustis
+D(is) M(anibus) s(acrum) / totius exercitatio/nis viro et omni / bonitatis / C(aio) Iul(io) quondam Silvani/ano fl(amini) p(er)p(etuo) et cur(atori) r(ei) p(ublicae) / v(ixit) a(nnos) LXX m(enss) VI / h(onestae) m(emoriae)
+inscription genus / personal status: ordo decurionum;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1968, 00604 = IMustis 00012          EDCS-ID: EDCS-09701763
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) Man(ibus) / sacr(um) / Q(uintus) Orfius / C(ai) f(ilius) Lemo/nia Flo/rentinus / pius vix(it) an(nos) / [3 h(ic) s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 2016, 01912 = ZPE-213-306
+dating: 81 to 96         EDCS-ID: EDCS-75300356
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Dis Manibus / T(ito) Flavio Venusto / Domitiani Aug(usti) / lib(erto) / vixit annis / LXXX sine cruciatu / Chrysanthus Aug(usti) / disp(ensator) amico bene / merenti fecit
+inscription genus / personal status: Augusti/Augustae;  liberti/libertae;  nomen singulare;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1928/29-685 = ILTun-01, 01559,2         EDCS-ID: EDCS-08601433
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Attia / Saturn/ina p(ia) v(ixit) a(nnos) / XC h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Q(uintus) Papius / Privatus / p(ia) v(ixit) a(nnos) CXX / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1928/29-686 = ILTun-01, 01559,4         EDCS-ID: EDCS-08601435
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Octa/vius / [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1928/29-686 = ILTun-01, 01559,6         EDCS-ID: EDCS-08601437
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) / C(aius) Sextius Primit[ia]/nus p(ius) v(ixit) [a(nnos)] / XLII h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / C(aius) Sextius / Felix [p(ius) v(ixit) a(nnos)] / XXX [h(ic) s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1928/29-687 = ILTun-01, 01559,1         EDCS-ID: EDCS-08601432
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+] / Aquilla / p(ia) v(ixit) XXII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1928/29-687 = ILTun-01, 01559,3         EDCS-ID: EDCS-08601434
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+]/ntana / p(ia) v(ixit) a(nnos) / LXXII / h(ic) s(ita) e(st) // ] / Corn(elius) Fe/lix / Poti/tianus / p(ius) v(ixit) a(nnos) / LXXXI h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1928/29-687 = ILTun-01, 01559,5         EDCS-ID: EDCS-08601436
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+]VO[3]us / Rufus / p(ius) v(ixit) a(nnos) LXXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00952 = CIL 08, 16420 = ILTun-01, 01622 = Alumnus 00076          EDCS-ID: EDCS-26900632
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) [s(acrum)] / [6] / [Ger]manus / [3]ICAPID / [6] / Ae(l)ius Germa/nus uxori s(uae) ca/rissim(a)<e=I> anno/rum XXIII d(efunctae) / aram posuit / p(ius) v(ixit) a(nnos) X<L=I> / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / PVI[3] / <ge=CI>rmanus / Manlius AD[3] / CAISPIO <al=N>u/min(a)e sanctis/sim(a)<e=I> p(iae) v(ixit) [3] / [6] / [6] / h(ic) s(ita?) e(st)
+inscription genus / personal status: mulieres;  servi/servae;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01583         EDCS-ID: EDCS-17900450
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Licini/us Inge/nus mil(es) / c(o)hortis / XIII urba/n(a)e |(centuria) Tavi / p(ius) v(ixit) a(nnos) / XXV / h(ic) s(itus) e(st)
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01588         EDCS-ID: EDCS-17900455
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+]ITV[3]/ia pia vi{c}(xit) / an(nos) IX / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / [3]ov[i]/us Ho/nora/tus om/nibus / hono/ribus / func/tus / p(ius) v(ixit) a(nnos) LXX / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  ordo decurionum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01589 (p 938, 1501) = ILTun-01, 01540          EDCS-ID: EDCS-17900456
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Aemilius / Lania p(ius) v(ixit) / ann(os) XXV / h(ic) s(itus) e(st) / Alchides / novus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01590         EDCS-ID: EDCS-17900457
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / [Babu]ria / M(arci) f(ilia) Quar/tinula / mater pi/issima / p(ia) v(ixit) a(nnos) LII / m(enses) II / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / [3 B]a[b]uri/us M(arci) f(ilius) / Corn(elia) / Quarti/nus p(ius) v(ixit) / a(nnos) LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01591         EDCS-ID: EDCS-17900458
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / P(ublius) Cornelius / Q(uinti) filius Cor/nelia / Vitalis / v(ixit) a(nnos) XXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01592         EDCS-ID: EDCS-17900459
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Cossu<t=I>i/us L(uci) <f=I>(ilius) Corn(elia)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 01593 (p 1501) = ILTun-01, 01540         EDCS-ID: EDCS-17900460
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+]/a vix[it] / annis / XXVII / h(ic) s(ita) e(st) / D(is) M(anibus) s(acrum) / L(ucius) D() Vic/toria/nus pi(us) / v(ixit) a(nnos) XXIII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01594         EDCS-ID: EDCS-17900461
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Egnatius / M(arci) f(ilius) Cor(nelia) / Simplici/us p(ius) v(ixit) a(nnos) XXXV / m(enses) V h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01595         EDCS-ID: EDCS-17900462
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Fulvia / C(ai) f(ilia) Boni/fatia / p(ia) v(ixit) a(nnos) / XLV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 01596 (p 1501)         EDCS-ID: EDCS-17900463
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Iuli(us) / Fruct/osus / p(ius) v(ixit) a(nnos) / XXV / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / C(aius) Iuliu/s Prim/us Ega/ssius / p(ius) v(ixit) a(nnos) / XXXXIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01597 (p 1501) = ILTun-01, 01540         EDCS-ID: EDCS-17900464
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Iulius / Strato / Sabini/anus / p(ius) v(ixit) a(nnos) / LXXX / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Corne/lia L(uci) fi/lia Fr/ucta / p(ia) v(ixit) a(nnos) / LI / h(ic) s(ita) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01598         EDCS-ID: EDCS-17900465
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / P(ubli) f(ilia?) Iulia Concordia / pia vixit / annis [3]XXI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01599         EDCS-ID: EDCS-17900466
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Iunius / Satur(us) / p(ius) v(ixit) an(nos) / XLV / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / [6] / [6] / XXV / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01600 (p 1501) = CIL 08, 15600 = ILTun-01, 01541 = ILTun-01, 01548 = Epigraphica-1988, 00018 = AE 1988, 01114          EDCS-ID: EDCS-17900467
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Liburnius / Felix Cor/nelia (M)us/ti[t]anus pi/us vixit / annis XXXII / men(sibus) V dieb(us) / V h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01601 (p 1501)         EDCS-ID: EDCS-17900468
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Dis / Mani/bus sa/crum / Licinia / Bonifa/tia pi(a) vi/xit ann(os) / XLVI / h(ic) s(ita) e(st) / D(is) M(anibus) s(acrum) / C(aius) Fulvi/us C(ai) / filius / Corne/lia Felix / p(ia) v(ixit) a(nnos) / LXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01602         EDCS-ID: EDCS-17900469
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Melin/[3 For]/tuna/ta pia / v(ixit) a(nnos) XL/VII m(enses) / III h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / P() De/fund/ania/nus p(ius) v(ixit) a(nnos) / LXI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01603         EDCS-ID: EDCS-17900470
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / [6] / C(ai) f(ilia) Nam/phami/na p(ia) v(ixit) a(nnos) / LVII / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / T(itus) Noni/us Da/tus Al/banus / p(ius) v(ixit) a(nnos) / LXXXIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01604 (p 1501)         EDCS-ID: EDCS-17900471
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Nonia L(uci) f(ilia) / Zabulla / p(ia) v(ixit) a(nnos) LXXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 01605         EDCS-ID: EDCS-17900472
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Octav/ia Hon/orata / pia vix(it) / a(nnos) XXXV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / C(aius) Ovi/us Sa/turni/nus pi/us v(ixit) a(nnos) / LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01606 (p 1501, 2698) = ILPBardo 00387          EDCS-ID: EDCS-17900473
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Osti/lius / Rusti/cianus/{s} p(ius) v(ixit) a(nnos) / XXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01607         EDCS-ID: EDCS-17900474
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Paccius / C(ai) fil(ius) / Corn(elia) / Tamuri/anus / p(ius) v(ixit) a(nnos) XL / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Quinti/lia M(arci) f(ilia) / Iusta / p(ia) v(ixit) a(nnos) / XLVIIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01608 = CIL 08, 15574         EDCS-ID: EDCS-17900475
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Silicia / Fortu/nata / p(ia) v(ixit) a(nnos) / XLVII / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / L(ucius) Petre/ius L(uci) fil(ius) / Cor(nelia) Oc/tavia/nus p(ius) v(ixit) / a(nnos) LXXXV / h(ic) s(itus) e(st) / Heracli
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01609         EDCS-ID: EDCS-17900476
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / [6] / [6] / [3 T]ertia / p(ia) v(ixit) a(nnos) / [3]XX / [h(ic)] s(ita) e(st) // [6] / [6] / [6] / [6 v(ixit)] / an(nos) LXX / h(ic) s(itus?) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 01610         EDCS-ID: EDCS-17900477
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / A(ulus) Valerius / Agilis p(ius) v(ixit) a(nnos) / IIIC / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01611 = CIL 08, 15575         EDCS-ID: EDCS-17900478
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Valer/ius / Rogati/anus / Areugi / p(ius) v(ixit) a(nnos) / XXII / h(ic) s(itus) e(st) // D(is) [M(anibus) s(acrum)] / CAI[3] / [6] / LIX[3] / p(ius?) v(ixit) a(nnos) / LXXX / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01612         EDCS-ID: EDCS-17900479
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Lucius Ve/tius Aticus / p(ius) v(ixit) a(nnos) XIX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 01613         EDCS-ID: EDCS-17900480
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Umbria Ro/[g]ata p(ia) v(ixit) a(nnos) / LXXXVII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15585 = D 04463 = ILTun-01, 01544          EDCS-ID: EDCS-26100013
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C[n(aeus)] Corn(elius) Da/tus dec(urio) sacer/dos Cereali/um arc(arius) aed(ilis) / pr(a)ef(ectus) iuris d(icundi) / pro IIvir(o) ho/mini bono / p(ius) v(ixit) a(nnos) LII / h(ic) s(itus) e(st)
+inscription genus / personal status: ordo decurionum;  sacerdotes pagani;  tituli sacri;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15586         EDCS-ID: EDCS-26100014
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Cossu/tius <L=I>(uci) fil(ius) / Fortun/<at=N>ianus / sac(erdos) p(ublicus) p(ius) v(ixit) a(nnos) / LXX h(ic) s(itus) e(st)
+inscription genus / personal status: sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15587 = ILTun-01, 01545         EDCS-ID: EDCS-26100015
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Fabius L(uci) f(ilius) Cornelia / Felix decurio m(unicipii) M(ustitani) p(ius) v(ixit) a(nnis) / XX m(ensibus) IIII die uno / h(ic) s(itus) e(st)
+inscription genus / personal status: ordo decurionum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15588 = ILTun-01, 01546          EDCS-ID: EDCS-26100016
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Iulia M(arci) <f=E>(ilia) Spi/ca sanctissima / p(ia) v(ixit) a(nnos) LXXXVII / h(ic) s(ita) e(st) / D(is) M(anibus) s(acrum) / L(ucius) Fabius L(uci) fil(ius) Cor(nelia) / Fortunatus / dec(urio) m(unicipii) M(ustitani) flam(en) / aedil(is) q(uaestor) p(ius) v(ixit) (!) XXX / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  ordo decurionum;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15589 = D 06830          EDCS-ID: EDCS-26100017
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Iulius Ter/tius Urbanus / pater tot fas/cium et fl(amen) p(er)p(etuus) / patronus / Cerealium p(ius) / vixit annis / LXXXVIII / h(ic) s(itus) e(st)
+inscription genus / personal status: sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15591         EDCS-ID: EDCS-26100019
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Marius Fe/lix Obellianus / IIvir q(uin)q(uennalis) {Q} de/signatus p(ius) v(ixit) a(nnos) / LIX h(ic) s(itus) e(st)
+inscription genus / personal status: ordo decurionum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15592         EDCS-ID: EDCS-26100020
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Corne/lia L(uci) f(ilia) / Bonifa/tia Ca[l]/[l]osina / p(ia) v(ixit) a(nnos) LXXXV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Sex(tus) [Sem]/pron[i]u[s] / Saturni/nus dec(urio) / fl(amen) aed(ilis) p(ius) v(ixit) / a(nnos) LXXXXV / h(ic) s(itus) e(st) / D(is) M(anibus) s(acrum) / Sempro/nia Ia[3]/lia p(ia) v(ixit) a(nnum) I / m(ensem) I h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  ordo decurionum;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15593 (p 2698) = ILPBardo 00385 = AE 2015, +01736          EDCS-ID: EDCS-26100021
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Caelia Bono/sa Mazica / obstetrix ma/rita castissi/ma et pudicis/[sima] vixit / [ann]is XXXXII / m(ensibus) III h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / P(ublius) Flavi/us P(ubli) f(ilius) / Corn(elia) / Felix / p(ius) v(ixit) a(nnos) / LXXV / m(enses) VI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15594         EDCS-ID: EDCS-26100022
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Victor verna / dispensator / p(ius) v(ixit) a(nnos) XXXXVI / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  servi/servae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15595         EDCS-ID: EDCS-26100023
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Iulia / Castu/la Arra/niana / p(ia) v(ixit) a(nnos) / LXXII / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / L(ucius) Anini/us M(arci) fil(ius) / Corn(elia) Fe/lix Poti/tianus / p(ius) v(ixit) a(nnos) / LXXXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15596         EDCS-ID: EDCS-26100024
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Ani/nia S/ecun/da Q/uieta / p(ia) v(ixit) a(nnos) / XXXI // D(is) M(anibus) s(acrum) / L(ucius) M() Bar/cio p(ius) v(ixit) / a(nnos) LXXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15597 = ILTun-01, 01547          EDCS-ID: EDCS-26100025
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Aviani/us Victo/ricus ho/mo ingeniosissi/mus <q=C>ui artifi/cius et ingenius / exuperavit p(ius) v(ixit) an(nos) XXXVIII h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15598         EDCS-ID: EDCS-26100026
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Cae/cilius / Hyaci/nius / p(ius) v(ixit) a(nnos) / LXX / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Q(uintus) Cae/cilius / Cocce/ius / p(ius) v(ixit) a(nnos) / XXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15599         EDCS-ID: EDCS-26100027
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) C<ae=II>sanius / Nampamo / p(ius) v(ixit) a(nnos) LXXXXVI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15601         EDCS-ID: EDCS-26100028
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Caiven/ius Satur/ninus p(ius) v(ixit) / a(nnos) LXXXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15602         EDCS-ID: EDCS-26100029
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Comi/nius Vi/ncenti/us p(ius) v(ixit) / a(nnos) XLIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15604         EDCS-ID: EDCS-26100031
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Corne/lius Pri/vatian/us p(ius) v(ixit) a(nnos) / XXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15605         EDCS-ID: EDCS-26100032
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / <Q=O>(uintus) Cos/suti/us Ho/mullus / p(ius) v(ixit) a(nnos) / XX / h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Pom/peia / Afri/can/a p(ia) / v(ixit) a(nnos) / LXXI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15606         EDCS-ID: EDCS-26100033
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Firma / pia vixit / annis XX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15607         EDCS-ID: EDCS-26100034
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Di]s Manib(us) / Fuxida pia / [v]ix(it) ann(os) VII / [F]lavius sa/cer(dos) me(n)s(am) / [ux]ori be[n]e mer(enti)
+inscription genus / personal status: mulieres;  nomen singulare;  sacerdotes pagani;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15608         EDCS-ID: EDCS-26100035
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+<T=F>hy<c=G>e / pia vixit / a(nnos) XXXII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 15609         EDCS-ID: EDCS-26100036
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+A(ulus) Iuliu/s Boni/fatius / p(ius) v(ixit) a(nnos) / XLV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15610         EDCS-ID: EDCS-26100037
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Iulia Am/pliata / pia vi/xit ann(os) / LXXXVIII / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / L(ucius) Iulius / Felix pi/us v(ixit) a(nnos) / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15611         EDCS-ID: EDCS-26100038
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) [s(acrum)] / C(aius) Iulius Restu/tus Tustlia/nus vir omni / laude et inno/centia praedi/tus p(ius) v(ixit) a(nnos) / XL m(enses) VI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15612 = ILTun-01, 01549          EDCS-ID: EDCS-26100039
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Caec<i=P>/lia / C(ai) f(ilia) Vic/toria / p(ia) v(ixit) a(nnos) / LII h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / L(ucius) Iuni/us Ro/gati/anus / p(ius) v(ixit) a(nnos) / LXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15613         EDCS-ID: EDCS-26100040
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+L(ucius) Iulius / Victor / p(ius) v(ixit) a(nnos) / XXII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15614         EDCS-ID: EDCS-26100041
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Lucillia / Felicula / p(ia) v(ixit) a(nnos) LXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15615         EDCS-ID: EDCS-26100042
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Marc[ia] / Hi<l=D>ara / pia vix(it) / an(nos) LXXVII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15616 (p 2698) = CIL 08, 17582 = ILPBardo 00386          EDCS-ID: EDCS-26100043
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) // Sextilia / Secundi/na p(ia) v(ixit) / a(nnos) LXVIIII / h(ic) s(ita) e(st) // M(arcus) Mem(m)i/us Roma/nus p(ius) v(ixit) / a(nnos) LXXXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15617         EDCS-ID: EDCS-26100044
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Teren/tia Pro/cessa / p(ia) v(ixit) a(nnos) / LV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / M(arcus) Meti/lius M(arci) f(ilius) / Corn(elia) / Creci/nus p(ius) v(ixit) / a(nnos) LIIII / m(enses) VIII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15618         EDCS-ID: EDCS-26100045
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Meti/lius Cre/cinus / p(ius) v(ixit) a(nnos) XLI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15619 = AE 1907, +00201          EDCS-ID: EDCS-26100046
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Mu<tt=II>hunbal / Pastoris fi(lius) / pius vixit / annis LXX
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 15620         EDCS-ID: EDCS-26100047
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Nonia L(uci) fil(ia) / Fortunata / Palmula pia / vixit annis / XXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15621         EDCS-ID: EDCS-26100048
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Nonia / Hono/rata p(ia) / v(ixit) a(nnos) XII / m(enses) X d(ies) XVIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15622         EDCS-ID: EDCS-26100049
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Octavia / Q(uinti) f(ilia) Neme/sis p(ia) v(ixit) a(nnos) LI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15623 = ILTun-01, 01550         EDCS-ID: EDCS-26100050
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Valeria / Cecina / p(ia) v(ixit) a(nnos) / XX // D(is) M(anibus) s(acrum) / P(ublius) Covi[3]/udio / p(ius) v(ixit) a(nnos) / LI h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15624         EDCS-ID: EDCS-26100051
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Paccia C(ai) f(ilia) / Maiori/ca p(ia) v(ixit) a(nnos) / XVI m(enses) V / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15625         EDCS-ID: EDCS-26100052
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) sac(rum) / Cominia / M(arci) fil(ia) / [F]ortunata / sanctissi/ma mori/bus fem(i)na / p(ia) v(ixit) a(nnos) XL m(enses) VI / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / C(aius) Petre/ius For/tuna/tus p(ius) v(ixit) a(nnos) / LXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15626         EDCS-ID: EDCS-26100053
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Petre/ius L(uci) fil(ius) / Cor(nelia) Mus/tulus / p(ius) v(ixit) a(nnos) / XLVIII / Herac(l)i
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15627 = LS-2022-9          EDCS-ID: EDCS-26100054
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Petreia / P(ubli) fil(ia) Ian/uaria / p(ia) v(ixit) a(nnos) / LXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 15628         EDCS-ID: EDCS-26100055
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Pilo/nius C(ai) f(ilius) / Corn(elia) / Prima/sius / p(ius) v(ixit) an(nos) / XLVIIII / m(enses) X d(ies) XII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15629         EDCS-ID: EDCS-26100056
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Sex{s}ti/us Celer / p(ius) v(ixit) a(nnos) LXXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15630         EDCS-ID: EDCS-26100057
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Q(uintus) Tadius Vic/tor Honora/tianus p(ius) v(ixit) a(nnos) / XIII m(enses) XI d(ies) XV / h(ic) s(itus) e(st) Honori
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15631         EDCS-ID: EDCS-26100058
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Tustu/leius Fe/lix p(ius) v(ixit) a(nnos) / LXXXXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15632 (p 2698)         EDCS-ID: EDCS-26100059
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Iulia C(ai) f(ilia) / Cornelia Mus/tula p(ia) / v(ixit) a(nnos) XXV / XXV/II m(enses) X / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Q(uintus) Valeri/us Q(uinti) f(ilius) / Corn(elia) / Crimial/tius p(ius) v(ixit) / a(nnos) LXXII d(ies) / XVI h(ic) s(itus) e(st) // Q(uintus) Valerius Q(uinti) f(ilius) / Corn(elia) Mustulus / v(ixit) a(nnos) XXXV mens(es) VIII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15633         EDCS-ID: EDCS-26100060
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Valerius / M(arci) f(ilius) Arn(ensi) Kas/tus pius vix(it) / an(nos) LVI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15634         EDCS-ID: EDCS-26100061
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / [3 Me]mmi/[u]s Se/[veru]s ple/[nus] fid[ei] / [homo
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 15636         EDCS-ID: EDCS-26100063
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+] / a(nnos) LXX / h(ic) s(itus?) e(st) // [6] / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 16419         EDCS-ID: EDCS-26900631
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / [Fun]dani/[a 3]L / [3]A / [3 vi]xit / [ann]is / [6] // D(is) M(anibus) s(acrum) / L(ucius) Iul(ius) / L(uci) f(ilius) Cor(nelia) / Ponti/us p(ius?) / PEI[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 16421         EDCS-ID: EDCS-26900633
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Caecili/us L(uci) f(ilius) Cor(nelia) / Blandia/nus p(ius) v(ixit) a(nnos) / XX m(enses) X / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 16422         EDCS-ID: EDCS-26900634
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / L(ucius) Caecili/us Q(uinti) f(ilius) Cor(nelia) / Blandus / p(ius) v(ixit) a(nnos) XLI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 16423         EDCS-ID: EDCS-26900635
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Carvi/lia Bo/nifati/a p(ia) v(ixit) a(nnos) / LXXII / m(enses) V / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / L(ucius) Dur/vius / Feli[x] / p(ius) v(ixit) a(nnos) / LXXXI / m(enses) X / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 16424 = ILTun-01, 01623         EDCS-ID: EDCS-26900636
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Orfia / Lucretia / p(ia) v(ixit) a(nnos) XXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 16425         EDCS-ID: EDCS-26900637
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+[D(is)] M(anibus) s(acrum) / L(ucius?) Postumi/[u]s Magni f(ilius) / Arn(ensi) Vitalis / pius vixit an/nis LXV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 16426         EDCS-ID: EDCS-26900638
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Postumia / Q(uinti) f(ilia) Quie/ta pia vix(it) / ann(os) XXXXIX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 16427         EDCS-ID: EDCS-26900639
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Avian/ia Vic/toria / p(ia) v(ixit) a(nnos) / CV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / Q(uintus) Sili/cius / Satur/ninus / p(ius) v(ixit) a(nnos) / LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 24001 = ILCV 02551 (em) = ILTun-01, 00754 = CICBardo 00045          EDCS-ID: EDCS-24501135
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Fortunatus tutus in / pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 24002 = ILCV 02297hb = CICBardo 00046          EDCS-ID: EDCS-24501136
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Sarganis / in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 27439 = ILTun-01, 01553         EDCS-ID: EDCS-25700258
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Iulius C(ai) fil(ius) / Corn(elia) Rogatus / d[ec(urio)] m(unicipii) M(ustitani) p(ius) v(ixit) a(nnos) / LXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: ordo decurionum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27443         EDCS-ID: EDCS-25700261
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Caecili/u<s=G> Perec[1] / [3]ius p(ius) / [v(ixit) a(nnos) 1]XXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27444         EDCS-ID: EDCS-25700262
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Clodius / Baric p(ius) v(ixit) a(nnos) / LV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27445         EDCS-ID: EDCS-25700263
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+]CE PH[3] / [3] M(arci) f(ilius) Feli[x
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27446         EDCS-ID: EDCS-25700264
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+] / Fundania / Monnica / p(ia) v(ixit) a(nnos) XLV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 27452         EDCS-ID: EDCS-25700270
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / Valerius / Ingenus / p(ius) v(ixit) a(nnos) CV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27453         EDCS-ID: EDCS-25700271
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Valeri/us M(arci) lib(ertus) Sal/vius p(ius) vix(it) / an(nos) LXIII / h(ic) s(itus) e(st)
+inscription genus / personal status: liberti/libertae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27454         EDCS-ID: EDCS-25700272
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Valerius / M(arci) fil(ius) Spera/tianus p(ius) v(ixit) a(nnos) / XLVIII h(ic) s(itus) e(st) / Valeria Ma/nilla p(ia) / v(ixit) a(nnum) I m(enses) IIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 27457         EDCS-ID: EDCS-25700274
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+] / annis LXXIII / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: ChrAM-2024-27
+dating: 101 to 250         EDCS-ID: EDCS-85700961
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum)/ Q(uintus) Caecilius / Crescens / Corn(elia) filius / Quintuli / p(ius) v(ixit) a(nnos) LXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ChrAM-2024-34
+dating: 101 to 250         EDCS-ID: EDCS-85700962
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Teren/tius Ho/noratus/ p(ius) v(ixit) a(nnos) XXXI / h(ic) i(acet) s(epultus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ChrAM-2024-35
+dating: 101 to 250         EDCS-ID: EDCS-85700963
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+] // D(is) M(anibus) s(acrum) / S(extus) Pon/tius / Fus/cus / p(ius) v(ixit) a(nnos)/ LXXX / h(ic) [s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: EDCS 00359 = AE 2014, 01525 = ZPE-213-305 = AE 2020, +01587
+dating: 101 to 130         EDCS-ID: EDCS-59800105
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / M(arcus) Ulpius For/tunatus lib(ertus) / et proc(urator) Aug(usti) / pius vix(it) ann(os) / XLII h(ic) s(itus) e(st) / Coelia A(uli) f(ilia) / Thallusa pi/issima uxor / fecit
+inscription genus / personal status: liberti/libertae;  mulieres;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Gephyra-2023-55          EDCS-ID: EDCS-85000113
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) // [Q(uintus) Iuliu]s Q(uinti) fil(ius) / [Mu]cianus / v(ixit) an(nos) XVIII d(ies) / VII Bizacius // Q(uintus) Iulius Q(uinti) fil(ius) / Restitutus / v(ixit) an(nos) XXI m(ensss) III / Dancharrus // [I]ulia Q(uinti) f(ili)a / Quieta / flamin(ica) / p(ia) v(ixit) a(nnos) LXXXXI // Q(uintus) Iulius Am/pliatus ve/teranus v(ixit) / ann(os) LXXXV // Q(uintus) Iulius Q(uinti) f(ilius) / Respectus / v(ixit) an(nos) XVIIII m(enses) + / Castricius // H(ic) s(iti) s(unt)
+inscription genus / personal status: milites;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 01558 = IMustis 00013a         EDCS-ID: EDCS-08601431
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Caras/sius // D(is) M(anibus) s(acrum) / C(aius) Orfius C(ai) fil(ius) / Corn(elia) Quietus / p(ius) vix(it) ann(os) L / m(enses) V h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: IMustis 00013 = CBI 00748 = AE 1968, 00605          EDCS-ID: EDCS-09701764
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+D(is) M(anibus) s(acrum) / C(aius) Orfius M(arci) f(ilius) / Corn(elia) Urba/nianus mil(es) / beneficiarius / leg(ionis) III Aug(ustae) pius / vixit ann(os) [
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: IMustis 00024 = AE 1968, 00608          EDCS-ID: EDCS-09701767
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Bivis in pace <v=B>ix(it) / annis quadrag(inta)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: LS-2022-4
+dating: 151 to 250         EDCS-ID: EDCS-82800061
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+v(ixit) an(nos) 3]III/ [3]s // [I]ulia Q(uinti) f(ili)a / Quieta / flamin(ica) / p(ia) v(ixit) a(nnos) LXXXXI // Q(uintus) Iulius Am/pliatus ve/teranus v(ixit) / ann(os) LXXXV// Q(uintus) Iulius Q(uinti) f(ilius) / Respectus / v(ixit) an(nos) XVIIII Ae[3] / Castricius
+inscription genus / personal status: milites;  mulieres;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Schmidt-2015, p 68 = AE 2015, 01836 = EpRom 2015_57_055 
+dating: 14 to 68         EDCS-ID: EDCS-72500070
+province: Africa proconsularis         place: Mest, Hr. / Mist / el-Oust, Hr. / El Ust / el-Berrouigue, Hr. / Ain Gueliane / Mustis
+Cornelia / Sp(uri) f(ilia) Fortuna/ta flaminica / Augustae pia / vixit ann(os) XLV / h(ic) s(ita) e(st) // O(ssa) t(ibi) b(ene) [q(uiescant)] // T(ibi) t(erra) l(evis) s(it)
+inscription genus / personal status: mulieres;  sacerdotes pagani;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 16263         EDCS-ID: EDCS-26900486
+province: Africa proconsularis         place: Sidi Bou Baker / Mustis
+Aris/bibo/nis / vixit / annis / LXI // D(is) M(anibus) s(acrum) / Iulia Pu/blila vi/xit an(n)is [
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ChrAM-2024-29
+dating: 101 to 250         EDCS-ID: EDCS-85700964
+province: Africa proconsularis         place: Sidi Bou Baker / Mustis
+D(is) M(anibus) s(acrum) / Sex(tus) Caeci/lius Cres/ce(n)s pius / vixit anni[s] / LXXI / h(ic) [s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ChrAM-2024-32          EDCS-ID: EDCS-85700965
+province: Africa proconsularis         place: Sidi Bou Baker / Mustis
+D(is) M(anibus) s(acrum) / Rubri/a Satu/rnina / [pi]a vi/x(it) [ // D(is) M(anibus) s(acrum) / Octavi/us Cre/menti/us p(ius) v(ixit) / a(nnos) XXXXV / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 01563 = BCTH-1970-196 = CLEAfr-01, p 86 = CLEAfr-02, 00009 = AE 1932, 00016          EDCS-ID: EDCS-08601440
+province: Africa proconsularis         place: Sidi Bou Baker / Mustis
+D(is) M(anibus) s(acrum) / Iulia Rufini coniunx Rufina / sacerdos / conditur hoc tumulo con(te)/giturque solo / [sa]ncta pudica castissi/ma matronarum / v(ixit) a(nnos) LVII
+inscription genus / personal status: carmina;  mulieres;  nomen singulare;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis

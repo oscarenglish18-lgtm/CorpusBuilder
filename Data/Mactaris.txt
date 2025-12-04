@@ -1,0 +1,3200 @@
+publication: AE 1906, 00131          EDCS-ID: EDCS-16600272
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / <v=B>i<x=S>i<t=S> me(n)s(es) / o(c)to (!) minus / <d=Z>i(e)s Baduma/s in pa(ce)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 1980, 00921          EDCS-ID: EDCS-08900663
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Pomponia Saturn/ina Cupiti filia / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00924          EDCS-ID: EDCS-08900666
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+P(ublius) Cl(audius) Aemilia/[nus 3 pi]e vixi/[t annos] CVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00925          EDCS-ID: EDCS-08900667
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Sempro[nia] / L(uci) f(ilia) Max[ima] / pia vixi[t ann]/is XI h(ic) [s(ita) e(st)]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: AE 1980, 00926          EDCS-ID: EDCS-08900668
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+T(itus) Caelius Ma[ximus(?)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00928          EDCS-ID: EDCS-08900670
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Cassius / Primigenius / vixit an(n)is LXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00929          EDCS-ID: EDCS-08900671
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Astinami Ba/ssi f(ilius) vixit an(n)/is XXX h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00931          EDCS-ID: EDCS-08900673
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Volussius / L(uci) f(ilius) Arn(ensi) Primus / pius v(ixit) a(nnos) LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00932          EDCS-ID: EDCS-08900674
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Selicius / Bassus pius / vi<x=CS>it annis LXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00933          EDCS-ID: EDCS-08900675
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Egnatius Felix / vixit an(n)is / Matron(a?) vixit / annis / LV
+inscription genus / personal status: mulieres;  ordo equester;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00934          EDCS-ID: EDCS-08900676
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3 I]ulius / L(uci) f(ilius) Hor(atia) Vic/tor pius vix(it) / ann(os) II h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00936 = AE 2015, +01736          EDCS-ID: EDCS-08900678
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Aurelia Ma/[c]ula p(ia) vixit / annis LVI / obs(t)etrix
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: AE 1980, 00937          EDCS-ID: EDCS-08900679
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Victor / pius / v(ixit) a(nnos) LVIII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AE 1980, 00938          EDCS-ID: EDCS-08900680
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Helvius Vic/torinus v(ixit) a(nnum) I / m(enses) III d(ies) VIIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00939          EDCS-ID: EDCS-08900681
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Passinia / Secunda / p(ia) v(ixit) a(nnos) LXXXI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: AE 1980, 00940          EDCS-ID: EDCS-08900682
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) s(acrum) / Q(uintus) Ga/bini/us Vi/ctor / vix(it) an(nos) / LXXX // Valer/ia Secu/ndula / vix(it) / an(nos)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00941          EDCS-ID: EDCS-08900683
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Sentia / Namfa/me vixit / annis CII // L(ucius) Senti/us Bassus / vixit annis / LXXXV / d(is) M(anibus) s(acrum)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00942          EDCS-ID: EDCS-08900684
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Q(uintus) Aridius / Porus vixit / [an]nis XXII / [h(ic)] s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00943          EDCS-ID: EDCS-08900685
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Magullius Vic/toricus vi{c}xit / annis n(umero) XVIIII // H(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AE 1980, 00944          EDCS-ID: EDCS-08900686
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) / Q(uintus) Areli/us Candi/dus amic/us patri(a)e / o<b=P>servato/r amicoru(m) / v(i)x(it) an(nos) LVIII m(enses) IIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AEA 2008, +00023 = AE 1980, 00930          EDCS-ID: EDCS-08900672
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Faustilla / Vibulli [Im]/petrati [1] / piae(!) v(ixit) a(nnos) / [
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AfrRom-10-02-682 = AE 1993, 01727          EDCS-ID: EDCS-03700795
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia Ansara qui et Hono/ratiana casta puella fidelis / in pace vixit annis(!) XVII menses VI (h)oras III
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+
+publication: AfrRom-10-02-682 = AE 1993, 01728          EDCS-ID: EDCS-03700796
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Acepius / in pace vi<x=CS>it / annis duobus / die(bus) XVIIII / (h)ora(s!) VIIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: AfrRom-10-02-683 = AE 1993, 01729          EDCS-ID: EDCS-03700797
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Α Ω / Ispendeu(s) fi/delis <v=B>i<x=CS>it in / pace an(n)is [3] m(ense) / die et (h)ora
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+
+publication: AfrRom-10-02-684 = AE 1993, 01730          EDCS-ID: EDCS-03700798
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulius Nabor / vi<x=SS>it in pace{m} an/nos quadrag/inta mense/m [et] die(s) XVII / [h(oras?)] VII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+
+publication: AfrRom-1985, p 101          EDCS-ID: EDCS-48200121
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[P]astor(?) Imilconis / [3]ntinis f(ilius) vix(i)t / [an]nis XXXX[
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: AfrRom-1985, p 102 = Mactaris-02, 00004          EDCS-ID: EDCS-48200122
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Iulius / Saturnin/us p(ius) v(ixit) a(nnos) (!)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: AfrRom-1985, p 103 = Mactaris-03, 00001          EDCS-ID: EDCS-48200123
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [L]icinia / [V]ictorilla / pia / vixit ann/is XXXVI // Q(uintus) Licinius / Efficax / pius vixit / annis / LXXVIIII // h(ic) s(iti) s(unt)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1901-CLXVIII = Mactaris-03, 00018         EDCS-ID: EDCS-43500042
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Cossidia L(uci) f(ilia) / Maior p(ia) v(ixit) / a(nnos) L h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1908-CLXII         EDCS-ID: EDCS-44400340
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / S(extus) Kachenius / Quintulus p(ius) / v(ixit) an(nos) L p(lus) m(inus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1923-CXC = ILTun-01, 00559a         EDCS-ID: EDCS-08600875
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) sac(rum) / L(ucius) Cassius Ian/uarius Severi/anus pius vixit / annis XL h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1943/45-460         EDCS-ID: EDCS-47100052
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]/s me[3] / filia Mac[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1943/45-462         EDCS-ID: EDCS-47100054
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]aticu[s] / [vixi]t an[nos
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1946/49-119         EDCS-ID: EDCS-46900004
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Modius / Honora/tus vixit / annis V
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-157 = Mactaris-01, 00014         EDCS-ID: EDCS-47100056
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Iulius C(ai) f(ilius) / Romanus / v(ixit) a(nnos) III / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-157 = Mactaris-01, 00019         EDCS-ID: EDCS-47100057
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia Venusta / v(ixit) a(nnos) XXXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1946/49-159         EDCS-ID: EDCS-47100058
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Vin]cent<i=Z>u[s] / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1946/49-227 = Mactaris-01, 00030 = AE 1949, 00030          EDCS-ID: EDCS-15100013
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+T(ito) Flavio Aug(usti) lib(erto) Sym/phoro proc(uratori) Aug(usti) IIII p(ublicorum) A(fricae) / Nasenniae Haeresis patri piissi/mo et sibi et suis solo suo pecunia / sua fac(iendum) cur(avit)
+inscription genus / personal status: liberti/libertae;  mulieres;  ordo equester;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-228         EDCS-ID: EDCS-47100062
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+II[3]RN[3]IPII[3] / vix(it) an[no]s VII[3] / [3 h(ic)] s(itus?) e[st(?)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1946/49-228         EDCS-ID: EDCS-47100061
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D]is [M(anibus)] / [3]mini[us(?)] / [3 F]elix p(ius) [v(ixit)] / [an(nos)] X m(enses) V / [h(ic)] s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-228 = Mactaris-01, 00008         EDCS-ID: EDCS-47100060
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Helvius / Barnaeus / vix(it) ann(os) LV h(ic) s(itus) est
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-374         EDCS-ID: EDCS-47400342
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Matusivi/a Saturnin/a pia vix(it) / an(nos) XX / Q(uintus) Oriclo/nius For/tunatus / piu(s) vIx(it) / an(nos) LXXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-516         EDCS-ID: EDCS-47400343
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) [s(acrum)] / M(arcus) [3]rearius / Flavianus vix[it] / [annos] XXI h(ic) s(itus) [e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-62         EDCS-ID: EDCS-47500649
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) s(acrum) / [3]nius (H)ono/[ratu]s v(ixit) an(nos) / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-62         EDCS-ID: EDCS-46900002
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) s(acrum) / [3]nius (H)ono/[ratus piu]s v(ixit) an(nos) / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-628         EDCS-ID: EDCS-47400344
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Bizacenus fide[lis] / <v=B>ixit in pace an[nos] / duo
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1946/49-629 = AE 1951, 00041          EDCS-ID: EDCS-13900476
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Val(erio) [Fi]rmo eq(uiti) alae Th/racu[m] ex n(umero) sing(ularium) ex / provincia M(auretania) Caesari/ensum stipendiorum / V vixit annis XXV con(tulit?) / Val(erius) Victor frater eius
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-63         EDCS-ID: EDCS-47500650
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius C[3]C[3] / vi{c}xit a[nn]i[s 3] / mens[e]s [3] / in[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-685 = AE 1951, 00055          EDCS-ID: EDCS-13900486
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / N[o]nnia Primitiva sace[rdos] / Cererum Punicarum pia / felix vixit annis / LXX[X]XVII men(sibus) III dieb(us) VII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1946/49-686 = Mactaris-03, 00010          EDCS-ID: EDCS-47500645
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / M(arcus) Egnatius Datu[s] / in suo spatio et fr[a]/tris arulam s[i]/bi fecit vixit an/nis n(umero) (!) // Iulia Sagitta u[xor] / eius vixit annis / n(umero) (!) / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1946/49-687         EDCS-ID: EDCS-47500646
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / h(ic) s(itus?) e(st) / vix(it) an(nos) / [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1946/49-687         EDCS-ID: EDCS-47500647
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / M(arcus) Stade[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1950/51-102         EDCS-ID: EDCS-47200403
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / P(ublius) Iann/ius Felix v(ixit) a(nnos) / LXXXVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1950/51-103         EDCS-ID: EDCS-47200404
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Aurel/ius Ari/s vixit an(nos) / LXV fe(cit?) <v=N>(ivus?) si(bi)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-197 = Mactaris-02, 00006         EDCS-ID: EDCS-47200399
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Selicius C(ai) f(ilius) Apol/inaris pius vix(it) / annis XXXII / h(ic) s(itus) e(st) / L(ucius) Selicius Restutus pa/trono posuit v(ale)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-198         EDCS-ID: EDCS-47200097
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(aius) Maculipus / [3]nus vixit / annis XXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-198         EDCS-ID: EDCS-47200100
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / M(arcus) Minthon/ius Victoricus / vixit an(no)s LXVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-198         EDCS-ID: EDCS-47200099
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Modianus / p(ius) v(ixit) ann(os) XX
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1951/52-198         EDCS-ID: EDCS-47200096
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(aius) Iulius / Fortunatus / iunior / v(ixit) an(nos) XXIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-199         EDCS-ID: EDCS-47200101
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Fulcini/us Mes/or vixit an(n)/is LXXXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-199         EDCS-ID: EDCS-47200104
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Asiss/onia / vix(it) an(nos) / LXXXXI
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1951/52-199         EDCS-ID: EDCS-47200102
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / Q(uintus) Caec[ilius] / Vict[or] / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-199 = ICMactar-10, 00071 = CLEAfr-02, 00054 = Brunet-2022, 00354          EDCS-ID: EDCS-47200103
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / hic situs est Faus/tus ingentis glori/a laudis a<v=B>is ata<v=B>i/[sque
+inscription genus / personal status: carmina;  inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1951/52-200         EDCS-ID: EDCS-47200105
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus) s(acrum)] / [Au]relius Men[3]/[3] v<i=E>{c}xit [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1951/52-200         EDCS-ID: EDCS-47200106
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) / hic Elec[tus(?)] / f(idelis) vixi[t
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1953-47         EDCS-ID: EDCS-60200052
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Epiphani/[u]s fidelis / vixit ann[os
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1953-47         EDCS-ID: EDCS-60200051
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Flubius Iul/[3]ntus Orcia/[nus fideli]ter <v=B>ixit in / [pace 3]an/[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1954-176 = AE 1957, 00089          EDCS-ID: EDCS-13600172
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / casta / pudi[c]iti/am serv/at domus
+inscription genus / personal status: mulieres;  tituli operum;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1955/56-175 = Mactaris-03, 00020         EDCS-ID: EDCS-47400368
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Sextia Q(uinti) / lib(erta) Try/phosa / pia vix(it) / an(n)is (!) / h(ic) s(ita) e(st)
+inscription genus / personal status: liberti/libertae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1955/56-176         EDCS-ID: EDCS-47400281
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) P() Vilonius / vix(it) an/nis XXVIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1955/56-176         EDCS-ID: EDCS-47400282
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / An(n)ia Se/cunda pie / vix(it) an(nos) XXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1955/56-177         EDCS-ID: EDCS-47400283
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]diate test(a)m(ento?) [3] / [3]sest[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1955/56-179 = CLEAfr-02, 00058 = AE 1960, 00116          EDCS-ID: EDCS-13302441
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[Et genui] feliciter et rem non [modicam 3] / [3 e mini]mo quaestui fraude [sine ulla 3] / [3 atque m]eis propriis natorum [et honoribus auctus 3] / [3 aeternam mo]riens famam claramq[ue reliquis 3] / [3] Pinarius Mustulus [3] / [3] H LXXV h(ic) s(itus) e(st) [3] / [3] est inferre longis [3] / [3]iae morumque [3] / [3 p]ercepi IV [3] / [3]heptae [
+inscription genus / personal status: carmina;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CICBardo 00032         EDCS-ID: EDCS-44700006
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: CICBardo 00033         EDCS-ID: EDCS-44700007
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: CIL 08, 00628          EDCS-ID: EDCS-15300167
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] P(ubli) f(ilius) Honora[tus vet(eranus)] / leg(ionis) III Aug(ustae) vixit / ann(os) LXX h(ic) s(itus) e(st)
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00630 = CIL 08, 11827          EDCS-ID: EDCS-15300169
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(aius) Verrius Rogatus Q(uirina) Quintili fil(ius) fl(amen) p(er)p(etuus) IIIvir q(uin)[q(uennalis)] et / omnibus honorib(us) functus pie vix(it) / an(nos) LXV h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  ordo decurionum;  sacerdotes pagani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00635          EDCS-ID: EDCS-15300174
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) A[nn]ius Datianus / v[ix(it)] an(n)is XVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00636 (p 2373)          EDCS-ID: EDCS-15300175
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Annius Faustin/us vix(it) an(n)i(s) LX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00637          EDCS-ID: EDCS-15300176
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Antonius / [3 Sa]turni/nus [p(ius)] v(ixit) an(nos) XXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00638          EDCS-ID: EDCS-15300177
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] C(ai) f(ilius) Quir(ina) Apol/linaris vix(it) / annis XLII h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00639          EDCS-ID: EDCS-15300178
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Aurelius / Honorat/us vix(it) an(nos) / II m(enses) VI / d(ies) V
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00641 (p 2372) = Mactaris-03, 00004          EDCS-ID: EDCS-15300180
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Bassidia Fortunata pia v(ixit) a(nnos) // LXVIIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 00642          EDCS-ID: EDCS-15300181
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]M[3]/A For/tunata / fecit / mari/to suo // ]O[3]A[3]/us [3]A[3]ac/torius Namphamo / vixit / annis / L // h(ic) s(itus?) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00643          EDCS-ID: EDCS-15300182
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Iuliu[s 3] / Quir(ina) [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00644 = CIL 08, 11844          EDCS-ID: EDCS-15300183
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dis Manib(us) sacr(um) / Q(uintus) Iulius Felix pie vix(it) / annis LX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00647 (p 2372) = CIL 08, 11787 = ILTun-01, 00518 = CLE +00116 = CLEAfrique 00023a          EDCS-ID: EDCS-15300186
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Palliae Saturninae Iulius Maximus quondam suae / hanc operi(s) struem dicavit semper ut haberet muneri / simulque memoriam piae coniugis faceret lectori / inque eo suo tempore semet cum ea concluderet / in annis triginta quibus datum est / sat probe mulier cum viro vixit suo / nihil potius cupiens quam ut sua gauderet domus / nam in rebus mariti et suis mater communis iuvenis / simplici animo vivens vix muliebrem mundum vindicabat sibi / in virum religiosa in se pudica in familia mater fuit / irasci numquam aut insidire quemquam noverat / cultu neglecto corporis moribus se ornabat suis / et n[e]m[ine de] fami[l]ia pudore solo comitabatur suo
+inscription genus / personal status: carmina;  mulieres;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00649 (p 1219)          EDCS-ID: EDCS-15300188
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Iul(ius) Maxi(mus) Flav(ianus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00650 (p 1219)          EDCS-ID: EDCS-15400775
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Pal(lia) Sat(urnina)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 00651 (p 1219)          EDCS-ID: EDCS-15400776
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Iul(ius) For(tunatianus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00652 (p 1219)          EDCS-ID: EDCS-15400777
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Victo/rina
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 00653 (p 1219) = ILTun-01, 00520          EDCS-ID: EDCS-15400778
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arci) Iul(i) Maxi/mi condito/ris
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00654 = CIL 08, 11789          EDCS-ID: EDCS-15400779
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Aucro/nia Rog(a)/<t=I>ia[na
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 00655 = CIL 08, 11790          EDCS-ID: EDCS-15400780
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(aius) Iulius Mo[n]/tanus / iun[i]/or vixit / an[n(os) 3] / C(aius) Iulius [Pr]i/mus(?) vixit / an(n)is IIII h(ic) [s(itus) e(st)] / Iulii Secu[n]/dianus et [Co]/ronat[a] / parenti[s
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00656 (p 927) = CIL 08, 11791 = Mactaris-03, 00024          EDCS-ID: EDCS-15400781
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // Magni/a Maxi/ma vi<x=C>(it) / an(nis) LXXXV // C(aius) Valeri/us Felix ar/t(e?) hon(oratus?) piu/s v(ixit) a(nnis) LXXX / h(ic) s(itus) e(st) // Valeria / Maximilla / vixit an/nis II / mense I // C(aius) Valerius / Vindemi/alis vixit annis(!) I m(ensibus) / XI die(bu)s XXIII
+inscription genus / personal status: mulieres;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00657 (p 2372)          EDCS-ID: EDCS-15400782
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Mantia P(ubli) f(ilia) / Tertulla pia / v(ixit) a(nnos) LIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 00658          EDCS-ID: EDCS-15400783
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Naevius M[a]/ximus pius v/ixit an(nos) XX m(enses) XI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00659          EDCS-ID: EDCS-15400784
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Porcius Ma/ximus H[u]mi/lis pius v(ixit) / a(nnos) XX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00660 (p 2372) = Mactaris-01, 00012          EDCS-ID: EDCS-15400785
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Refrius C(ai) f(ilius) Aem(ilia) / Africanus / pius vix(it) annis / LXXVII h(ic) s(itus) e(st) / s(it) t(ibi) t(erra) l(evis)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00661          EDCS-ID: EDCS-15400786
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Se<m=N>pron/ius Satur/ninus / vixit an(n)i/s XXXXV h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / c(oniugi) o(ptima) S(empronia) Victor/ia
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00662          EDCS-ID: EDCS-15400787
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Terentia Prima / pia vix(it) a(nnos) LXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 00663 (p 2373) = ILTun-01, 00521          EDCS-ID: EDCS-15400788
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Vesta Ianuaria p(ia) v(ixit) a(nnos) LXVI / Q(uintus) Caecilius Secundus pius [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00664 = CIL 08, 11792          EDCS-ID: EDCS-15400789
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Victrius [L(uci) l(ibertus)] / Polybius pius / vix(it) ann(os) XXV / h(ic) s(itus) e(st)
+inscription genus / personal status: liberti/libertae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00665 (p 1219)          EDCS-ID: EDCS-15400790
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 00666          EDCS-ID: EDCS-15400791
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [3]NAIO[3]ECOHE[3] / [3]gittario [3]MIH[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00667 (p 2373) = CIL 08, 11843 = ILPBardo 00107 = Mactaris-02, 00007          EDCS-ID: EDCS-15400792
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iu[l]ius Fa[s]ir(?) / v[ixi]t annis / XLV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00668          EDCS-ID: EDCS-15400793
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]NNV[3] / [3]OP[3] / vixit ann(os) / X / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 00670 (p 1219) = ILCV 02646 = ICMactar-12, 00019 = ILTun-01, 00522          EDCS-ID: EDCS-15400795
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fla<v=B>ius / Argutio / in pace <v=B>/i{c}xit an/nis XXX m/ense un<o=V> / die(bu)s XXIIII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00671 = CIL 08, 11794 = ILCV 01381b = ICMactar-12, 00020 = ILTun-01, 00523          EDCS-ID: EDCS-15400796
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Licinius Gu/[l]osus [f]ideli/[s i]n pace vixit / ann(is) LVIII m(ensibus) / VIII d(iebus) V dep(ositus) VI / K(a)l(endas) Iulias
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00672 = ILCV 01381c = ICMactar-12, 00021 = ILTun-01, 00524          EDCS-ID: EDCS-15400797
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Paulinu/s fidelis in / pace vixit a/nnis pl(us) mi(nu)s X / me(nsibu)s X (h)oras(!) V
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00673 (p 2372) = ILCV 03941 = ICMactar-12, 00002          EDCS-ID: EDCS-15400798
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Pompe/ius Cer/cadio in / pace vix(it) / annis XV / me(nsibus) V
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00674 = ICMactar-12, 00022 = ILTun-01, 00525          EDCS-ID: EDCS-15400799
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Tria[3]/ria vix[it] / [a]n(nos) IX [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11824 (p 2372) = CLE 01238 = CLENuovo p 122 = D 07457 = Louvre 00187 = ILTun-01, 00528 = AfrRom-1987, p 01-137 = Mactaris-03, 00025 = Schnitter = AE 1946, +00062 = AE 1959, 00176 = AE 1987, +01025 = AE 1988, +01118 = AE 2008, +01627 = AE 2012, +00032 = AE 2019, +00020 = Brunet-2022, 00569 
+dating: 201 to 300         EDCS-ID: EDCS-23200467
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Caeselia Namina [3] / [3]lianus pius [vix]it / pia vixit annis [3] / [3] annis / [6] / VE[3]AIIIS[3]MA[3] fui / paupere progenitus lare sum parvoq(ue) parente / cuius nec census neque domus fuerat / ex quo sum genitus ruri mea vixi colendo / nec ruri pausa nec mihi semper erat / et cum maturas segetes produxerat annus / demessor calami tunc ego primus eram / falcifera cum turma virum processerat arvis / seu Cirtae Nomados seu Iovis arva petens / demessor cunctos anteibam primus in arvis / pos(t) tergus linguens densa meum gremia / bis senas messes rabido sub sole totondi / ductor et ex opere postea factus eram / undecim et turmas messorum duximus annis / et Numidiae campos nostra manus secuit / hic labor et vita parvo con(ten)ta valere / et dominum fecere domus et villa paratast / et nullis opibus indiget ipsa domus / et nostra vita fructus percepit honorum / inter conscriptos scribtus et ipse fui / ordinis in templo delectus ab ordine sedi / et de rusticulo censor et ipse fui / et genui et vidi iuvenes carosq(ue) nepotes / vitae pro meritis claros transegimus annos / quos nullo lingua crimine laedit atrox / discite mortales sine crimine degere vitam / sic meruit vixit qui sine fraude mori // D(is) M(anibus) s(acrum) / C(aius) Mulceius / Maximus / vixi(t) an(nos) XXX // D(is) M(anibus) s(acrum) / S(extus) Au[reli]/us F[3]/nus vix(it) / an(nos) XL
+inscription genus / personal status: carmina;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11825 (p 2372) = D 08181 = ILPBardo 00104 = Mactaris-03, 00003          EDCS-ID: EDCS-23200468
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Canneia Op/tata pia vixi(t) / annis LX / h(ic) s(ita) e(st) // C(aius) Cassius C(ai) f(ilius) Imi[3] / def(ensor) publ(icus) suis sumpt[ibus] / qui me commusserit / habebit deos iratos et / vivus ardebit v(ixit) a(nni) CXIIII // ] Quadratianus / [defensor] publicus / [3]ari defensoris / [publici f(ilius)] vix(it) an(nis) XXXIIII / [h(ic) s(itus) e(st) // Cassi[a 3]/fria p[ia vi]/xit an(n)is X[
+inscription genus / personal status: mulieres;  ordo decurionum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11826 (p 2372)         EDCS-ID: EDCS-23200469
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Numisia [3]/ma sacerdos / Cererum pia / vixit annis LXXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sacri;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11829         EDCS-ID: EDCS-23200470
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Agria C(ai) l(iberta) / Pere<g=C>riana / v(ixit) a(nnos) XXXIV / h(ic) s(ita) e(st)
+inscription genus / personal status: liberti/libertae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11830         EDCS-ID: EDCS-23200471
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Turpilia / Fausta / v(ixit) a(nnos) L h(ic) s(ita) e(st) // Q(uintus) Albicius / Bar[ic]io / v(ixit) a(nnos) L h(ic) s(itus) e(st) // Albicius Mon[t]anus / parentibus fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11831 (p 2372)         EDCS-ID: EDCS-23200472
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Antisti/us Hono/ratus vi/xit annis / octoginta
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11832 (p 2372) = ILPBardo 00105 = Mactaris-01, 00021          EDCS-ID: EDCS-23200473
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Apsennia / M(arci) f(ilia) Secunda / vix(it) annis / XXX pi(a) h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11833         EDCS-ID: EDCS-23200474
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Avidia / Felicitas / pia vixit / annis n(umero) V / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11834         EDCS-ID: EDCS-23200475
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] MAN[3] / Caelia C(ai) f(ilia) Maxima pia vix(it) an(nos) LXXX L(ucius) Ga[3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11835         EDCS-ID: EDCS-23200476
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / Ca[l]igani[s f(ilia)] / pia vixit ann(os) / LXXXV h(ic) s(ita) e(st) / o(ssa) t(ibi) b(ene) q(uiescant) t(erra) t(ibi) l(evis) s(it)
+inscription genus / personal status: tituli operum;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11836         EDCS-ID: EDCS-23200477
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // T(itus) Corne/lius Op/tatianu/s v(ixit) a(nnos) L / h(ic) s(itus) e(st) // Aquilia / Namged/de mari/to raris/simo v(ixit) a(nnos) [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11837 (p 2372) = Mactaris-03, 00002         EDCS-ID: EDCS-23200478
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [N]aevia Vin/[d]icta pia vi/[x]it annis / [3]XXVII m(ensibus) / [3] d(iebus) XV / h(ic) s(ita) e(st) // D(is) M(anibus) s(acrum) / L(ucius) Domitius Se/cundianus / pius vixit an/nis LVIII m(ensibus) II / d(iebus) XXV h(ic) s(itus) e(st) // D(is) M(anibus) s(acrum) / Antistia Vic/toria pia / vixit an(nis) LXXXV / h(ic) s(ita) // D(is) M(anibus) s(acrum) / L(ucius) Domitius / Rogatus / Veranus / pius vix(it) an(nis) / LXV h(ic) s(itus) // D(is) M(anibus) s(acrum) / Domitia / Victoria / pia soror Do/mitiorum / Rogatiani et Se/cundiani vixit / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11838         EDCS-ID: EDCS-23200479
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Pom]pe/ius Ia/nuari/us v(ixit) an(n)i(s) LXX / [ // ] / Flavia / Fausta / p(ia) b(ona) vix(it) / an(nos) LXXV / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11839 (p 2372) = ILPBardo 00106 = Mactaris-01, 00020          EDCS-ID: EDCS-23200480
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+F(lavia) Iula pia / vixit an[n(os)] / XX[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11840         EDCS-ID: EDCS-23200481
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+F]ortun/atia / vix{s}i<t=S> / an(n)is / LXXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11841 (p 2372) = ILTun-01, 00529         EDCS-ID: EDCS-23200482
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Geminia / Macrina / pia v(ixit) a(nnos) XV / m(ensem)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11842         EDCS-ID: EDCS-23200483
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Ianua/rius pi(us) / v(ixit) a(nnos) XXXVIII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11845 (p 2372) = Mactaris-02, 00005         EDCS-ID: EDCS-23200484
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Iulius Martialis / Zama <et=I> Sileha co(n)iun[x] / vixit anni(s) LXV C[3] / Anni[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11846         EDCS-ID: EDCS-23200485
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius Felix fil(ius) ob / pietatem parenti/bus posuit dedic(avit) / D(is) M(anibus) s(acrum) / C(aius) Iulius Satur/ninus Pomponia / Victoria vixerunt / an(nos) LXXX h(ic) s(iti) s(unt)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11847         EDCS-ID: EDCS-23200486
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iul(ius) Vic(tor) / vixit an(n)/is LXXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11848         EDCS-ID: EDCS-23200487
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia Paeonia / vix(it) ann(os) XXXVII / m(enses) III d(ies) IIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11849         EDCS-ID: EDCS-23200488
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Iunius Cres/cens pius vix/it an(nos) XXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11850         EDCS-ID: EDCS-23200489
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Lucilius C[3]o[3]/us pius vixit [an]/nis LXX h(ic) s(itus) e(st) / Cossinia Quinta pia / vixit annis LX h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11851 (p 2372)         EDCS-ID: EDCS-23200490
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Lucilius Sa/turninus / pius vix(it) an(nos) LI / h(ic) s(itus) est
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11852         EDCS-ID: EDCS-23200491
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / Magna vixit / an(nos) XC h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11853 (p 2372)         EDCS-ID: EDCS-23200492
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dis Man(ibus) sac(rum) / Selicia F() In/genua pia / vixit annis / LXXVI m(ensibus) II / h(ic) s(ita) e(st) // D(is) Ma(nibus) sac(rum) / Mamurius Pos/timus / pius vixit / annis / LXX h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11854         EDCS-ID: EDCS-23200493
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / Mari[3] / AN[3] / pia vi[xit 3] / XXXX[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11855 (p 2372)         EDCS-ID: EDCS-23200494
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Maximus L[3]/minthonis f(ilius) / [3]S[
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11856 (p 2372)         EDCS-ID: EDCS-23200495
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Maxima Maximi / f(ilia) p(ia) vixit anni/s XXX hic sita est
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11857         EDCS-ID: EDCS-23200496
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / M[i]nuc[i]/us Roga/tus vixit / an(nos) XL
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11858         EDCS-ID: EDCS-23200497
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Min/ucius Se/cu(n)dus vix(it) / an(n)i(s) III
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11859         EDCS-ID: EDCS-23200498
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Mulleia Victoria / vixit annis LXIII / m(ense) I et die(bu)s X
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11860         EDCS-ID: EDCS-23400687
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Naevius Ma/ximus pius v(ixit) a(nnos) / LXXXXVIII hic / situs est / L(ucius) Naevius Fe/lix pio et be/nignissimo / patri
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11861 = Mactaris-03, 00011          EDCS-ID: EDCS-23400688
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // Lucili/a L(uci) f(ilia) Sa/bina pi/a sibi et / marito / fecit vi/xit an/nis L // Q(uintus) Octa/vius Fe/lix Bur/donia/nus pi/us vixit / ann(os) L[3]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11862 (p 2372) = Mactaris-03, 00017          EDCS-ID: EDCS-23400689
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Octavia / Spes pia / vixit annis / XXX h(ic) s(ita)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11863 = Mactaris-03, 00019         EDCS-ID: EDCS-23400690
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Octavia Sra[3] / vixit an(n)i[s
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11864 = BCTH-1946/49-686 = Mactaris-03, 00012          EDCS-ID: EDCS-23400691
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // L(ucius) Rammi/us Ianua/rius vixit / annis / LXXXV h(ic) s(itus) e(st) // Manlia / Saturni/na uxor / vix(it) ann(is) / LXXXVIII // L(ucius) Manlius Victor parenti/bus optimis de suo fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11865         EDCS-ID: EDCS-23400692
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / A(ulus) Rupilius L(uci) f(ilius) / Pap(iria) Saturni/nus pius vix(it) / an(nos) LXXXVI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11866         EDCS-ID: EDCS-23400693
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is)] M(anibus) s(acrum) / [Sal]lustius / [Ro]gatus / [pi]us vixit / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11867 (p 2372) = Mactaris-01, 00024          EDCS-ID: EDCS-23400694
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Satura Flo/ri f(ilia) vixit a(nnos) / LXVIII h(ic) s(ita)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11868         EDCS-ID: EDCS-23400695
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is)] M(anibus) s(acrum) / [Ael]io Saturnino patri / [O]ctaviae L(uci) f(iliae) Matronae matri / piissimis
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11869 (p 2372)         EDCS-ID: EDCS-23400696
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Saturninus / Frontonis / f(ilius) Zaigulit/anus vixi(t) / an(n)is XXVII / hic si(t)us e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11870 (p 2372)         EDCS-ID: EDCS-23400697
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // Sedia Ni/na Bisil(is) / fil(ia) vix(it) / annis LXXX h(ic) s(ita) e(st) // Bisil vixit / annis [3]C / H
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11871         EDCS-ID: EDCS-23400698
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Seius Mus/tus pius / vixit annis / XXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11872 (p 2372) = Mactaris-03, 00007          EDCS-ID: EDCS-23400699
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // Aelia Vi/ctoria / vixit a/n(n)is XLI // L(ucius) Septi/mius / Satur/nus vi/<x=CS>it an(n)is (!) // D(is) M(anibus) s(acrum) // Pullae/nia Ro/gata vi/xit ann/is XLI // Septi/mio Ru/fo vix/it an(n)is / LIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11873 (p 2372)         EDCS-ID: EDCS-23400700
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Sileca Laeti f(ilia) p(ia) v(ixit) / annis XV / h(ic) s(ita) est
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11874 (p 2372) = ILPBardo 00108 = Mactaris-01, 00018          EDCS-ID: EDCS-23400701
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Staberia / Calmasa / vixit (!) V / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11875         EDCS-ID: EDCS-23400702
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Su[l]picia Sat/urnina vix(it) / a[nnos] LXXXII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11876         EDCS-ID: EDCS-23400703
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Tadius / Castu/lus pius / vixit annis / XXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11877 (p 2372)         EDCS-ID: EDCS-23400704
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Terentius Roga/tus pius vixit / annis XXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11878         EDCS-ID: EDCS-23400705
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Titurius / Saturninus / pa(ter) pi(us) vix(it) an(nos) LXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11879         EDCS-ID: EDCS-23400706
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(aius) Valerius v(ixit) an(nos) X / [3] vix(it) f(eliciter?) / annis XXVI h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11880 (p 2372) = Mactaris-01, 00001         EDCS-ID: EDCS-23400707
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+T(itus) Vaternius / C(ai) f(ilius) Stel(l)atina
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11881         EDCS-ID: EDCS-23400708
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]S / [3]via / [3 Vict]oria / [3] an(nos) / [3]XII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11882         EDCS-ID: EDCS-23400709
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucio) Virio Tertullo fratri / et / Vibiae L(uci) f(iliae) Maternae Sissinae sorori / piissimis
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11883 = CLE 00530 = ILTun-01, 00530 = CLEAfrique 00026          EDCS-ID: EDCS-23400710
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Quanta homini conferre potest / fortuna [pri]o[rum tanta] bona ego ti/bi [tul]i iuvenis qui obi(i)t cum laude
+inscription genus / personal status: carmina;  tituli sacri;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11886 (p 2372)         EDCS-ID: EDCS-23400713
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus)] / M[3] / N[3] / PRI[3] / V[3] / H[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11887         EDCS-ID: EDCS-23400714
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / vi(xit) / an(nos) LXXX/V h(ic) s(iti) s(unt) // ]CO[3] vi(xit) / an(nos) LXXXI / h(ic) s(iti) s(unt)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11888         EDCS-ID: EDCS-23400715
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]O[3]LIV[3] / [3]s pius vi[xit] / [ann]is XXXX[3] / [he]res p(osuit)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11893 = ICMactar-01, 00002 = ILCV 01107a = ILCV +02436 = ILTun-01, 00531 = Louvre 00901          EDCS-ID: EDCS-23400719
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Olim d(e)o dignus / hic in tumulo / iacet episc(opus) Ger/manus in episc(opatu) vi(xit) / an(nos) [3] m(enses) [3] d(ies) [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli operum;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11894 = ICMactar-01, 00001 = ILCV 01107b = Louvre 00902          EDCS-ID: EDCS-23400720
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Rutilius episcop(us) / in ep(iscopatu) vix(it) ann(os) XXIII / [m(enses)] II d(ies) X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11895 = ILCV 01382 = ICMactar-11, 00001 = ILTun-01, 00532          EDCS-ID: EDCS-23400721
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Bonispera f[i]/delis in pace <v=B>ixi/t an(n)is VIIII d(iebus) III
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11896 = ICMactar-01, 00003 = ILCV 02647          EDCS-ID: EDCS-23400722
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cersciturus / in pace vixit an(nos) XIV me/nses XI dies XXV (h)oras / III
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11897 = ILCV 03942 = ICMactar-11, 00003 = ILTun-01, 00533 = CICBardo 00028          EDCS-ID: EDCS-23400723
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / vixit in / pace Grun/nitus ann(os) / LV m(enses) IIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11898 = ICMactar-01, 00004 = ILCV +02648a          EDCS-ID: EDCS-23400724
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dom(i)nicellus / in pace vixit / m[enses 3] (h)or(as) I[
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11899 = ILCV +03085a = ICMactar-12, 00018          EDCS-ID: EDCS-23400725
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]us / Geminius vi/xit in pace an/nis(!) sexag<i=E>n/ta quattuor / men(ses) X d(ies) X h(ic) s(itus) e(st) / V Id(us) / Decembres
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11900 = ILCV 00334 = ICMactar-11, 00004 = ILTun-01, 00534 = Carletti-2008, 00149
+dating: 401 to 500         EDCS-ID: EDCS-23400726
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulia Victo/ria h(onesta) f(emina) fidelis / in pace vixit / an(nos) XXV m(enses) [3] d(ies) V / h(oras) III reddid[it] die / XV Kal(endas) N[ov]emb(res)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  ordo equester;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11901 = ICMactar-11, 00021 = ILTun-01, 00535         EDCS-ID: EDCS-23400727
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Maxi[mus?] / in pace [3]/CII vix[it an]/nis LXXVI
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11902 = ICMactar-01, 00005 = ILCV +02647 = ILTun-01, 00535         EDCS-ID: EDCS-23400728
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Resti/tutus / in p(ace) vix(it) / an(nos) XXX
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11903 = ILCV +02647 = ICMactar-11, 00006 = ILTun-01, 00535         EDCS-ID: EDCS-23400729
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Victorinus in / pace vixit ann[os
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11904 = ICMactar-01, 00006          EDCS-ID: EDCS-23400730
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+ARIA ISTE / VIXIT ANNI / VS STE
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11905 = ICMactar-12, 00016         EDCS-ID: EDCS-23400731
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [3]CTA in [pa]/[ce] vixit an(nos) / LXXI mens(es) III
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11906 = ICMactar-11, 00007 = ILTun-01, 00536         EDCS-ID: EDCS-23400732
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]DIM[3] / [3]ATTA[3] / in pace / [3]T[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11907 = ICMactar-11, 00008          EDCS-ID: EDCS-23400733
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]D[3] / [vixit] in pac[e] / [a]nnis LV m[en]/ses(!) III [dies 3] / (h)oras IIII / h(ic) [s(itus) e(st)]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11908         EDCS-ID: EDCS-23400734
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / I[3] / vixit / annis / LXVII
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11909 = ICMactar-11, 00009         EDCS-ID: EDCS-23400735
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23404 = AE 1900, 00126 = AE 1949, +00030          EDCS-ID: EDCS-24502095
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Veneri / Menophilus / soc(iorum) IIII p(ublicorum) A(fricae) ser(vus) / v(otum) s(olvit) l(ibens) m(erito)
+inscription genus / personal status: nomen singulare;  servi/servae;  tituli sacri;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23417 = CLE 02186 = ILTun-01, 00540 = Mactaris-01, 00003 = CLEAfrique 00022          EDCS-ID: EDCS-24502105
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Arruntia Sperata veter(ani) / f(ilia) (h)unc titulu(m) de silic(e) / factum Arruntiu(s) / pater fecit merito / sit tibi te(r)ra lev{e}is / quod ego speravi te mi / facere v(ixit) a(nnos) XXIIX h(ic) s(ita) e(st)
+inscription genus / personal status: carmina;  milites;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23418         EDCS-ID: EDCS-24502106
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[Au]fidius Sa/turni[n]us vet(e)ra/nus v(ixit) a(nnos) LXX
+inscription genus / personal status: milites;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23419 = ILTun-01, 00541 = Mactaris-02, 00012          EDCS-ID: EDCS-24502107
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) L(ucius) Antonius / Saturninus sacerdos / D(ianae?) LXX v(ixit) a(nnos)
+inscription genus / personal status: sacerdotes pagani;  tituli sacri;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23421          EDCS-ID: EDCS-24502109
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [3]II fil(ius) Pap(iria) Tiprunitanus / [3] praef(ectus) i(ure) d(icundo) pro IIvir(o) / [3] XXXII Pomponia L(uci) fil(ia) / Saturnina uxor eius pia vix(it) ann(os) LII
+inscription genus / personal status: mulieres;  ordo decurionum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23424         EDCS-ID: EDCS-24502112
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]IIXMIIR / [3]oacinas cum / [3]NCIIIIS tutam / [3]minianii [3]I / [3] sib[i 3] / [3]iuru[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23425         EDCS-ID: EDCS-24502115
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Gessius / C(ai) f(ilius) Florus / domo Abel/lini vix(it) ann(os) / XLVIIII h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23426 = ILTun-01, 00542          EDCS-ID: EDCS-24502116
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Soboi Sern(i) [f(ilius)] / Midi(ditanus) vixit / an(n)os LXIII / hic sep(ultus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23428         EDCS-ID: EDCS-24502117
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / vix(it) annis XLV / C(aius) Agr() Dia() d(e) s(ua) p(ecunia) c(uravit) f(aciendum)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23428a         EDCS-ID: EDCS-24502118
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[Au]charia C(ai) f(ilia) / Quinta / pia vixit annis / [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23429         EDCS-ID: EDCS-24502119
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Antistius / Marinus vixi/t annis XLIII m(ensibus) / VI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23430 = Mactaris-02, 00014         EDCS-ID: EDCS-24502120
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Antoni/us Cudu/dus vixit / annis XXVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23431 = Mactaris-02, 00010          EDCS-ID: EDCS-24502121
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // [3] Maior / [3 a]nnis LXXX // L(ucius) Antonius / Marcellus / vixit annis LV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23432 = Mactaris-02, 00013          EDCS-ID: EDCS-24502122
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Anto/nius M/aximus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23433 = ILTun-01, 00544 = Mactaris-02, 00011          EDCS-ID: EDCS-24502123
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Anton/ius Nar/izal // v(ixit) a(nnos) LXXXXV // D(is) M(anibus) s(acrum) / Octavia / Rufina / v(ixit) a(nnos) LXXVII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23434         EDCS-ID: EDCS-24502124
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Antonia Maxima / vixit an(n)is XXVII / me(n)sibus III
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23435         EDCS-ID: EDCS-24502125
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Antoni/a Saturn/ina pia v(i)xit / an(n)is XVIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23436 = Mactaris-02, 00008          EDCS-ID: EDCS-24502126
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) <M=N>(anibus) s(acrum) / Antonia / Celin pia vixit / [3]X m(enses) II
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23437 = ZPE-156-309 = AE 2003, 01976          EDCS-ID: EDCS-24502127
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dis Manibus An/tullae Minthonia / Pastoris filia vixit annis / XXX Iulia Aufida Quinti / Aufidi filia vixit annis XI
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23438         EDCS-ID: EDCS-24502128
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Apron[i]a / Prima h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23440         EDCS-ID: EDCS-24502130
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Aristobo/lus vixit{i} / a[n(n)os
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23441 = Mactaris-01, 00005          EDCS-ID: EDCS-24502131
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Aufidius / Rogatus / pius vi<x=CS>it an/nis XXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23442         EDCS-ID: EDCS-24502132
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Aufidia Sil/vana v(ixit) / an(n)is // Marau / Chubudis f(ilius) / v(ixit) a(nnos) LXXXII / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23443         EDCS-ID: EDCS-24502133
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3 A]ufidius Iu/stus pius vixit an/nis LXXX est / Tu[3] / vix(it) an(nos) LXXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23444 = Mactaris-01, 00027         EDCS-ID: EDCS-24502134
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Aula Zdr/umae Ami/caris pia v(ixit) a(nnos) / LXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23444a = ILTun-01, 00545 = Mactaris-01, 00013          EDCS-ID: EDCS-24502135
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Bennius Extri/cati f(ilius) vixit an(nos) VIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23445         EDCS-ID: EDCS-24502136
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cecilia Qu(inti) / f(ilia) Soluta / pia vixit / an(nos) LXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23446         EDCS-ID: EDCS-24502137
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Caius Lus/celus pius vix(it) / an(n)is XXXXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23447         EDCS-ID: EDCS-24502138
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Q(uinto) Camellio Op/tato Fausto / vixit an(nos) LVII / et Flavia Pri/mae par(entibus) piis(simis) // vix(it) an(nos) LXXXXVII // Camelli Faustus / et C{a}eler fec(erunt)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23448         EDCS-ID: EDCS-24502139
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is) M(anibus)] s(acrum) / Casus O/noratus / v(ixit) a(nnos) XVIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23449         EDCS-ID: EDCS-24502140
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cassia C(ai) f(ilia) / Potita / vix(it) a(nnos) XXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23450         EDCS-ID: EDCS-24502141
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cassia / Roga/ta pia / vixit / annis / LXXX / h(ic) s(ita) e(st) // Ti(berius) Clau/dius Fa/ustus / pius / vixit / annis / LXXXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23451         EDCS-ID: EDCS-24502142
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / COLR[3]/us Celsus / vixit annis / XXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23452         EDCS-ID: EDCS-24502143
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Chubud Masm/aconis f(ilius) p(ius) vixit / annis LXXV h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23453         EDCS-ID: EDCS-24502144
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Claudia / Tertulla / pia vix(it) an(nos) / XIIII h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23454         EDCS-ID: EDCS-24502145
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Coelius / pius vix(it) / annis LXV / h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23455 = Mactaris-01, 00015         EDCS-ID: EDCS-24502146
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cornelius / p(ius) v(ixit) an(nos) / XXV h(ic) s(itus) / e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23458         EDCS-ID: EDCS-24502149
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[C]utia Tert/ulla pia / vixit ann/is XXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23459         EDCS-ID: EDCS-24502150
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+T(ito) Egnatio / h(ic) s(itus) est
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23460         EDCS-ID: EDCS-24502151
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Egnatius / Birzilian/us v(ixit) a(nnos) XXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23461         EDCS-ID: EDCS-24502152
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Q(uintus) Egnatius / Optatus / Q(uinti) Egnat(i) Rogat(i) / fil(ius) v(ixit) a(nnos) XXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23462         EDCS-ID: EDCS-24502153
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] L(uci) f(ili) [3] / [3]vic[3] / ann(os) / LXV / (h)oris [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23462a         EDCS-ID: EDCS-24502154
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]/vis Felix pie vix[it] / [annos] LX h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23463         EDCS-ID: EDCS-24502155
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Felix Sat(urni) / filius vixit / annis III
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23464 = AE 2020, +00063         EDCS-ID: EDCS-24502156
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Flavius Adventus / pius vixit ann(os) LXV / Minucia Amanda uxor / eius sua pecunia sibi et ma/rito suo arulam in solo suo / posuit h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23465         EDCS-ID: EDCS-24502157
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+For]/tunata / [6]/[n]am / [Ph]amo / vixit / annis / L / fecit mari/to suo / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23466         EDCS-ID: EDCS-24502158
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]ius Vic[3] / [3]s vixit [3] / [annos] LXVII [3] / [3 F]ortuna[t 3] / [3 vi]xit [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23467         EDCS-ID: EDCS-24502159
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / I[3] / Fortuna/ta vix(it) an(nos) / LXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23468         EDCS-ID: EDCS-24502160
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[G]argilia Saturni[na] / pia vixi[t] / annis LXXXXVI[3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23469 = ILTun-01, 00546         EDCS-ID: EDCS-24502161
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Geminiu[s] / Felix vix(it) / an(nos) LXXIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23470         EDCS-ID: EDCS-24502162
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) sac(rum) / Grania Pau/[
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23472         EDCS-ID: EDCS-24502164
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dis Manibus sac(rum) / Ia<n=M>uaria Fortu/nati filia pia vix/it an(n)is XXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23474         EDCS-ID: EDCS-24502165
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Instius / Maca vixit / an(n)is LXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23475         EDCS-ID: EDCS-24502166
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Iulius / Felicianus / vixit annis / II h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23476         EDCS-ID: EDCS-24502167
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iul(ius) Felix Sabinus Maximus Vic/toricus monumentum suis / pecuniis fecerunt sibi et suis
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23477         EDCS-ID: EDCS-24502168
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iul(ius) Maximus / Magnianus / vi{c}x(it) p(ius) an(nos) XLVIII / m(enses) V d(ies) XX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23478         EDCS-ID: EDCS-24502169
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Iulius / Opta[tus] / vixit an(nos) / L / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23479         EDCS-ID: EDCS-24502170
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(aius) Iulius Sa/[tur]nin[u]s Mari/anus vixit / an(n)is LXXV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23480         EDCS-ID: EDCS-24502171
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulius Secu[n]/dianus N[3] vi/xit an(nos) LX / h(ic) s(itus) e(st) / D(is) M(anibus) s(acrum) / M[
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23481         EDCS-ID: EDCS-24502172
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulius Sy<ri=IR>us / Tittalus vixit / annis ZV(!) / m(ense) I d(ie) XI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23483         EDCS-ID: EDCS-24502174
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iu<l=I>ia L(uci) f(ilia) Aebutia / p(ia) h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23484         EDCS-ID: EDCS-24502175
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulia Flori/da vix(it) an(nos) / XXVII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23485         EDCS-ID: EDCS-24502176
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus) s(acrum)] / Iulia Ma/xima p(ia) / vix(it) annis / n(umero) LII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23486         EDCS-ID: EDCS-24502177
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Q(uintus) Licinius / Aurentius / Victorinus / Sa[3]ioru / con[3] / antes As[3 pi]/us vixit an[nos] / XLVIIII m(enses) X[3] / d(ies) III
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23487         EDCS-ID: EDCS-24502178
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) [s(acrum)] / Licini[u]s C[a]/rus vix(it) an(nos) / CV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23488 = Mactaris-02, 00001         EDCS-ID: EDCS-24502179
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dis Mani//bus / C(aius) Licinius / C(ai) f(ilius) (H)oratia / Fel(i)x pius / vixit ann(os) / LXXVII hi(c) s(itus) est // Staberia L(uci) fil(ia) / Saturnina / pia vixit an/nis LXX h(ic) s(ita) est
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23489         EDCS-ID: EDCS-24502180
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Lucilius / Fortuna/tus v(ixit) a(nnos) L / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23490         EDCS-ID: EDCS-24502181
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / M() Honoratus / pius vixit an(nos) / LXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23491         EDCS-ID: EDCS-24502182
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) M[3]ius Datianus / vix(it) an(n)is XVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23492         EDCS-ID: EDCS-24502183
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Magnius [3 vi]/xit a(nnos) [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23493         EDCS-ID: EDCS-24502184
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / C(aius) Manlius Homu[l]linus vix(it) ann[os 3] / Saturnin[3]/nus vix(it) an[3] / et fratr[i
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23494         EDCS-ID: EDCS-24502185
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Marcella / Saturi f(ilia)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23495         EDCS-ID: EDCS-24502186
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Marsidi/us Fortu/n{n}atus / v(ixit) a(nnos) LXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23496         EDCS-ID: EDCS-24502187
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] Mas/culus / vi{c}xit / a(nnis) LXXIII / h(ic) s(itus) e(st) // [D(is)] M(anibus) s(acrum) / Iulia / Fa(u)sti/na vi{c}/xit an(n)is / X h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23497 = Mactaris-01, 00016          EDCS-ID: EDCS-24502188
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Maximus / C(ai) f(ilius) vixit an(n)is / [3]XXXX h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23497a         EDCS-ID: EDCS-24502189
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Modia Mo/n[t]ana pia / vixit ann/is LXXII m(ensibus) VI
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23498         EDCS-ID: EDCS-24502190
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Monius L(uci) f(ilius) / Saturninus / an(nos) III / [h(ic)] s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23499         EDCS-ID: EDCS-24502191
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Narsidius / Murracius / pie vixit annis / XXV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23500         EDCS-ID: EDCS-24502192
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Nunnius / C(ai) f(ilius) Secundu/s h(ic) s(itus) est
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23501 = Mactaris-01, 00022         EDCS-ID: EDCS-24502193
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Nunnia L(uci) f(ilia) / Prima h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23502         EDCS-ID: EDCS-24502194
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Octavia / Faustina / vix(it) an(nos) LXXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23503         EDCS-ID: EDCS-24502195
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Octavia M(arci) f(ilia) / Gafiuta pia / vixit annis XV / hic sita est
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23504         EDCS-ID: EDCS-24502196
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dis Manibus sacr(um) / Orfiae Statiae / Helius contuberna/li carissimae / vixit annis XX / h(ic) s(ita) e(st)
+inscription genus / personal status: liberti/libertae;  mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23505         EDCS-ID: EDCS-24502197
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Paci[3] / Fo(r)tunat/us vixit / annis LXXV / h(ic) s(itus) e(st) // Ins[t]eia / L(uci) fil(ia) Opta/ta pia vix(it) / annis LI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23506         EDCS-ID: EDCS-24502198
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Pompeia Se/pia vixit [annos] / XX h(ic) [s(ita) e(st)]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23507         EDCS-ID: EDCS-24502199
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Pomponia R[o]/mana pia v(ixit) / a(nnos) XXXV h(ic) s(ita) e(st) / M(arcus) Tadius Roga/tus v(ixit) a(nnos) LXX / Iu[l]ia Saturni/na [pia] v(ixit) a(nnos) XI / h(ic) s(ita) e(st) / L(ucius) Pomponius Do/natus piis(simis) paren/tibus mem[or]iae / cons[er]va{e}[nd]ae(?) gra/tia posuit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23508         EDCS-ID: EDCS-24502200
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]us L(uci) fil(ius) / [3] Quir(ina) Pos/sessor pius / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23509         EDCS-ID: EDCS-24502201
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Quarta Babba/lis f(ilia) pia vixit ann(os) / LXXXV h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23510         EDCS-ID: EDCS-24502202
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Quinta Quintia / pia vix(it) an(nos) XXX / Gemella f(ilia) an(nos) VI h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23511         EDCS-ID: EDCS-24502203
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(arcus) Quintius / T(iti) f(ilius) Gal(eria) Florus / pius vix(it) ann(os) XXXX / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23512         EDCS-ID: EDCS-24502204
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Quintia P(ubli) f(ilia) / Tertulla pia / vixit annis / XXV h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23513         EDCS-ID: EDCS-24502205
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Ramius Cicero / vixit annis / LXIIII / Ramius Victor / patri col(l)ocavit / s(it) t(ibi) t(erra) l(evis)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23513a         EDCS-ID: EDCS-24502206
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Rocius / Pullus / vi{c}xit / annis LXXXXI / m(ensibus) XI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23514         EDCS-ID: EDCS-24502207
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Romana / Matussenia / p(ia) v(ixit) a(nnos) XXV / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23515         EDCS-ID: EDCS-24502208
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / [S]elicia P(ubli) f(ilia) Sa/turnina vix(it) / annis L[3] / h(ic) s(ita) e(st) // ] / Vestali[3] / vix(it) annis LXXI / h(ic) s(ita) e(st) // ]/nis [3]XV / h(ic) s(ita) e(st) // ] / vixit [3] / h(ic) s(ita) [e(st)] // M(arcus) Gargilius Fortunnatus parentibus piissimis et fratri et coniugi et si[bi 3] / [et] coniugi et fili(i)s suis posterisque eorum solo pecunia sua fecit
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23516         EDCS-ID: EDCS-24502209
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Saturni/nus Mar/tialis f(ilius) / vixit an/nis pius XXV
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23517         EDCS-ID: EDCS-24502210
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / Saturnin[us] / Sexti f(ilius) pius / vixit annis LXXV / h(ic) e(st) s(itus) // ] / Non[3] / filia pia / vixit / annis LXII[3]
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23518         EDCS-ID: EDCS-24502211
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Saturnina / an(n)is X[
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23519         EDCS-ID: EDCS-24502212
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / C(aius) Sel[i]/cius Ro/gatus v(ixit) a(nnos) / XIII h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23520 = Mactaris-01, 00017         EDCS-ID: EDCS-24502213
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Sempronia M(arci) / f(ilia) Maxima vix(it) / annis XXXV / hic s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23521         EDCS-ID: EDCS-24502214
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Serotina / pro meritis / suis h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23522         EDCS-ID: EDCS-24502215
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cn(aeus) Servilius Adve/na pius v(ixit) a(nnos) LXXX / Cn(aeus) Servilius Roma/nus pius v(ixit) a(nnos) L / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23523         EDCS-ID: EDCS-24502216
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Sextia C(ai) f(ilia) / Fortunata / pia / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23524         EDCS-ID: EDCS-24502217
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Sextiliae / Florentill(a)e / meritis Ae/[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23525         EDCS-ID: EDCS-24502218
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Staberi[us] / Q(uinti) f(ilius) Arn(ensi) O[3] / pius vix(it) [3] / h(ic) [s(itus) e(st)]
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23526         EDCS-ID: EDCS-24502219
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Satur(nius) Staberi/us L(uci) f(ilius) vixit / annis XXVII h(ic) / s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23527         EDCS-ID: EDCS-24502220
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+T(itus) Staberius L(uci) / f(ilius) vixit annis / XXV h(ic) s(itus) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23528         EDCS-ID: EDCS-24502221
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Teren/tia M(arci) f(ilia) / Prima / pia vix(it) / a(nnis) XXV / h(ic) s(ita) e(st) // M(arcus) Iuli/us Papi/ria Vi/talis / pius / vixit an/nis LXXXX/VIII m(ensibus) X
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23529         EDCS-ID: EDCS-24502222
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Toneia L(uci) f(ilia) / Rogata pia / vixit an(n)is / LXXX (h)ic sit(a)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23530         EDCS-ID: EDCS-24502223
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Velleius / Theodotus / v(ixit) a(nnos) LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23531         EDCS-ID: EDCS-24502224
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Velleia C(ai) filia / Secunda / Asella pia / vixit an(nos) XXVI / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23532         EDCS-ID: EDCS-24502225
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Vetuleni/us Secundi/anus / a/nnos vixit XXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23533         EDCS-ID: EDCS-24502226
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Victoria / Bassi f(ilia) h(ic) s(ita) / est
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23534         EDCS-ID: EDCS-24502227
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / M(arcus) Ulpius / Grilus vi/xit an(nos) VI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23535 = Mactaris-02, 00002          EDCS-ID: EDCS-24502228
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Ulpia Victoria / pia vixit an/nis LX h(ic) s(ita) // M(arcus) Ulpius Pi/rric pius / vixit ann/is LXX h(ic) s(itus) // L(ucius) Blossius Luperci ob / h(onorem) m(onumenti) l(ocum) d(e) s(uo) in rem [dedit] / p(osuit) f(ilius) eor(um)
+inscription genus / personal status: mulieres;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23536         EDCS-ID: EDCS-24502229
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Um(b)rius / Fortuna/tus vixit an(n)is XXXXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23537         EDCS-ID: EDCS-24502230
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Usumia Q(uinti) lib(erta) / Donata pia [v(ixit)] an(nos) / XXX h(ic) s(ita) e(st)
+inscription genus / personal status: liberti/libertae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23539 = ILTun-01, 00547         EDCS-ID: EDCS-24502232
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / Ana[3] / et fil[i 3] / amat[3] / ma p[3] / annis [3] / d(ies) X[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23540         EDCS-ID: EDCS-24502233
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [3]A[3] / [3]N[3]N[3]/onia vi/xit annis / XVIII d(iebus) XXIII
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23541         EDCS-ID: EDCS-24502234
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]L S II [3] / VSC fi sus[3] / vixit annis / XXXV / h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23542         EDCS-ID: EDCS-24502235
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]IV[3]VS[3] / [3] menses [3] / [3] rasu[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23546         EDCS-ID: EDCS-24502239
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]res obitorum / [3]readim
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23557         EDCS-ID: EDCS-24502256
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]ltius N[3] / vixit ann(os) / XXIV / h(ic?) [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23558         EDCS-ID: EDCS-24502257
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]ius vix(it) / [3]as h(ic) s(it) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23559         EDCS-ID: EDCS-24502258
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) s(acrum) / [3]T[3]VIC / [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23560         EDCS-ID: EDCS-24502259
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] vix(it) / [3]X h(ic) s(itus?) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23561         EDCS-ID: EDCS-24502260
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / v(ixit) a(nnos) II / h(ic) s(it) e(st)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23562 = ILCV +02087 = ICMactar-11, 00019          EDCS-ID: EDCS-24502261
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Mensa mart<y=U>rum / san(c)ti / Ian[ua]ri(?) // san(c)ti / Felicis
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23563 = ILCV 01187 = ICMactar-11, 00024 = ILTun-01, 00548 = CICBardo 00027 = Carletti-2008, 00151 = AE 1890, 00128 
+dating: 401 to 500         EDCS-ID: EDCS-24502262
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Faustinus presb(yter) / vixit in diacona/tu annis XXXIIII et in / presb(yterio) annos II me/[ns(es)] VI[3]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23564 = ICMactar-01, 00007 = ILCV 01188 = CICBardo 00029          EDCS-ID: EDCS-24502263
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iobianus / pr(e)s(byter) in pr(e)s(byterio) / vixit ann/is XXXV
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23565 = ILCV 03948 (add) = ICMactar-11, 00010          EDCS-ID: EDCS-24502264
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Abeddeu(s) et Maximu(s) / eius fili(i) in pace / vixerunt innocentes // D(is) M(anibus) s(acrum) / Aurelia Victorio/la in pace vixit / annis(!) L dies VII / (h)oras VIIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23566 = ILCV 03943 = ICMactar-12, 00023          EDCS-ID: EDCS-24502265
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / <v=B>i<x=S>i<t=S> me(n)s(es) / o(c)to minus / <d=Z>i(e)s(?) Baduma/s in pa[ce]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23567 = ILCV +01383 = ICMactar-12, 00007          EDCS-ID: EDCS-24502266
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[F]idelis Bo/nifatia <v=B>i/xit in pace a(n)/nis XVI pl(us) m(inus)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23568 = ILCV 03944 = ICMactar-12, 00014 = ILTun-01, 00549 = Louvre 00903          EDCS-ID: EDCS-24502267
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / <B=V>onifa/t{z}ia vix/it annis / LXX menses(!) / V
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23569 = ILCV 02649 = ICMactar-11, 00002 = ILTun-01, 00550 = CICBardo 00026          EDCS-ID: EDCS-24502268
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+In pace vi{c}/xit Citeus / annis LXX men/ses(!) II [die]s II[3] / d(is) M(anibus) s(acrum)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23570 = ILCV 02682 = ICMactar-11, 00011          EDCS-ID: EDCS-24502269
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Claudius Nutri/cosus vi(xi)t / in pac{a}e / annis II mens(ibus) VI di(ebu)s XXII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23571 = ILCV +01383 = ICMactar-12, 00003          EDCS-ID: EDCS-24502270
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fidelis / Egiptia O[
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23572 = ILCV 02803d = ICMactar-12, 00004          EDCS-ID: EDCS-24501768
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fabricius Bonifa vixit an/nis in pace XLIII m(ensibus) II horas(!) IIII / defunctus est K(a)l(endis) Octobr(ibus)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23573 = ICMactar-12, 00005         EDCS-ID: EDCS-24501769
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Felicissi/ma in p(a)c/e vixit an/nis n(umero) XLIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23574 = ILCV +03944 = ICMactar-12, 00006         EDCS-ID: EDCS-24501770
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / hic Fortunatianus iacet vix[it] / annis LXII m(ensibus) V d(iebus) XV h(oris) / n(umero) [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23575 = ICMactar-12, 00008 = ILTun-01, 00551 = Louvre 00904          EDCS-ID: EDCS-24501771
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Ianarian[a] <v=B>(i)xit / an(ni)s LVI [3]II / requ(i)es(c)it s[pi]ritu(s) s(anc)/tus eius
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23576 = ILCV +01382 = ICMactar-11, 00015          EDCS-ID: EDCS-24501772
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iohannes / fidelis vix/{s}it an(n)os [VIII] / menses IIII di/es VI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23577 = ICMactar-12, 00010          EDCS-ID: EDCS-24501773
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius Fortun/atus fidelis vix/it in pa[ce a]nn[o]/s LXII m(enses) [3] d(ies) IX
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23578 = ILCV 02681 = ICMactar-11, 00026 = ILTun-01, 00552 = CICBardo 00030          EDCS-ID: EDCS-24501774
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius Pasca/si vixit in pace / menses XXI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23579 = ILCV +03953b = ICMactar-12, 00009          EDCS-ID: EDCS-24501775
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulia Fo[r]/tunat[a vi]/xit an(nos) [3] / dies V [h(oras)] / VII in [pace(?)]
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23580 = ILCV +00190 = ILTun-01, 00553         EDCS-ID: EDCS-24501776
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia Restuta [in pa]/ce vixit annis [3] / Calpurnius [3]/tius coniug[i suae] / posuit
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 23581 = ILCV +01382 = ICMactar-11, 00016          EDCS-ID: EDCS-24501777
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Olimpia / fidelis in / pace vix{s}it / an(n)os III me/nses VIIII dies X (h)or/as II
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23582 = ILCV +02186 = ICMactar-11, 00022 = CICBardo 00031          EDCS-ID: EDCS-24501778
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]CINOVA[3] / [3]o erat datus / [innoce]ns ad sanctos / [3] pos(itus) vixit m(enses) XX / [dies] VI
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23583 = ILCV +01382 = ICMactar-11, 00005 = ILTun-01, 00554          EDCS-ID: EDCS-24501779
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Servus fidelis / vixit in pace an/nis(!) LXXXVIIII mense(m) / unu(m) dies XI de(positus) es(t) / VIII Kal(endas) Iu<n=M>[i]a[s]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  servi/servae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23584 = ILCV +01382 = ICMactar-11, 00017          EDCS-ID: EDCS-24501780
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Silique/sis in pace / fidelis vix/{s}it annis(!) / XXVIII menses [3] / dies X (h)oras III
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23585 = ILCV 03946 = ICMactar-12, 00011 = ILTun-01, 00555          EDCS-ID: EDCS-24501781
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / in pace vi<x=CS>it So/ric an(n)is(!) quat(t)uor / men[s]es XI dies / VII (h)oras V
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23586 = ILCV 01383 = ICMactar-12, 00012          EDCS-ID: EDCS-24501782
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+{I}Spes fidelis <v=B>i/xit in pace annis(!) / q(u)indeci(m) menses / q(u)inq(u)e (h)oras septe(m) / sub die tert(i)u(m) deci/mu(m) <K=C>alendas Ia/n(u)arias
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23587 = ILCV 03947 = ICMactar-11, 00029          EDCS-ID: EDCS-24501783
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Tyranus fi/delis in pa/ce requievi/t annis(!) [tri]/ginta(?) quin/que men(ses) IIII / dies XIII (h)or(as) XV
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23588 = ICMactar-12, 00013         EDCS-ID: EDCS-24501784
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Urbana fi/[del]is vixit / [in p]ace an/[no]s V menses / II h(oras) II
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23589 = ILCV +01382 = ICMactar-11, 00018          EDCS-ID: EDCS-24501785
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Victoria fi/delis in pa/ce vixit an/nis(!) XXII men/ses VIII dies XIII / horas XII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23590 = ILCV 03949 = ICMactar-11, 00012          EDCS-ID: EDCS-24501786
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Ursacius / fidelis vix/{x}it in pace / annos XVIII m/[en]ses V
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23591 = ICMactar-12, 00017         EDCS-ID: EDCS-24501787
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / in pa[ce] / vixit a[n]/nis(!) LV m(enses) / X d(ies) XXV[3] / h(oras) III reces[sit] / VIII Idus [No]/vemb[res]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23592 = ILCV 04739 = ICMactar-11, 00013 = ILTun-01, 00556 = CLEAfr-02, 00065          EDCS-ID: EDCS-24501788
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+f]idelis i[n pa]/ce v[i]x{x}it [annos 3] / mense(m) unu(m) dies XIIII (h)o/ras duas DV[3]EIV / demisit i(n) nobis gladiu(m) / usque die(m) mortis / nostr(a)e
+inscription genus / personal status: carmina;  inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23593 = ILCV +00888 = ICMactar-11, 00014 = ILTun-01, 00557          EDCS-ID: EDCS-25200053
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cres]/conia i[n pa]/ce vixit [ann(os)] / XXII me[nses 3] / horas V[3 be]/ne requisc(at)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23594 = ICMactar-12, 00015 = ILTun-01, 00558         EDCS-ID: EDCS-25900208
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is) M(anibus)] s(acrum) / ITATA
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23595 = ILTun-01, 00561         EDCS-ID: EDCS-24501791
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucio) Sextilio Felici / forti animi / memoriae viro
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Estaran-2016-P, 00025         EDCS-ID: EDCS-85700303
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3]is f(ilius?) et Biobba(s?) / [3 vixit a]nnis LXXX hic [siti sunt(?) // "pu"
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar = CLEAfr-02, 00063 
+dating: 414 to 454         EDCS-ID: EDCS-12400032
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[I]nsontem vixit c[a]ro cum coniuge vi(tam) / Elyseos tenet no[stra] Innocentia campo(s) / [3]icas mu[3]ades Romanaq(ue) fata / [3]ae genuit nos Itala tellus / [3 in pa]ce q(uae) vixit ann/[os 3] K(alendas) Mai(as) Fl(avio) / [3]tio co(n)[s(ule)]
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-01, 00008          EDCS-ID: EDCS-12300032
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Musilu(s) fid(elis) vixit
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-02, 00001 = Zarker 00075 = CLEAfrique 00030 = CLEAfr-02, 00067 = AE 1946, 00115          EDCS-ID: EDCS-12300034
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Animo mente corp/oreque Constantin/us oriundus Paulini m/atreque (H)onorata / rabiem inimicorum / tropeo fidei vincens / cum Chr(ist)o fidelis per s(a)e/cula regnaturus / bis tricenos quat(t)uor / annos menses VIII / vixit / hic ultimus claudit dies / despositus sub d(ie) XIII Kal(endas) / Mai(a)s ind(ictione) quarta decima
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  nomen singulare;  tituli operum;  tituli sepulcrales;  viri
+material: musivum
+
+publication: ICMactar-02, 00002 = Zarker 00076 = CLEAfrique 00031 = CLEAfr-02, 00068 = AE 1946, 00116          EDCS-ID: EDCS-12300002
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Terra premes te/neros iniusto ponde/re Manes qua<n=M>ta te/cum bona de summi/s duces ad ima hic / Honorata tibi mem/bra ponit animamque / Tonanti <h=TI>os tibi ap/ices filia <v=B>aledictu/ra discedam bis qua/ternos functa anno/s debitum vit(a)e finem r/eddidit sub die depo/sita octa<v=B>u(m) Id(us) / April<e=I>s ind(ictione) XIIII
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: musivum
+
+publication: ICMactar-02, 00003          EDCS-ID: EDCS-12300003
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+In (h)oc [tumulo] / deposita [est] / Co(n)st[antia(?) vix]/it in pace [an(n)u(m)] / unu(m) men[ses 3] / die(s) III N(o)n(as) [3] / in[d(ictione)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: musivum
+
+publication: ICMactar-02, 00004 = AE 1946, 00114          EDCS-ID: EDCS-12300004
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Hic locus u[b]i / Benenata qu(a)e / et Iambaria / castimonialis / posita est die / XII K(a)l(endas) Decembres / indict(ione) XI et vi/xit in pace pl(us) m(inus) annis XXX
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-02, 00005 = AE 1949, 00025          EDCS-ID: EDCS-12300005
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Mensa {i}spiri/ti <s=X>an(c)ti inn/ocentis Nu/tricosi vix{x}it / an(n)is II menses(!) X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli operum;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-02, 00006         EDCS-ID: EDCS-12300006
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Veria Coloni/ca in pace
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-02, 00007          EDCS-ID: EDCS-12300007
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(a)ecilia Victoria vixit ann(os) LXX m(enses) III d(ies) V / h(oras) II
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-02, 00008         EDCS-ID: EDCS-12300008
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fabin[3]/tas vi[xit ann]/is [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-02, 00009         EDCS-ID: EDCS-12300009
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius C[3]C[3] / vi{c}xit a[nn]i[s 3] mens[e]s [3] / in [pace(?)]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-02, 00010          EDCS-ID: EDCS-12300010
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulius Iuilida / vixit fidelis / in pace annos / XXV men[s]e(s) t[r]es / dies dece(m) se[p]te[m] / h(ic) s(itus) e(st)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-02, 00011          EDCS-ID: EDCS-12300011
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Redemtus / vixit in pace / annos XII m(enses) V h(oras) VII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-02, 00012         EDCS-ID: EDCS-12300012
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Villaticu[s] / [v]ix[i]t an[nos
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-02, 00013          EDCS-ID: EDCS-12300013
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3]XPOSTA[3]FI / [in] pace p(lus) m(inus) ann(os) / [1]II [3 die]s II (h)oras [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-02, 00014          EDCS-ID: EDCS-12300014
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Mellita fi/delis in p/ace <v=B>ixit / annis p(lus) m(inus) / LXXV (h)oras(!) XII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-02, 00016          EDCS-ID: EDCS-12300016
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[Iu]lia(?) Pra[ei]ec[ta] v(i)xit ann/[os] LXX m(enses) III d[ies 3] [h(oras)] / XIIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-02, 00017         EDCS-ID: EDCS-12300017
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+<E=L>m[a]tia(?) fideli[s] / i(n) p(a)ce vixit an[n]/os LXX defun[c]/ta est IIII N(o)n(as) Feb/ru[ar]ias (h)ora prima
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-02, 00018 = Zarker 00078 = CLEAfrique 00028 = CLEAfr-02, 00060 = AE 1948, 00107 = AE 1949, +00084 = AE 1950, 00097 = AE 1950, +00203 = AE 1950, +00204 = AE 1952, 00045 = AE 1953, +00193 = AE 1954, +00258 = AE 2005, +00161          EDCS-ID: EDCS-12300018
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Si quis honos vitae / est testis post mune/ra fati mortis sorte / cluet cum iam s(u)b fine / supremo aspicit infe/rnorum Acherusia te/mpla deorum secure/que videt strepitum / Acherontis avari na/mqu(e) egomet quod pio se/mper in corpore vixi Ely/sios teneo mites Proserpin/ae campos / lege deum solemq(ue) / super ac sidera novi Iulia / Mo() Benenata h(onesta) f(emina) vix(it) annis / in pace LXXXIII menses(!) X / h(ic) s(ita) e(st)
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  ordo equester;  tituli operum;  tituli sacri;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00001 = AE 1953, 00044          EDCS-ID: EDCS-12300019
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Hildeguns / vixit in pace an/nos XL dies X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+comment: Omega, crux, Alpha
+
+publication: ICMactar-03, 00002          EDCS-ID: EDCS-12300020
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Paulus fid(e)li/s in pace <v=B>ixit / annos XIII / menses IIII / dies VIIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00003          EDCS-ID: EDCS-12300021
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+(H)onorata fi/delis <v=B>i{x}xit / in pace an(n)is plu/s minus XIIII (h)o/ras(!) VI
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00004          EDCS-ID: EDCS-12300022
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-03, 00005          EDCS-ID: EDCS-12300023
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Paulinus [fi]/delis filius / Iulius Med[3 vi]/xit in pa[ce an]/nis p(l)u(s) mi(nu)s [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00006          EDCS-ID: EDCS-12300024
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [1]as[3]us fi/delis <v=B>ixit / in pace an/nis tredeci(m)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00007 = BCTH-1950-84 = AE 1953, +00046          EDCS-ID: EDCS-12300025
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Rogatus cleri/cus fidelis <v=B>ixit / in pace annis <v=B>i/g<i=V>nti <q=C>(u)in<q=C>(u)e men/ses <q=C>(u)at(t)uor (h)ora/s septe(m)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00008 = BCTH-1950-85          EDCS-ID: EDCS-12300026
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Binaticus / clericus in / pace <v=B>ixit a/nnis XIIII d(iebus) IX (h)o(ris) II
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00009          EDCS-ID: EDCS-12300027
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Bonifa/nifti/a fidelis / in pace <v=B>ixi/t [a]nnis VI di/[e(bu)s] VII (h)or(is) V
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00010          EDCS-ID: EDCS-12300028
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Biziacinus fidelis / <v=B>ixit in pace an(n)is / duo(bus) [me]nses(!) / X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00011          EDCS-ID: EDCS-12300029
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Fid[3 in] / pa[ce
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00012 = BCTH-1950-85         EDCS-ID: EDCS-12300030
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+In[3] / Aurelius Nu/tricosus in / pace vixit / annis XXXV / menses(!) VI die(bus) XX
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-03, 00013          EDCS-ID: EDCS-12300031
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulia Fortu/nata in pace / vixit annis / LXXI m(ensibus) III h(oris) V / in pace quies/cas // D(is) M(anibus) s(acrum) / Iulia Cattosa / in pace et fide/liter cum con(iu)ge / vixit ann(is) L m(ensibus) / VII h(oris) XII bene / quiescas
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-03, 00014          EDCS-ID: EDCS-12300394
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iul(ius) Cyprianus in pace / vixit m(enses) VIII d(ies) XVII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-03, 00015          EDCS-ID: EDCS-12300395
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iul[3] / [3]is[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00017          EDCS-ID: EDCS-12300397
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[Ma]rgari/ta vixit i[n] / pace ann(os) p/[l(us)] m(i)n(us) VIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00018          EDCS-ID: EDCS-12300398
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3]I / [3]AIARA / [3] invida vit/a vixit an(n)is XXVII / mense unu dies(!) VIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-03, 00019          EDCS-ID: EDCS-12300399
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Vic[to]rinus vi/xit [an]nos XX / d[ie]s III
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-03, 00020          EDCS-ID: EDCS-12300400
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iohannia in pace / <v=B>ix{s}it menses quinque deposita est sub d(ie) ter/tiu(m) Nonas Septembres / indictione {h}octa<v=B>a
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-04, 00001 = AE 1960, 00112          EDCS-ID: EDCS-12300401
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Vincoma/los pr(es)b(yter) vixit / in pace an(nos) LX / et in p(res)b(yterio) a[n(nos) 3] / dies [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-04, 00002 = AE 1960, 00111          EDCS-ID: EDCS-12300402
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Hic nomina s[anctorum(?)] / mart<y=I>rum Da[3] / Dasi Abdasi [3] / Iacobi [3]AM[3] / et puer[um 3]/rum die [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-04, 00003          EDCS-ID: EDCS-12300403
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Innox vix(it) mense(s) VI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-04, 00004 = AE 1960, 00113          EDCS-ID: EDCS-12300404
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] presb(yter) / [3] vix(it) an/[nos 3] d(ies) XV h(oram) I
+inscription genus / personal status: inscriptiones christianae;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-04, 00006          EDCS-ID: EDCS-12300406
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+H[3]VS / re[3] <v=B>ix[i]t / in [pa]ce [an]nis / [3] (h)ora prima
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-04, 00007          EDCS-ID: EDCS-12300407
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Donatu/s f(idelis) in p(a)c(e) <v=B>ix(it) / ann(os) IV d(ies) X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-04, 00008          EDCS-ID: EDCS-12300408
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Tetta fi/delis <v=B>ixit annis / II m(ensibu)s VI /
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-04, 00009          EDCS-ID: EDCS-12300409
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Benerabi[lis 3]/dinus arc(h)i[3] / vixit ann(os) X[
+inscription genus / personal status: inscriptiones christianae;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00001         EDCS-ID: EDCS-12300410
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+L(ucius) Flavius Io[vi]/nus vi{c}xit a[n]/nis L menses(!) I[3] / dies XV (h)oras XI
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00002         EDCS-ID: EDCS-12300411
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cassius Bru/masius vixit / menses [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00003         EDCS-ID: EDCS-12300412
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Serus fidelis / [3] Crispina [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00004         EDCS-ID: EDCS-12300413
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+A<f=I>ran(i)us
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00005         EDCS-ID: EDCS-12300414
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iilli fidelis
+inscription genus / personal status: inscriptiones christianae;  ordo equester;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00006          EDCS-ID: EDCS-12300415
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fla<v=B>ius Qui/ntus arc(h)ia/ter <v=B>ixit in / [pace] an(nos) [
+inscription genus / personal status: inscriptiones christianae;  sacerdotes christiani;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00007          EDCS-ID: EDCS-12300416
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Epifani/us fidelis / vixit ann(os) / [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00008         EDCS-ID: EDCS-12300417
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Celestina [in pa]/ce quiescas [vixit] / annis XX
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00009          EDCS-ID: EDCS-12300418
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+(H)ilara in pac[e] vix(it) / an(n)is XXXV a deo / accepta [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00010         EDCS-ID: EDCS-12300419
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Redenta / fidelis <v=B>i/xit annis / X d(iebu)s VIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00011          EDCS-ID: EDCS-12300420
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Rupilia Iulia / fidelis in deo cre/didi<t=D> vix[it] annis / VIIII menses(!) VI di<e=A>s X / (h)oras V
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-10, 00012          EDCS-ID: EDCS-12300421
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Vitalis in pace / quiescas
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00013          EDCS-ID: EDCS-12300422
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Restu[tus] / fidelis vi/xit in pace an/nis(!) XXI m[enses 3] / horas [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00014         EDCS-ID: EDCS-12300423
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulius Faustinia/nus vixit in pace / annis LXVI m(ensibus) III
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00015          EDCS-ID: EDCS-12300424
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / hic Eleg[ius(?) in pa]/ce vixi[t
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00016         EDCS-ID: EDCS-12300425
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Catzo f[id]/elis in pace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00017          EDCS-ID: EDCS-12300426
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Adeudatus / vi<x=SS>it an(nos) V / et me(n){s}se(s) VI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00018          EDCS-ID: EDCS-12300427
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Mensa Ba/lnvini Pris/ci <v=B>ix{s}it / an(n)is / LVII
+inscription genus / personal status: inscriptiones christianae;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00019          EDCS-ID: EDCS-12300428
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus) s(acrum)] / Fidelis [3] / Benena[ta(?)] / in pace v[i]/xit annis / XLV mens(ibus) [3] / di(ebu)s V[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00020          EDCS-ID: EDCS-12300429
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / C(a)ecilius Don[atus] / in pace vixit a[nnos] / triginta quinq[ue] / menses II d(ies) V in [pa]/ce quiescas
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00021          EDCS-ID: EDCS-12300430
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Cresci[tur]a / fidelis <v=B>i{c}/xit in pace an/nis(!) unu(m) (h)oras / q(u)inq(u)e
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00022          EDCS-ID: EDCS-12300431
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Dalmatia fide/lis vixit inn(ocens) / ann(um) I
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00023          EDCS-ID: EDCS-12300432
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulia Pre/iecta vix(it) / in pace an/[no]s LXII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-10, 00024          EDCS-ID: EDCS-12300433
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Elpizia / vixit in / pace men/ses X
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00025          EDCS-ID: EDCS-12300434
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / Fabric[ius(?)] / vi{c}xi[t an(nos) 3] / m[enses
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00026 = CLENuovo p 89 = CLEAfr-02, 00066          EDCS-ID: EDCS-12300435
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Promissa(s) [san]ct(as) / redde domos / pater optime / mundi non Pri/vata cupit Roma (a)nti/q(ua)v {q} in urb(e) v<e=I>nit tran/sir(e) para Ch(ristum) per lustra ann(orum) III m(en)s(ium) V d(ierum) / XXX per/(i)it
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00027          EDCS-ID: EDCS-12300436
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Rup[i]li[a] Lucia/na <v=B>i[xit] in / [pa]ce [fid]elis / annis(!) XVI me/nses V dies XVI / (h)oras V
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-10, 00028          EDCS-ID: EDCS-12300437
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+An(n)o / d(omi)ni // Umbri[a(?) 3] / h(onesta) f(emina) fidelis XII / in pace vixit / annis LXVIIII m(ensibus) VII / d(iebu)s VII h(oris) III
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  ordo equester;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00029          EDCS-ID: EDCS-12300438
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]nius / [3]us / [vixit an]nos XLV / [menses] VIII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00031          EDCS-ID: EDCS-12300439
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Mem[3]/tii A[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00032 = Carletti-2008, 00150
+dating: 401 to 500         EDCS-ID: EDCS-12400001
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [me]nsa Alex{x}an/[dri vi]xit an(n)is LXX / [mensibus qui]nque
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-10, 00033          EDCS-ID: EDCS-12400002
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Vibia Tzirizilla in / pace vixit annis XX / mens{s}es(!) duo(s) dies se/pte(m)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-10, 00034          EDCS-ID: EDCS-12400003
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Licin[ius] Cresco/nius [v]i{c}xit in / pa[ce an]nis XXX[3] / mens[es(!)] III[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00035          EDCS-ID: EDCS-12400004
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Cattinosu/s fidelis <v=B>i/xit in pace a/nnis XXIII [et(?)] men[sibus 3] / [3]VI[
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00036          EDCS-ID: EDCS-12400005
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulius [3 f]id[elis] / in pac{a}e vi[x(it)] annis / [3] m(ensibus) [3] d(iebus) [3 depo]/[situs sub die] XII K[alendas] [3]b[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00037          EDCS-ID: EDCS-12400006
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / Iulius [Fortu]/natus(?) [in pace(?)] / vixit an[nos 3] / mens(es) II
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00038          EDCS-ID: EDCS-12400007
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+EVIPAC / IV in pace / vixit a[nnos
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00039          EDCS-ID: EDCS-12400008
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-10, 00041          EDCS-ID: EDCS-12400010
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]a Tib/[eria(?) in] pac<e=I> et ri/[quie(?)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00042          EDCS-ID: EDCS-12400011
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Bassila / [f]idelis / [vi]xit in pa/[ce] ann(os) XVIII / m(enses) II die(s) XVII / d(is) M(anibus) s(acrum)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00043          EDCS-ID: EDCS-12400012
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) s(acrum) / [3 P]orfirius / [3 v]ix{x}it in / [annos] LXX
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00044          EDCS-ID: EDCS-12400013
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+N[3] / CIS[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00045          EDCS-ID: EDCS-12400014
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / [vixit annos] / XXXVI [fide]/lis et P[3 v]/i{c}xit an[nos 3] / cr<e=I>scens [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00046          EDCS-ID: EDCS-12400015
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[In hoc] sepu<lcr=RCL>o innocens ia/[cet Ca]ssius(?) Vitulus fidelis in pace / [3] loco refrigeri(i) inno/[cens 3 vi]xit an(num) I m(enses) II d(ies) XXVII
+inscription genus / personal status: inscriptiones christianae;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-10, 00047 = CLEAfr-02, 00064          EDCS-ID: EDCS-12400016
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] C(h)risti / [3] vix(it) in pa(ce) an(nos) VIII f/[3 di]gnasti mori sepu<l=R>/[crum 3]lum et crudelis amo/[r] quod solum potu/[it 3] tua re parentes fili(a)e e/[3]NTES
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  tituli operum;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00048          EDCS-ID: EDCS-12400017
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Rupilia Fedosa / vi{c}xit an(nis) II / men(si)b(us) V die(bu)s X / (h)oras(!) XII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-10, 00049          EDCS-ID: EDCS-12400018
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+<D=I>(is) [M(anibus) s(acrum?)] / hic s[itus est(?) 3]/tus I[3] / ALAV[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00050          EDCS-ID: EDCS-12400019
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Mensa B/uci vix(it) an/nis XVI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli operum;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00051         EDCS-ID: EDCS-12400020
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Victori/nus in pac/e vixit an/nos XIII / menses IIII / dies VIII (h)ora(m)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00052          EDCS-ID: EDCS-12400021
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fortu/na fide/lis vixit / annis VII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00053         EDCS-ID: EDCS-12400022
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Morosuus / vi{c}xit / annis XVIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00054          EDCS-ID: EDCS-12400023
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+QV[1]E[3] / septimu(m) Kalen/das Apriles vixit / annis LX men/si(bu)s duo(bu)s
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00055          EDCS-ID: EDCS-12400024
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+a]n[n]is IIII / [mens(ibus)] II in pace / [quiesca]s
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00056          EDCS-ID: EDCS-12400025
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] (h)or(as?) [3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00057          EDCS-ID: EDCS-12400026
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / in pac[e
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00061          EDCS-ID: EDCS-27900404
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-10, 00062          EDCS-ID: EDCS-27900405
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-10, 00063          EDCS-ID: EDCS-27900406
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-10, 00064          EDCS-ID: EDCS-12400030
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus) s(acrum)] / IVI[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00065          EDCS-ID: EDCS-27900407
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-10, 00066          EDCS-ID: EDCS-12400031
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3]E[3]IIMIN/A castimoni/alis <v=B>ixit in pa/[c]e <v=B>ixit annos / LX
+inscription genus / personal status: inscriptiones christianae;  mulieres;  sacerdotes christiani;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00068          EDCS-ID: EDCS-12400033
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) [s(acrum)] / Feli<x=S> fide/lis <v=B>ixit in [pa]/ce annis(!) XX [m]/enses q(u)in[q(u)e die]/s tres
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00069          EDCS-ID: EDCS-12400034
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) [s(acrum)] / Redus fid/elis qui et / castimo/nialis v[i]/xit in pa/ce an(n)is pl(u)/s m(i)nus / octoginta
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00070          EDCS-ID: EDCS-12400035
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+a deo] / acceptus / vi{c}xit an/[(n)o]s XXXIII m(enses) VI
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00072          EDCS-ID: EDCS-12400037
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus) s(acrum)] / Iu[lius(?) 3] / na[tus(?) 3] / N[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-10, 00073          EDCS-ID: EDCS-12400038
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Ben[ena]/tus [in pa]/ce v[ixit
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-10, 00074          EDCS-ID: EDCS-12400039
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]ABI[3] / [3] <v=B>ixit [3] / [3] an(n)is [3 mensibus] / IIII d[iebus
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-11, 00020         EDCS-ID: EDCS-12400419
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia Restit[3] / C(ai) f(ilia) vi{c}xit annis [3] / Calpurinus(!) [3] / pius coniug[i merenti] / posuit
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-11, 00023 = CLEAfr-02, 00061          EDCS-ID: EDCS-12400420
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cela ancilla in pace vi{c}xit an/nis quos illi fata hominum deusq(ue) s(anctus) / decre<v=B>it / d(is) M(anibus) s(acrum) / nu(n)c (a)eterna(m) tenet sedem late/riq(ue) iugali altum patitur sine fine so/porem
+inscription genus / personal status: carmina;  inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-11, 00025         EDCS-ID: EDCS-12400486
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[V]i<x=CS>it / [F]elix in / [pa]ce / [an]nis(!) XXXX / m<e=I>ns[es
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-11, 00027         EDCS-ID: EDCS-12400487
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Fasiri/a vixit a/nnis XXXV / menses(!) VI
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-11, 00028          EDCS-ID: EDCS-12400488
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Regatius vi/xit in pace / a(n)nis(!) XLVIII me/[n]ses VIII dies / XII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-11, 00030 = ILTun-01, 00560 = AE 1891, 00136          EDCS-ID: EDCS-12400489
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Granius (H)abetdeu(s) / in pace et requie / vixit annis(!) XXIII / m(enses) V dies VIII (h)oras X
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00024          EDCS-ID: EDCS-12500001
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Rupilius S/erbus vi/xi(t) an(n)is / LXXV di/e(bu)s X
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00025          EDCS-ID: EDCS-12500002
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Eukaris fidelis / vixit in pace ann/os sex et menses / octo
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00026          EDCS-ID: EDCS-12500003
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia <V=B>ict/oria <v=B>(i)xit in / pace an(n)is / XVIII die(bu)s V / (h)or(is) VIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00027          EDCS-ID: EDCS-12500004
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius / Donatus / vixit in pa/ce annis XXXIII / menses(!) V / die(bu)s X (h)or(is) VII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00028          EDCS-ID: EDCS-12500006
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius Felix / vixit in pace / annis XI m(ensibus) II d(iebus) IIII / (h)o(ris) IIII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00029          EDCS-ID: EDCS-12500005
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Laurenti/us fidelis / <v=B>ixit in pa/ce an(nos) XXXI / menses VIII / (h)oras III
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00030          EDCS-ID: EDCS-12500007
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Licinius Afro/disius vixit in / pace fidelis annis / XLLIII m(ensibus) X d(iebus) VIII
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00031          EDCS-ID: EDCS-12500008
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Licini/us Get/ulus v/ix(it) a(nnos) XLIII / di(es) XX
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00032          EDCS-ID: EDCS-12500009
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+P(e)trus vix{x}it in / p(a)c(e) an(n)is LXIII pl(u)s mi/nus
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00033          EDCS-ID: EDCS-12500010
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Tannonia Dona/ta in pace vixit an/nis sexaginta
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-12, 00034          EDCS-ID: EDCS-12500011
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Vindemialis / in pace vixit / ann(os) XXVIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00035          EDCS-ID: EDCS-12500012
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+ORIVL PPIRI / ALS April(i)s IP[3] / [1]LSOR vix(it) an(nos)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00036          EDCS-ID: EDCS-12500013
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / (H)onorius / vi{c}(xit) annis / [3]II
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00037         EDCS-ID: EDCS-12500014
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus)] s(acrum) / [3]da fidelis <v=B>(ixit?) / in pace annis X[3]
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00038          EDCS-ID: EDCS-12500015
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Afrodisius / Menor vix(it) a(n)/nis VIII m(ensibus) XI d(iebus) II / in p(a)c(e)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00039          EDCS-ID: EDCS-12500016
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / [i]n nomine pat[ris] et / fili(i) et {I}spiritus [s]/ancti amen Ha/[b]etdeu(s) f[
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00040          EDCS-ID: EDCS-12500017
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Crispina vi{c}/xit in pace fi/delis annos / vigin<t=E>i / menses II (h)o(ras) III
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00041          EDCS-ID: EDCS-12500018
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Proiectus / fidelis vi/xit in pace an/nis L m(e)n(se)s VII / d(ie)s X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00042         EDCS-ID: EDCS-12500019
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Serbus / in p(a)c(e) vix(it) / ann(os) / LXXX / d(is) M(anibus) s(acrum)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00043          EDCS-ID: EDCS-12500020
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+M(anibus) d(is) s(acrum) / Bonifa<t=Z>ius / fidelis in pa/ce vix{x}it an(n)is / VII m(ensibu)s VII (h)o(ris) VIIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00044          EDCS-ID: EDCS-12500021
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / in pace vixit [annos] / XXXV et mense[s quin]/que in pace qui[escas]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00045          EDCS-ID: EDCS-12500022
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius Na[3]/[3]us vixit m[e]/nses dece(m) dies / q(u)in[q(u)e] (h)or(a)s IV [3] / d(is) M(anibus) s(acrum)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00046          EDCS-ID: EDCS-12500023
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Bonifatius / fidelis <v=B>ixit / an(n)is(!) L menses / VI dies X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00048          EDCS-ID: EDCS-12500025
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Assuritana / vixit in pace / ann(os) LXV m(enses) II d(ies) VIII / (h)o(ras) VII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00049          EDCS-ID: EDCS-12500026
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+die] / un<o=A> horas tres / in pace requies/cat d(is) M(anibus) s(acrum)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00050          EDCS-ID: EDCS-12500027
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulius Nutri/[cosu]s vixit a/[nnos] XVIII in p(ace)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00051          EDCS-ID: EDCS-12500028
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Macari/us fid[elis
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00052          EDCS-ID: EDCS-12500029
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+i]n [3]C[3]S fidelis / [R]upilius Iulian[u]s / [vixit] in pace an(n)is(!) / [3] me[n]ses III die[s] / [3]VEO[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ICMactar-12, 00053          EDCS-ID: EDCS-12500030
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Fl(a)<v=B>(ia) Candida fi/delis vix(it) in pace / annis L m(ensibus) III d(iebus) V
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ICMactar-12, 00054          EDCS-ID: EDCS-12500031
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-12, 00055          EDCS-ID: EDCS-12500032
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-12, 00056          EDCS-ID: EDCS-12500033
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+BAIO[3] / in pace / (!) requie / [vi]xit an(nos) / [3] m(enses) [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00057          EDCS-ID: EDCS-12500034
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+] / in pace vixit / [ann]o uno m(enses) VIII / [be]n[e re]qui/[esca]t
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: ICMactar-12, 00058          EDCS-ID: EDCS-12500035
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: ICMactar-12, 00059          EDCS-ID: EDCS-12500036
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Castinianus / vixit annis / LVI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ICMactar-12, 00060          EDCS-ID: EDCS-12500037
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+]ACR[3] / [3]onornus v[ixit] / [ann]os LXX duo [menses] / [3] diebus(!)
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00202,1         EDCS-ID: EDCS-10300524
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Cornelius
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00202,2         EDCS-ID: EDCS-10300525
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Flavius Fortunatus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 00559b = BCTH-1932/33-42         EDCS-ID: EDCS-08600876
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Geminius / Ianuarius / Minnus vi/xit annis / VIII m(ensibus) VI d(iebus) X / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 00559c = BCTH-1932/33-42          EDCS-ID: EDCS-08600877
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Geminius / Mustulus / vix(it) an(nos) XXXVII / me(n)s(es) VIII dies / XVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 00559d = BCTH-1932/33-42          EDCS-ID: EDCS-08600878
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / L(ucius) Mal() Victor / iunior / vixit annis / XXV mensi/bus quat(t)uor
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 00559e = BCTH-1932/33-43         EDCS-ID: EDCS-08600879
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+P(ublius) Terentius / [3]otodorus / p(ius) v(ixit) [a(nnos)] LXXX
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Lupa 09706          EDCS-ID: EDCS-75700022
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+"PU"
+inscription genus / personal status: mulieres;  tituli sepulcrales
+material: lapis
+
+publication: Mactaris-01, 00002         EDCS-ID: EDCS-48500135
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Sex(tus) Marchius Felix
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-01, 00004 = AE 1966, 00516          EDCS-ID: EDCS-10701944
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Veiani/us M(arci) f(ilius) Pol(lia) / [3]VT[3]H[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: Mactaris-01, 00006         EDCS-ID: EDCS-48500136
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Cossinius / Seranus pius / vixit ann(os) LXXI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-01, 00007         EDCS-ID: EDCS-48500137
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Creperi(us) / Saturni/nus p(ius) v(ixit) / an(nos) XXX h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-01, 00010          EDCS-ID: EDCS-48500138
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Sextus Po<m=N>pon/ius Felix vixit / a(nnos) XXV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-01, 00011 = AE 1980, 00927          EDCS-ID: EDCS-08900669
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Pomponius / L(uci) f(ilius) pie vixit an/nis XXV h(ic) s(itus) e(st) / [3]RA[
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: Mactaris-01, 00023 = AE 1980, 00922          EDCS-ID: EDCS-08900664
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Maxim[ia] / C(ai) f(ilia) Satur/ni(na) pia vixit / annis X[3] / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: Mactaris-01, 00025 = AE 1980, 00923          EDCS-ID: EDCS-08900665
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Phrigna Satun/i filia v(i)x(it) (!) III
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: Mactaris-01, 00026         EDCS-ID: EDCS-48500139
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[3]sior Imconis / [3]tini S(puri) f(ilii) vixit / [3] h(ic) s(itus?)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-01, 00028         EDCS-ID: EDCS-48500140
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Lulim Gai/tul(i) f(ilia) vix(it) / [ann]is XXXX
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: Mactaris-01, 00029         EDCS-ID: EDCS-48500141
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+C(aius) Iul(ius) Celer / pius vix(it) an[n]/is LXXXX h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-02, 00009          EDCS-ID: EDCS-48500142
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) [M(anibus) s(acrum)] / Iul(ia) Saturnina / Arinis Quarti / filia p(ia) v(ixit) a(nnos) / LV / h(ic) s(ita) e(st) // D(is) [M(anibus) s(acrum)] / P(ublius) Iulius Marti/alis Baricbalis / filius p(ius) vixit / annis LXXV / h(ic) s(itus) e(st)
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-02, 00015          EDCS-ID: EDCS-48500143
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) // Iulia / Victo(ria?) // L(ucius) Sempro/nius s(e) v(ivo?)
+inscription genus / personal status: mulieres;  praenomen et nomen;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-03, 00005 = AE 1959, +00173          EDCS-ID: EDCS-48500144
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Q(uintus) Iulius Q(uinti) f(ilius) / Hor(atia) Victor / Piso pius vix(it) / an(nos) LI h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-03, 00006          EDCS-ID: EDCS-48500145
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Iulia Spesina Q(uinti) fil(ia) / pia vix(it) ann(os) XVIII / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: Mactaris-03, 00009         EDCS-ID: EDCS-48500146
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Albius Pulla/ienus Euno/mus p(ius) b(onus) / v(ixit) a(nnos) LXXXIIII / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-03, 00013 = AE 1969/70, 00660 
+dating: 231 to 270         EDCS-ID: EDCS-09701237
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Q(uintius?) Stag/io Lus/<it=TI>anus / vixit / annis / XVIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+
+publication: Mactaris-03, 00014 = AE 1969/70, 00659 
+dating: 231 to 270         EDCS-ID: EDCS-09701236
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Otacil/ia Ter/tia vix/it ann/is LXXX
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+
+publication: Mactaris-03, 00016 = CLEAfrique 00025 = CLEAfr-02, 00059 = AE 1969/70, 00658 = AE 2008, +01606          EDCS-ID: EDCS-09701235
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Beccut iam pri/mum Iloni coniuncta ma/rito / virgo rudis tenera(m) quo me / Fortuna reduxit / vitae se<d=T> leti sedes sic fata tulere / hic hymno tedaq(ue) simul praeeun/te canebar / nunc vustis urnaq(ue) simul contecta / resedi / vixi dum licuit morum sine labe pudica / maternum nomen feci Lucinae fa/vore / natum progenui nostro qui no/mine vivat / ne fleat hoc nimium cui sum carissima / cordi / commune est hominum funebrem / [qu]erel(l)a[m 3] / [3]L[3]eia [3] / [3]rissima pia vixit annis XV [3 ] // Euthesia
+inscription genus / personal status: carmina;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: Mactaris-03, 00021 = AE 1980, 00935          EDCS-ID: EDCS-08900677
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+[D(is)] M(anibus) s(acrum) / [I]ulius / Satur/ninus / [m]argarit/[u]s v(ixit) a(nnos) LXV // D(is) M(anibus) s(acrum) / Magni/a Saturni/na vixit / annis / LXXXV // Hic s(e)p(ulti) sunt
+inscription genus / personal status: mulieres;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: Mactaris-03, 00022          EDCS-ID: EDCS-48500147
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+D(is) M(anibus) s(acrum) / Licinia / Afroditae(!) / pia vixit / annis XXX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: Mactaris-03, 00026         EDCS-ID: EDCS-48500148
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+Iulia Mo() Benenata
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: Zarker 00053 = BCTH-1950-160 = AfrRom-18-03-2055 = ICMactar-12, 00001 = CLEAfrique 00029 = CLEAfr-02, 00062 = AE 1953, 00049 = AE 1964, +00140          EDCS-ID: EDCS-12400490
+province: Africa proconsularis         place: Maktar / Makthar / Mactar / Makthars / Mactaris
+A(ulus) Lurius Geminius / hic situs est fandi quonda/m vitaeq(ue) magister semper fide / a<t=D>q(ue) salutiferas curas humanis d/ebebat corporibus LXXX enim mag/nos <v=B>olvendis mensibus / orbes fidelis vitam peregit / consequentibus metis hac / sede digna in pace / quie<v=B>it
+inscription genus / personal status: carmina;  inscriptiones christianae;  officium/professio;  sacerdotes pagani;  tituli sepulcrales;  tria nomina
+material: lapis
+comment: Alpha, monogramma Christi, Omega

@@ -1,0 +1,25 @@
+{
+  "seed": "1763422502869",
+  "timestamp": "2025-11-17_23-35-07",
+  "mode": "Normalized (current)",
+  "filters": {
+    "greek": "Include",
+    "date_filter_enabled": false,
+    "start_year": null,
+    "end_year": null,
+    "exclude_fragments": true,
+    "dataset": "Thibursicum Bure.txt"
+  },
+  "n_selected": 276,
+  "app": {
+    "name": "EDCS Corpus Builder",
+    "version": "1.1.3"
+  },
+  "sources": [
+    {
+      "path": "C:\\Users\\oscar\\OneDrive\\Desktop\\corpus builder 1.1.2\\dist\\EDCS Corpus Builder\\data\\Thibursicum Bure.txt",
+      "sha256": "8ba9d35fb6db55393ff20b0b5781ada349f3b7169e60f0d4ae45bc812970ee3f",
+      "size_bytes": 96122
+    }
+  ]
+}

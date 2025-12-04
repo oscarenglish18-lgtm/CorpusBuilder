@@ -1,0 +1,1044 @@
+
+publication: AE 1912, 00296          EDCS-ID: EDCS-16300384
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Natali<c=K>a fide/lis vixit in pace / ann(o)s LV dep(o)s(i)t(a) / sub di[e 3 Augu]st/as ind(ictione) X[3]
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: AE 1958, 00120          EDCS-ID: EDCS-13500220
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Alexa/nd(r)ia <v=B>ixit in pace an(n)is / quat(tu)or menses quat(tu)/or dies <v=B>iginti <q=C>(u)i/nque
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: AfrRom-10-02-681 = AE 1993, 01713          EDCS-ID: EDCS-03700784
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[Hi]nc(?) reliquias n[ostri] / [dom](i)ni Petri Pau[lique]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: BCTH-1908-CLXXIX = ILAfr 00145,03 = ILPSbeitla 00127         EDCS-ID: EDCS-10300286
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / L(ucius) Antestius / Felix vixit / annis IIII / m(ensibus) VII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1908-CLXXIX = ILAfr 00145,04 = ILPSbeitla 00128         EDCS-ID: EDCS-10300287
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Antestius Victor / vix(it) an(nos) LXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1917-CXCIX = ILAfr 00145,01 = ILPSbeitla 00124         EDCS-ID: EDCS-45300073
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aemiliae / Saturni/nae v(ixit) a(nnos) / LXXI
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1923-CLVII = ILTun-01, 00373b = ILPSbeitla 00188          EDCS-ID: EDCS-45900043
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Saturus / vixit d(ies) VIII
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1943/45-127 = ILPSbeitla 00216         EDCS-ID: EDCS-46900329
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Manibus / Sentia(?) Maxi/ma vixit an(n)os / LXXXXV
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1946/49-379 = ILPSbeitla 00183         EDCS-ID: EDCS-47400347
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Mani/bus sacr(um) / Enialion / pia vixi(t) / [a(nnos)] LXXX
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1946/49-521 = ILPSbeitla 00087         EDCS-ID: EDCS-47400349
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+VEAE[3]L[3]I[3]VL / TSE matris il(l)um<q=C>ue cresce / RER in FSMVT more infelix
+inscription genus / personal status: carmina;  mulieres;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1946/49-521 = ILPSbeitla 00173          EDCS-ID: EDCS-47400348
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) [M(anibus)] / Ul[3] / Re[3] / qui et Nolu[3] / vixit annis / LX
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1946/49-632 = CLEAfr-02, 00087 = Hamdoune-2016, p 074 = Epigraphica-2008-248 = AE 1951, 00045 = AE 1953, +00046 = AE 2008, +01615 = AE 2016, +01847 
+dating: 580 to 620         EDCS-ID: EDCS-13900480
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Qui cel(a)t secreta regis quem mundus adorat / hic requies (h)ab<e=I>t et hic pax (a)eterna moretur {s} / domus d(e)o miserant(ia)e Villatici <v=B>iri togati pra(e)fectorii et d(e)o bl()
+inscription genus / personal status: carmina;  inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-256 = ILPSbeitla 00116 = AE 1989, 00802          EDCS-ID: EDCS-06100541
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / P(ublius) Aelius Sabi/nianus vix/it an(n)is LXXXXV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-257 = ILPSbeitla 00209         EDCS-ID: EDCS-47600552
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] / AN[3] / LX[3] / C(aius) A[3] / TR[3] / RVI[3] / pius [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-258 = ILPSbeitla 00119 = AE 1989, 00803          EDCS-ID: EDCS-06100542
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / C(aius) Aemilius / Crescentianus / Fortunatianus / vixit an(nis) XXXXIIII m/ensibus II die(bu)s XVI / Palmula filia fe/cit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-259 = ILPSbeitla 00191 = AE 1989, 00826          EDCS-ID: EDCS-06100565
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Sorex vixit / an(n)is LXX m(ensibus) VIIII
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-261 = ILPSbeitla 00164 = AE 1989, 00814          EDCS-ID: EDCS-06100553
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) [s(acrum)] / L(ucius) Mucius Sa/turninus / vix(it) annis XXIX / h(ic) s(itus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-262 = ILPSbeitla 00170 = AE 1989, 00817          EDCS-ID: EDCS-06100556
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / [Se]x(tus) Seppius / [Ro]gatus vi/[x]it an(n)is LXX / b(ene) e(st)?
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-263 = ILPSbeitla 00141 = AE 1989, 00806          EDCS-ID: EDCS-06100545
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Clau<di=Z>us / Ilarianus / vixit an(n)is / XLVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-264 = ILPSbeitla 00122 = AE 1989, 00804          EDCS-ID: EDCS-06100543
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aem[i]lia pia pudica / sobria venusta / [vi]xit ann(os) XLI m(enses) VIIII d(ies) VII / [3]nensis
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1970-265 = ILPSbeitla 00189 = AE 1989, 00824          EDCS-ID: EDCS-06100563
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / P() Secund/a vix(it) a(nnos) L[X]XV / h(ic) s(ita) [e(st)]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1970-266 = ILPSbeitla 00192         EDCS-ID: EDCS-47600553
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum)
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1970-267 = AE 1989, 00821          EDCS-ID: EDCS-06100560
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) Donatus / v(i)x(it) an(nos) L
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-268 = ILPSbeitla 00180 = AE 1989, 00820          EDCS-ID: EDCS-06100559
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[D(is)] M(anibus) s(acrum) / D[a]rdanus / vixit annis / XXVII m(ensibus) VII / d(iebus) XII (h)oras(!) XI
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-276 = ILPSbeitla 00167 = AE 1989, 00816          EDCS-ID: EDCS-06100555
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+T(ito) Ofasio Apate / filia / v(ixit) an(n)is LXX / (h)e(res?) f(ecit?) v(otum?) pia
+inscription genus / personal status: mulieres;  nomen singulare;  praenomen et nomen;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-277 = ILPSbeitla 00171 = AE 1989, 00818          EDCS-ID: EDCS-06100557
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / M(arcus) Tullius / Montanus / Luxuriosus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-278 = ILPSbeitla 00179 = AE 1989, 00819          EDCS-ID: EDCS-06100558
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]us / [3]sinus / vixit an(nos) III / menses V <d=Z>i/es VI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-280 = ILPSbeitla 00187 = AE 1989, 00823          EDCS-ID: EDCS-06100562
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Manibus / sacris / Rufinus fecit / co(n)iugi suae / Nereidi / vixit annis / XXV mensi/bus VI d(i)e(bu)s V
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-281 = ILPSbeitla 00207          EDCS-ID: EDCS-47600058
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[3]us / [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1970-283 = ILPSbeitla 00157 = AE 1989, 00811          EDCS-ID: EDCS-06100550
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iulia Fortu/nata pia / v(ixit) an(nos) VI d(ies) IIII / [h(ic)] s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: BCTH-1970-284 = ILPSbeitla 00159 = AE 1989, 00812          EDCS-ID: EDCS-06100551
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Ma(nibus) / sacris / [6]/nius [Sa]/turnin[us] / [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-285 = ILPSbeitla 00163 = AE 1989, 00813          EDCS-ID: EDCS-06100552
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / L(ucius) Marius / Donatulus / v(ixit) a(nnos) XIX / M(arius) V() p(ater) p(ientissimo?) f(ilio) f(ecit) / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-286 = ILPSbeitla 00156 = AE 1989, 00810          EDCS-ID: EDCS-06100549
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Sex(tus) Iulius / Martialis / vixit annis / LXXXI men(sibus) VI / dies(!) III hor(is) / VIIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-287 = ILPSbeitla 00185 = AE 1989, 00822          EDCS-ID: EDCS-06100561
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / h(ic) v(ere) e(st) Generosa
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: BCTH-1970-288 = ILPSbeitla 00205         EDCS-ID: EDCS-47600059
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) [M(anibus)] s(acrum) / O[3] / [3]V[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: BCTH-1970-289 = ILPSbeitla 00147 = AE 1989, 00808          EDCS-ID: EDCS-06100547
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) [s(acrum)] / Q(uintus) Fab[ius] / Donat[ul]us / vi{c}xit a[nn]is / LXX m(ensibus) [3 piu]/s et vere vi{c}xit
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-295 = ILPSbeitla 00190 = AE 1989, 00825          EDCS-ID: EDCS-06100564
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Secun/dianus / d(e)p(ositus) PFS / R[3] / T[
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: BCTH-1970-301 = ILPSbeitla 00143 = AE 1989, 00807          EDCS-ID: EDCS-06100546
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(a)n(ibus) / Coc(c)eia Quarta filia / Galli Saturi filia / vixit annis XXXV / m(ensibus) III Saturnin/us fecit
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-302 = ILPSbeitla 00149 = AE 1989, 00809          EDCS-ID: EDCS-06100548
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Fl(avia) Suc(c)essa vixit / annis XXV m(ensibus) III d(iebus) V / et Aelia Sero/tina vixit annis / XVI m(ensibus) II d(iebus) III / Ael(ius) Soropot con/iugi et sorori / carissim[i]s fe/cit h(ic) s(itae) s(unt)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: BCTH-1970-305 = ILPSbeitla 00125 = AE 1989, 00805          EDCS-ID: EDCS-06100544
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Gaia (A)emilia / Victorina / vixit annis(!) XXXV / me(n)ses X (h)oras VI
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: Bejaoui-2003, p 304 = AE 2015, 01771 = EpRom 2015_57_007 
+dating: 351 to 400         EDCS-ID: EDCS-72700084
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Donatia/nus <d=Z>i/acon(u)s / vix(it) a(nno)s LXXXIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: musivum
+
+publication: Bejaoui-2015, p 179a = AE 2015, 01784 = EpRom 2015_57_020 
+dating: 501 to 600         EDCS-ID: EDCS-72700094
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Alexsa(n)t(e)r(!) / mile<s=X> <v=B>ixit / in pace a(nno)s XL
+inscription genus / personal status: inscriptiones christianae;  milites;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 179b = AE 2015, 01785 = EpRom 2015_57_021 
+dating: 501 to 600         EDCS-ID: EDCS-72700095
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] / Fortuna / [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  tituli sepulcrales
+
+publication: Bejaoui-2015, p 179c = AE 2015, 01786 = EpRom 2015_57_022 
+dating: 501 to 600         EDCS-ID: EDCS-72700096
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] / ann[os 3 sub] / die XV K(a)l(endas) / Ianuari/as indict(ione) / quinta / SER[
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: Bejaoui-2015, p 70,2 = AE 2015, 01772 = EpRom 2015_57_008 
+dating: 301 to 500         EDCS-ID: EDCS-72700085
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Ponpeianus(!) / fidelis vixit / in pace annis / VIII d(e)p(o)s(itus) s(u)b d(ie) Idu/s Maias ind(i)c(tione) / VIIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 70,3 = AE 2015, 01773 = EpRom 2015_57_009 
+dating: 301 to 500         EDCS-ID: EDCS-72700086
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Pompeia/nus fidelis / vixit in pace an/nu(m) I m(en)s(es) VI re/quie<v=B>it su(b) d(ie) / III Id(us) Dec(e)mbr(es) / ind(i)c(tione) II
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 71,4 = AE 2015, 01774 = EpRom 2015_57_010 
+dating: 301 to 500         EDCS-ID: EDCS-72700087
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Ponpeianus(!) / fid{d}elis <v=B>ixit in / pace an(n)is XLV[3] / d<e=I>(positus?) es(t?) pr(idi)e Nona[s] / Maias ind(ictione?) ANI[3] / Mar[3] / TRA[3] / CE[
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 76,1 = AE 2015, 01778 = EpRom 2015_57_014 
+dating: 534 to 534         EDCS-ID: EDCS-72700088
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Marcianus / fidelis vixit in / pace annis XXVI / depos(itus) sub d(ie) VIIII K(a)l(endas) / No(vem)b(res) (!) cons(ule) IIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 76,2 = AE 2015, 01779 = EpRom 2015_57_015 
+dating: 501 to 600         EDCS-ID: EDCS-72700089
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]N / VSS[3] vi/xit [an]/ni[s 3] / de[p(ositus?) 3] / END[3] / Apri[les 3] / O X X / [
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: Bejaoui-2015, p 77,3 = AE 2015, 01780 = EpRom 2015_57_016 
+dating: 501 to 600         EDCS-ID: EDCS-72700090
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Doste / fidelis in / Chr(ist)o <v=B>ixit in / p(a)c(e) annu(m) et / m(enses) VII et [3] Mas[3] / ann(os) XX[3] m(enses) [3] / III M V ind(i)c(tione) XI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 77,4 = AE 2015, 01781 = EpRom 2015_57_017 
+dating: 501 to 600         EDCS-ID: EDCS-72700091
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[M]ustelus fid/elis in Chr(ist)o <v=B>ixit / in pace annis / XXVII d(e)p(o)s(i)t(us) est su/b d(ie) Id(ibus) [M]ai(i)s ind(ictione) / [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 77,5 = AE 2015, 01782 = EpRom 2015_57_018 
+dating: 501 to 600         EDCS-ID: EDCS-72700092
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Rogatia/nus fideli/s vixit in pace / annos nonag/[inta] deposit(us) / [3] Febr/[uarias] ind(ictione) [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: Bejaoui-2015, p 78,6 = AE 2015, 01783 = EpRom 2015_57_019 
+dating: 501 to 600         EDCS-ID: EDCS-72700093
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Soraci/us fidel/is [3] vi[xit] / in pace a/n(n)is XXVI[
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: CICBardo 00015 = MEFR-1971-434 = AE 1971, 00496          EDCS-ID: EDCS-09700771
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Aristobo/lus fide/lis <v=B>i{c}xit / in pace a/nnis XXXVII / et menses / X deposit/us est VIIII K(a)l(en)d(as) / Iunias die / sancta do/minica in/dictione / undecim/a
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: CICBardo 00018 = MEFR-1971-431 = AE 1971, 00495          EDCS-ID: EDCS-09700770
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Traianus fi/delis tribu/nus peregri/nus vixit in / pace annis XL / depositus est VIII / K(a)l(enda)s Maias ind(ictione) VII
+inscription genus / personal status: inscriptiones christianae;  milites;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: CICBardo 00019 = AE 1951, 00036 = AE 1958, 00118          EDCS-ID: EDCS-13500218
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+S(an)c(t)i mart(yres) Protasiu(s) / Gerbasius(!) Tri/phon positi sunt / IIII Kal(endas) Dec(em)br(e)s // Hic memoria / s(an)c(t)i Trifonis / VIII Kal(endas) Dec(em)br(e)s
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CICBardo 00021         EDCS-ID: EDCS-44700002
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: CICBardo 00022         EDCS-ID: EDCS-44700003
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: CICBardo 00023         EDCS-ID: EDCS-44700004
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: CICBardo 00024         EDCS-ID: EDCS-44700005
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+?
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: CIL 08, 00234a (p 926) = CIL 08, 11329a = ILPSbeitla 00084AE 2019, +01836          EDCS-ID: EDCS-14900189
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]tianus et Va() / Festus / et Va[3]tium
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00236 (p 2354) = CIL 08, 11335 = ILPSbeitla 00042 = Brunet-2022, 00044          EDCS-ID: EDCS-14900195
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Fl(aviae) Statianil/lae c(larissimae) m(emoriae) f(eminae) / aviae ad exem/plum piissimae / L(ucius) Servaeus Ami/cus Potitia/nus v(ir) c(larissimus) nepos
+inscription genus / personal status: mulieres;  ordo senatorius;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00239 = CIL 08, 11342 = ILPSbeitla 00051          EDCS-ID: EDCS-14900198
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Q(uinto) Turranio / Natali Cen/sorino eq(uiti) R(omano) / Iunia Passe/niana mater / fecit
+inscription genus / personal status: mulieres;  ordo equester;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00241 = CIL 08, 11347 = ILTun-01, 00355 = ILPSbeitla 00065 = CLE 01521 = D 07801 = Gummerus-01, 00294 = CLEAfrique 00008 = AE 2012, +01814 = AE 2014, +01503          EDCS-ID: EDCS-14900200
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] / Marcellus hic qui/escit medica nobi/lis arte annis qui fe/re vixit triginta et / duobus sed cum / cuncta parasset / edendo placitu/rus tertium mu/neris ante valida / febre crematus / diem defunctus obi/it
+inscription genus / personal status: carmina;  officium/professio;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00246 = CIL 08, 11374 = ILPSbeitla 00120          EDCS-ID: EDCS-14900243
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aemilius Donatu[s] VIII/cus vixit anno [u]no m(ense) (!) d(iebus) VII / [h(oris) 3]II h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00247 = CIL 08, 11379 = ILPSbeitla 00240*          EDCS-ID: EDCS-14900244
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+M(arcus) Au(r)elius / [3]naurius / vixit ann(os) / LXXII m(enses) VI / d(ies) XVI / s i s
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 00248 = CIL 08, 11381 = ILPSbeitla 00134          EDCS-ID: EDCS-14900245
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aureli/[a 3] III Cor/a vix(it) a(nnos) LI[ annis /
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 00250 = CIL 08, 11397 = ILPSbeitla 00151          EDCS-ID: EDCS-14900247
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+L(ucio) Iulio Ie/[3]vit[3]ee / [3]sa / [3]dona
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 00251 (p 926) = CIL 08, 11405 = ILTun-01, 00359 = ILPSbeitla 00168 = CLE 00220 = D 03123 = CLEAfr-01, p 115 = CLEAfrique 00007          EDCS-ID: EDCS-14900248
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Genitor Iunonem dedicat / alteque Pompeiae locat / levamen hoc doloribus / lacrimisq(ue) pausam credidit / at nunc videndo iugiter / et fletum et gemitus integrat // Gallae
+inscription genus / personal status: carmina;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 00252 = CIL 08, 11415          EDCS-ID: EDCS-14900249
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Prima / in pace / <v=B>ixit an(nos) [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11369 = ILTun-01, 00357 = ILPSbeitla 00115          EDCS-ID: EDCS-22700750
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / [A]elius Opta/tulus vixit / an(n)is L ux(or) ca(rissima) / fe(cit)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11370 = ILPSbeitla 00117          EDCS-ID: EDCS-22700751
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aelia Fe/licitas / vixi(t) an(nos) II / m(enses) XIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11371 = ILPSbeitla 00176         EDCS-ID: EDCS-22700752
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / [A]elia Ho/[n]orata
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11373 = ILPSbeitla 00118         EDCS-ID: EDCS-22700754
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Ae[l]ia / Vict[oria] / vixit an(nis) [3]II / mensibus II
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11375 = ILPSbeitla 00121          EDCS-ID: EDCS-22700755
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+A]<e=I>milius Vic/torinus vix(it) / m(enses) XXII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11376 (p 2354) = ILPSbeitla 00123         EDCS-ID: EDCS-22900072
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Mani/bus sacr/<u=E>m Dona/ta vix(it) / (!) XXXXV
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11377 = ILPSbeitla 00130         EDCS-ID: EDCS-22900073
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Arrunt[iae] / Tecusae [p(ia)] / v(ixit) a(nnis) trib[us]
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11378 = ILPSbeitla 00131         EDCS-ID: EDCS-22900074
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aureli[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11380 = ILPSbeitla 00132          EDCS-ID: EDCS-22900075
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aurelius / Ianuarius / Victor v(i)xit / m(enses) XV
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11382 = ILPSbeitla 00135         EDCS-ID: EDCS-22900076
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Caecilius / [3]V[3]VI[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11383 = ILPSbeitla 00136         EDCS-ID: EDCS-22900077
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) / Caeci[lius] / Datus [vix(it)] / annis [
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11384 = ILPSbeitla 00140         EDCS-ID: EDCS-22900078
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) [M(anibus) s(acrum)] / Caelia Secu[n]/da vixit m(enses) V[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11385a = ILPSbeitla 00174         EDCS-ID: EDCS-22900079
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis M(anibus) So[3]/us Calen[dio] / an(norum) III
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11385b = ILPSbeitla 00193         EDCS-ID: EDCS-22900080
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is)] M(anibus) So[3]/ [3]atus / [G]allonius / p(uer) v(ixit) a(nnum) I d(ies) [3]VI
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11386 = ILPSbeitla 00142          EDCS-ID: EDCS-22900081
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Clepia Dona/tulla vixit an/nis LV men/ses(!) X
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11387 = ILPSbeitla 00144         EDCS-ID: EDCS-22900082
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Manibus / Cornelia Saturni/na Saturnini M(aioris) f(ilia) / v(ixit) an(nos) XXXII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11388 = ILPSbeitla 00196         EDCS-ID: EDCS-22900083
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) [s(acrum)] / [Cos]gon[ius] / [3] Don[atus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11389 = ILPSbeitla 00194         EDCS-ID: EDCS-22900084
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / [3]curba[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11390 = ILPSbeitla 00150         EDCS-ID: EDCS-22900085
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Flavia / Tertulli/na vixit / anno uno / men(sibus) [3]V
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11391 = ILPSbeitla 00154         EDCS-ID: EDCS-22900086
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Manibus [3]aius / Flavi[an(us)] vixit annis / LXV h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11392 = ILPSbeitla 00126         EDCS-ID: EDCS-22900087
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+M(anibus) / [3]estus v(ixit) a(nnos) II / [3]esia Victoria v(ixit) (!) III / [An]testius Fortunatus / v(ixit) a(nnos) II m(enses) VII / hi(c) s(epulti)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11393 = ILPSbeitla 00184         EDCS-ID: EDCS-22900088
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) [s(acrum)] / Fortuna[ta] / vixit an(nos) I[3] / VNN MN[
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11394 = ILPSbeitla 00175         EDCS-ID: EDCS-22900089
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]a Fo[r]/[t]unata / [vi]xit a(nnos) III d(ies) X
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11396 = ILPSbeitla 00088         EDCS-ID: EDCS-22900090
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] Italico [
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 11398 = ILPSbeitla 00152         EDCS-ID: EDCS-22900091
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iulius / Clau[d]i/us v(ixit) a(nnos) II / m(enses) VII d(ies) VI / h(ic) s(itus) e(st)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11399 = ILPSbeitla 00153         EDCS-ID: EDCS-22900092
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Q(uintus) Iul(ius) Datus / vixit an(nos) XV / m(enses) II d(ies) XIIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11400 = ILPSbeitla 00155         EDCS-ID: EDCS-22900093
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iul(ius) Lucinianus / vix(it) an(nos) III m(enses) V d(ies) XVIIII / Iul(ius) Buricus pa/ter filio caris/simo fecit
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11401 = ILPSbeitla 00158         EDCS-ID: EDCS-22900094
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iulia Saturnina / vixit annis XIIII /
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11402 (p 2354) = ILPSbeitla 00213          EDCS-ID: EDCS-22900095
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iulia Satur/nina vixit / an(n)is XXIIII / d(iebus) IIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 11403 = ILTun-01, 00358 = ILPSbeitla 00160         EDCS-ID: EDCS-22900096
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iustius / Iunius / Ianuarius / vixit / an(nos) XXXX / h(ic) s(epultus)
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11404 = ILPSbeitla 00162         EDCS-ID: EDCS-22900097
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] / Licin[3] / Cuia[3] / Victo[3] / vixit [
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11406 (p 2354) = ILTun-01, 00360 = ILPSbeitla 00169          EDCS-ID: EDCS-22900098
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / L(uci) Septimi Saturni / vixit an(num) unu(m) <m=N>e(nsem) / d(ies) XVII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11407 = ILPSbeitla 00172          EDCS-ID: EDCS-22900099
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Ulpius Athe/naeus vixit / annis LXXVI / mensibus III / diebus XXVI / h(ic) s(itus) est
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: CIL 08, 11408 = ILPSbeitla 00198         EDCS-ID: EDCS-22900100
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis] Manib[us 3] / [3] GRI[
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11409 = ILPSbeitla 00199         EDCS-ID: EDCS-22900101
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+IIISIID / ANIFSPA[3 vi]/xit annis / [3]III m(ensibus) III
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11410 = ILPSbeitla 00201         EDCS-ID: EDCS-22900102
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] / vixi[t] an(nos) / n(umero) II m(enses) n(umero) V / dies n(umero) X
+inscription genus / personal status: tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 11413 = ILPSbeitla 00178 = ILPSbeitla 00182 = ILPSbeitla 00197 = ILPSbeitla 00208          EDCS-ID: EDCS-22900105
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+] m(enses) VIII [3] // [D(is)] M(anibus) s(acrum) / IV[3] // [3] m(enses) IV // [3]A[3] / [3]OS[3] / [3]S A[3] // [3]CRV[3] / Dona[3] / m(enses) VIIII [3] // [3]ONA[3] / [3]inus [3] / [3 vix]{s}it an(nos) [3] // [3]A[3] / [3]us Procu[3] / [3]X[3] // [3]S[3] / [3]SI[3] // [3]V[3] / [3]S[
+inscription genus / personal status: tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23227 = ILPSbeitla 00146 = ILMS 00091
+dating: 151 to 300         EDCS-ID: EDCS-24501911
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Domitia / C(ai) f(ilia) Prima pia / vix(it) an(nos) LX / h(ic) s(ita) e(st)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23228 = ILPSbeitla 00195 = ILMS 00092
+dating: 151 to 300         EDCS-ID: EDCS-24501913
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Man(ibus) / [Ho]norata / Fortunata / vixi(t) an[nos(?)
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CIL 08, 23230 = ILCV 00233 (em) = ILCV +01349 = ILTun-01, 00364 = CICBardo 00017 = AE 1904, 00078          EDCS-ID: EDCS-24501914
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Pompeia/nus m(a)g(ister) m(i)l(itum) / fidelis in Chr(ist)o / <v=B>ixit in pace / annis LXVIII / d(e)p(ositus) est II K(a)l(endas) / Martias / ind(i)c(tione) XIII
+inscription genus / personal status: inscriptiones christianae;  milites;  nomen singulare;  ordo senatorius;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23230a = ILCV 01384 = ILTun-01, 00384 = AE 1912, 00297          EDCS-ID: EDCS-24501915
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Biola fide/lis <v=B>ix(it) in pace / an(n)is <v=B>iginti d/eposita est sext/u(m) decimu(m) K(alendas) Iunias i/nd(ictione) se<p=B>tima
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23230b = ILCV +02835a = ILTun-01, 00365         EDCS-ID: EDCS-24501916
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+rec]essit / [3]rpatum / [3] de/[posit() ]I K(ale)n(das) / [3]IIII / [indi]ctione / [secun]da
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23230c = ILCV 01186 = ILTun-01, 00366          EDCS-ID: EDCS-24501917
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+in] pace an[ni]s X / [3 in presby]teriu an(n)is XIII / [3 i]n pace / [
+inscription genus / personal status: inscriptiones christianae;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CIL 08, 23231 = ILTun-01, 00386 = ILPSbeitla 00211 = CLEAfr-02, 00085          EDCS-ID: EDCS-24501918
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]SE / [6] / [6] / [6] / [3]VI[3 u]/trique paren/tes hanc pro termi/no doloris / arulam dede/re sacris an(n)is / XIII vixit
+inscription genus / personal status: carmina;  tituli operum;  tituli sepulcrales
+material: lapis
+
+publication: CIL 08, 23232 = ILPSbeitla 00215         EDCS-ID: EDCS-24501919
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Cecilia M(arci) (!) / Victoria / vixit annis / LXX[
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: CLEAfrique 00011 = CLEAfr-02, 00084 = MEFR-1971-427 = AE 1971, 00493          EDCS-ID: EDCS-09700768
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Carmina qui (i)n n/ostro percurritis / forte sepulcro / obsecro meorum / a vo<b=V>is dimov(er)i qu{a}e/rellas / mortis damna fu/git vita(m?) qui s(a)ecu/li transit / bis decem et senos / vixit Probatius an/nos reddidit qui/escens de<b=V>itum in pace / naturae
+inscription genus / personal status: carmina;  inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: CSIR-TUN-02-02, 00212         EDCS-ID: EDCS-44500099
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Man(ibus) / [6]/nio [3] Fortunata / vixi(t) an(nos) [
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: EDCS 00209 = Bejaoui-2015, p 72,7 = AE 2015, 01777 = EpRom 2015_57_013 
+dating: 501 to 600         EDCS-ID: EDCS-51900528
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Hic req(u)iescit in p/ace Cobuldeus / diac(onu)s vixit annis L d(e)p(ositus) / s(u)b d(ie) Id(us) Apriles ind(iction)e qua(rta?)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+
+publication: EDCS 00210 = Bejaoui-2015, p 71,6 = AE 2015, 01776 = EpRom 2015_57_012 
+dating: 501 to 600         EDCS-ID: EDCS-51900529
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Latentia f(i)d(e)l(is) / vixit in pace ann(os) / LIII m(e)n(ses) VI d(e)p(osita) sub d(ie) III Id(us) A/priles ind(ictione) II[3]
+inscription genus / personal status: inscriptiones christianae;  tituli sepulcrales
+
+publication: EDCS 00246 = Bejaoui-2015, p 71,5 = AE 2015, 01775 = EpRom 2015_57_011 
+dating: 501 to 600         EDCS-ID: EDCS-54601243
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Acasanila fidelis/sima <v=B>ixit in pace / an(n)is XXIIII deposit/a est [3] K(alendas) Maias in/[dic]/tione s[e]x[ta 3] / Ta[
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILAfr 00125 = ILPBardo 00110 = ILPSbeitla 00017 = CICBardo 00025          EDCS-ID: EDCS-10300264
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[Imp(eratori) Caes(ari) M(arco) Aurelio Anto]nino [A]ug(usto) Arm(eniaco) M[e]d(ico) Par[th(ico) max(imo)] / [et Imp(eratori) Caes(ari) L(ucio) Aurelio Vero A]ug(usto) A[r]m(eniaco) Med(ico) Parth(ico) max(imo) divi] / [Antonini Pii fili(i)s divi Hadriani n]epo[tibus d]ivi Trai[ani pro]n[epotibus divi] / [Nervae abnepotibus 3 Q]uir(ina) PI[3] / [nomine suo et 3]ani et Q(uinti) A[3] / [3 f]ront[i] eiu[s] marmo[ravit 3] / [3]av[i]t id[e]mque dedica[vit 3] / [3 ob dedicatione]m lu[dos] scaenicos edider[unt] // Can[di]da f[i]/del[is i] pa/ce v[ix]it an/[n]is X[3]I dies / XXV d[ep(osita) 3] K(a)l(endas) Ianuaria[s] / [3]aris(s)ima / [3]I AS
+inscription genus / personal status: Augusti/Augustae;  inscriptiones christianae;  tituli honorarii;  tituli operum;  tituli sacri;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00135 = ILPSbeitla 00069 = D 09026 = AE 1908, 00158          EDCS-ID: EDCS-10300274
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / M(arcus) Aurel/lius Aug(usti) / lib(ertus) Inven/tus proc(urator) / dio[e]c{o}esis / Leptitanae / h(ic) s(itus) e(st)
+inscription genus / personal status: liberti/libertae;  officium/professio;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00145,02 = ILPSbeitla 00129          EDCS-ID: EDCS-14700094
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Antes/a Satur/nina / vixit / an(nos) XXXX / m(enses) IIII // D(is) M(anibus) s(acrum) / Aelius / Felix vixit an(nos) / LXVI
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00145,05 = BCTH-1917-CC = ILPSbeitla 00138         EDCS-ID: EDCS-10300288
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis [Man(ibus)] / Caeciliu[s] / Victor v[i]/xit an[n(os)] / III
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00145,06 = ILPSbeitla 00139          EDCS-ID: EDCS-14700095
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Manibus / Caelia Sabina / dulcis pia Surbacis / filia vixit annis XX / hic s(ita) est
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00145,07 = ILPSbeitla 00145 = AE 2019, 01884 = ILMS 00090 
+dating: 1 to 150         EDCS-ID: EDCS-10300290
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dec(i)mia / Annia Fel/ix v(ixit) a(nnos) / XVIII
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00145,08 = ILPSbeitla 00161          EDCS-ID: EDCS-14700096
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Iunia Saturni/na L(uci) Antesti con/iuga(!) pura et pu/dica vixit an(nos) / XXIIII m(enses) VIII / h(ic) s(ita) e(st)
+inscription genus / personal status: praenomen et nomen;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILAfr 00145,09 = ILPSbeitla 00186 = AE 1911, 00012          EDCS-ID: EDCS-16400011
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Dis Manib(us) / s(a)c(rum) / Lucius Zaece/thuris fil(ius) vi/xit ann(os) VI h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILAfr 00145,10 = BCTH-1917-CC = ILPSbeitla 00166          EDCS-ID: EDCS-10300293
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Octa<v=B>ia Nena <p=B>(ia?) / vix(it) a(nnos) XVIII d(ies) X
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+material: lapis
+
+publication: ILAfr 00146 = AE 1989, 00829 = ILPSbeitla 00212          EDCS-ID: EDCS-10300294
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+{H}Ave Tite / D(is) M(anibus) s(acrum) / T(itus) Stati/lius Sa/trianus / vix(it) ann(os) / XXXIIII / m(enses) VIIII / d(ies) XXVII / h(ic) s(itus) e(st)
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILCV 01185 = ILTun-01, 00379 = AE 1912, 00295          EDCS-ID: EDCS-08202000
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Presb<y=I>ter / ser<v=B>us b(eatae) / m(emoriae) <v=B>ixit in pa/ce ann(is) LXVIII / d(e)p(o)s(i)t(us) V Id(us) / Octob(re)s
+inscription genus / personal status: inscriptiones christianae;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 01593a (add) = ILTun-01, 00382 = AE 1914, 00052          EDCS-ID: EDCS-08201989
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Istefanus(!) fidelis <v=B>i/xit in pace ann(os) XIIII / d(e)p(ositu)s sub die III N(o)n(as) Iuni/as indictione sep/tima et in militia (a)nn(os) III
+inscription genus / personal status: inscriptiones christianae;  milites;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 01593b (add) = ILTun-01, 00381 = AE 1914, 00053          EDCS-ID: EDCS-08202002
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Pe[3 fide]/lis vixit in pace / annis VIIII m(e)n(sibu)s XI / d(e)p(ositu)s die V Id(us) Ma/ias ind(ictione) septima / vixit in militi/a annis III
+inscription genus / personal status: inscriptiones christianae;  milites;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILCV 02125 = ILTun-01, 00383 = AE 1914, 00054          EDCS-ID: EDCS-08202004
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Hic Honor/ata inno/cens vixi/t in pace t/empora III / d(e)p(osita) s(an)c(ta) P(ente)c(oste)
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILCV 03477 (add) = ILTun-01, 00380 = CICBardo 00020 = CLEAfrique 00010 = CLEAfr-02, 00223 = BE 00716 = AE 1915, 00038 = AE 2014, +01487 
+dating: 534 to 534         EDCS-ID: EDCS-16201976
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+In nomine patris et fi/li(i) et sp(iritus) s(an)c(t)i amen / Vitalis pr(e)sb(yter) vi<x=C>[it in pace(?)] / d(e)i annis LXXVIII requi[esco ho]/die hic positus plac[ida in] / pace reser<v=B>or pul<v=B>eri [sed(?)] / spes mi<h=C>i multa manet na[m te] / venturum spero d(omi)n(u)m qui cuncta / creasti tibi ut cineres istos / suscites ipse potens h(a)ec est / speciosor sole et super omnem / s[t]ellarum dispositionem / luci comparata in<v=B>enitur prior / dum sit una omnium potens et / in se permanens omnia inno/<v=D>ans natus anno XXVIII / regis Ge(n)s<e=I>ric(i) pridie Idus / Septembres
+inscription genus / personal status: carmina;  inscriptiones christianae;  nomen singulare;  reges;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+comment: DOI:10.36204/edcsj-006-202102 p. 16
+
+publication: ILPSbeitla 00133          EDCS-ID: EDCS-70000122
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Aurelia / Romana / vix(it) a(nnos) LXI m(enses) XI / dies XXI (h)or(as) III
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+
+publication: ILPSbeitla 00148 = Zarker 00019 = CLEAfrique 00009 = CLEAfr-01, p 125 = CLEAfr-02, 00083 = AE 1949, 00060 = AE 2011, 01543          EDCS-ID: EDCS-15100026
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / Flavi voluntas his decla/ratur versibus / exstruxit vivus tumulum / sibim(et) et suis / locumque prospexit Ma/nibus nemore consitum / incertus quo iam luce / priv[aretu]r tempore / condentur in eo corpo/ris r[eli]quiae [3] / I[3] / [6] / s[3] / [6] / L(ucius) Fl[avius] F[elix] vix[it] [an]n[i]s / XL[3] / h(ic) s(itus) e(st) // Felicis
+inscription genus / personal status: carmina;  nomen singulare;  tituli operum;  tituli sepulcrales;  tria nomina;  viri
+
+publication: ILPSbeitla 00177 = AE 1989, 00795          EDCS-ID: EDCS-06100534
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / [I]ul(ia) Mig/ginia / vix(it) ann(os) / XLI m(enses) VIII d(ies) III
+inscription genus / personal status: mulieres;  tituli sepulcrales;  tria nomina
+
+publication: ILPSbeitla 00200          EDCS-ID: EDCS-70000123
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]e uxor[i 3] / [3] v(ixit) a(nnos) LXXX P[3] / [3] h(ic) si(ta) est
+inscription genus / personal status: mulieres;  tituli sepulcrales
+
+publication: ILPSbeitla 00203          EDCS-ID: EDCS-70000124
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+]IO[3] / [3 v[ixit an]nis [3] / [3] dies XIIII
+inscription genus / personal status: tituli sepulcrales
+
+publication: ILPSbeitla 00204          EDCS-ID: EDCS-70000125
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+an]n(os) XX[3] / [3]rvia T[3] / [3]r Abet[
+inscription genus / personal status: tituli sepulcrales
+
+publication: ILTun-01, 00373a = ILPSbeitla 00137          EDCS-ID: EDCS-14700093
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+D(is) M(anibus) s(acrum) / L(ucius) / C(a)eci(lius?) Sila/nus v(ixit) m(enses) / XVIII
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: ILTun-01, 00375 = AE 1912, 00298          EDCS-ID: EDCS-08201996
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Bellator / ep(is)c(opu)s vixi(t) / in p[ace
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00377         EDCS-ID: EDCS-08201998
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Cresconi/us pr(es)b(yter) vix{x}i/t in pace an/nos [3 m(ense)]s V d(ies) XV / d(e)p(ositu)s [3]bres(s) / in[dict(ione) 3]T[3]A
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00378 = ILPSbeitla 00217          EDCS-ID: EDCS-08201999
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Rusticus p(res)b(yter) vixit / in pace annis LII / cessit presb<y=I>te/rio an(nis) XVI m(en)s(ibus) IIII d(iebus) X / d(e)p(ositus) XVI Kalendas / Septembres / ind(i)c(tione) XIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,01         EDCS-ID: EDCS-08202005
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Adeodatus
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,02         EDCS-ID: EDCS-08202006
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Antusa
+inscription genus / personal status: nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,03         EDCS-ID: EDCS-08202007
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Can[di]da
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00384,04         EDCS-ID: EDCS-08202008
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Claris(s)ima
+inscription genus / personal status: mulieres;  ordo senatorius;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00384,05 = BCTH-1914-CLXVII          EDCS-ID: EDCS-08202009
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[C]onstan/[t]ius fide/[li]s vixit / [in] pace an/[n]os no<ve=BF>(m)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,06         EDCS-ID: EDCS-08202010
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Constantia
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00384,07 = BCTH-1914-CLXVII          EDCS-ID: EDCS-08202011
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Cre[sce]ntina fid(e)l(is) <v=B>ix(it) / in pace an(n)os VII men(ses) II / deposita <:XV=VX> K(alendas) Iunias / ind(ictione) octa<v=B>
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00384,08 = BCTH-1914-CLXIII         EDCS-ID: EDCS-08202012
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Cresc[e]n[ti]/[nu]s [f]id[eli]/s vixit in pace / ann(os) XVIII d(ies) [3]
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,09 = BCTH-1914-CLXVI          EDCS-ID: EDCS-08202013
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[Ioha]/nnes / fidelis vi/xit in pace / an(nos) II m(ense)s VII / dep(ositus) sub d(ie) VI / K(alenda)s Apriles / indic(tione) XIIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,10         EDCS-ID: EDCS-08202014
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Natalika
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00384,11 = BCTH-1914-CLXIV          EDCS-ID: EDCS-08202015
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Non/[i]a fideli(s) / ixit in / pace ann(os) / LXI d(e)p(o)s(ita) sub d(ie) / XVII[3] / NS[
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00384,12 = BCTH-1914-CLXIV          EDCS-ID: EDCS-08202016
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+T(h)eudoru/s vixit in / pace m(enses) III
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00384,13         EDCS-ID: EDCS-08202017
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Biola
+inscription genus / personal status: mulieres;  nomen singulare;  tituli sepulcrales
+material: lapis
+
+publication: ILTun-01, 00385 = AE 1937, 00023          EDCS-ID: EDCS-08202018
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Sanctus / <H=M>onorius / episcop(us) vi/xit in pace / an(nos) LXXX m(enses) V / deposi/[t]us die / [3 I]dus / [Oct]obr(es) / [
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+material: lapis
+
+publication: ILTun-01, 00387         EDCS-ID: EDCS-08202019
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+C(aius) Memius M(arci) [f(ilius?)] Maxutius / C(aius) Memius Donatus
+inscription genus / personal status: tituli sepulcrales;  tria nomina;  viri
+material: lapis
+
+publication: MEFR-1956-277
+dating: 543 to 543         EDCS-ID: EDCS-70000067
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Restitutus fidel(i)s / dep(ositus) s(ub) d(ie) VII K(a)l(endas) Feb(ruarias) / ann(o) XVI ind(ictione) VI / b(o)n(ae) m(emoriae) Restitutu(s) / d(omi)n(us) d(e) h(oc) s(ae)c(ulo) tr(a)ns(i)torio / ad sua r(e)gna eum c<o=U>(n)vocare d(i)gnatus / [e]st ubi est s(e)d(e)s s(e)mp(iterna) / [e]t requies (a)eterna / amen vix(i)t pl(us) m(inus) / [an]n(o)s XIV s(ub) d(ie) VII / [K(a)l(endas)] F(eb)r(uarias)
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1956-279
+dating: 543 to 543         EDCS-ID: EDCS-70000068
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Budala fi[d]el(is) vixit / in pace pl(us) m(inus) ann(os) XV / dep(osita?) s(ub) d(ie) IX K(a)l(endas) [3] an(no) XCI / indic(tione) VI
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: MEFR-1956-280
+dating: 543 to 543         EDCS-ID: EDCS-70000069
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Florentius / fid(e)l(is) vix(it) in pac(e) / pl(us) m(inus) ann(os) II m(enses) III / [dep(ositus) s(ub) d(ie) 3]I Id(us) Feb(ruarias) / [an(no) XVI i]nd(ictione) VI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1956-280         EDCS-ID: EDCS-70000070
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+B(o)n(ae) m(emoriae) Fortunata / d(omi)n(u)s d(e) h(oc) s(ae)c(u)lo tran/sitorio ad sua re/gna convocare dig/natus est convo/care ubi est sede/s s(e)mp(i)t(e)rna et requi/[es ae]t(e)rna amen / [vix(it) in pa]ce pl(us) m(inus) / [
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: MEFR-1956-281
+dating: 563 to 563         EDCS-ID: EDCS-70000071
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Restitu/tus fide/lis <v=B>ixit in / pace annos / XVI dies LXXIIII / dep(o)s(itus) sub die III / <K=C>alendas / Apriles anno / XXXVI indictio/ne decima
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1956-282
+dating: 546 to 546         EDCS-ID: EDCS-70000072
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Matrona / fidelis vixit / in pace pl(us) m(inus) an/nis XXXV / depo(sita) s(ub) d(ie) IX K(a)l(endas) / Febr(uarias) an(no) XVIIII / ind(ictione) VIIII
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales
+
+publication: MEFR-1956-283
+dating: 563 to 563         EDCS-ID: EDCS-70000073
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+S[ec]undianus / fidelis in pace vixit / annos XVIIII dies CXXXVIII / d(e)p(o)s(itus) est su(b) d(ie) XV Kal(enda)s / Iunias anno XXXVII / i[n]dictione XI
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1956-284 = CICBardo 00016          EDCS-ID: EDCS-70000074
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Petrus / em(i)n(en)s(issimu)s v[i]/xit in p(a)c(e) / an(no)s LXV / d(e)p(o)s(itus) s(u)b d(i)e / XV K(a)l(enda)s Iu/lias / ind(ictione) X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: MEFR-1971-429 = AE 1971, 00494          EDCS-ID: EDCS-09700769
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Crescens fide/lis magister / militu(m) filius / Gratiani pere/grinus vixit in / pace annos XLV / depositus est / sextu(m) Idus Octo(b)r(es) / indictio(ne) q(u)inta
+inscription genus / personal status: inscriptiones christianae;  milites;  nomen singulare;  ordo senatorius;  tituli sepulcrales;  viri
+
+publication: MEFR-1971-436 = AE 1971, 00497 
+dating: 501 to 550         EDCS-ID: EDCS-09700772
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Gaudibu/dus fidel(is) / vixit in pa/ce m(enses) VIIII / dep(ositus) III Id(us) Iu() / ind(ictione) X
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1971-438 = AE 1971, 00498          EDCS-ID: EDCS-09700773
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Pet(r)us? / fidelis <v=B>i/xit in pace / annis(!) VIII m(e)n(se)s III / dies XII / d(e)p(osi)t(u)s su(b) p(ri)d(ie) K(alendas) / indictio/ne q(u)arta
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1971-440 = AE 1971, 00499          EDCS-ID: EDCS-09700774
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Cosmas / primicer(iu)s / vixit in pace / ann(o)s LX / depo/sit(u)s die XI K(alen)d(as?) / Maias indic/tione quarta
+inscription genus / personal status: inscriptiones christianae;  milites;  nomen singulare;  tituli sepulcrales;  viri
+material: lapis
+
+publication: MEFR-1971-441 = AE 1971, 00500          EDCS-ID: EDCS-09700775
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Gratianus / diacon(u)s <v=B>ixit / in pace annos / XXXV depos(itus) s(u)/b d(ie) N(o)n(as) Iulias / ind(ictione) IIII
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  sacerdotes christiani;  tituli sepulcrales;  viri
+
+publication: MEFR-1971-442 = AE 1971, 00501          EDCS-ID: EDCS-09700776
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Liberatus / fidelis <v=B>ixit / in pace annos / LXXV dep(ositu)s est / s(u)b d(ie) IIII Id(u)s Dec(embr)es / ind(ic)t(io)ne sexta
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1999-979 = AE 1958, 00119          EDCS-ID: EDCS-13500219
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+Cum patr/onos(!) suos(!) // Serbius(!) fidel[is] / <v=B>ixit in pace a[n]/nis XXXIII d(e)p(ositus) d(ie) nonu(m) / decimu(m) K(a)l(endas) Se[p]te/<m=N>bres ind(ictione) sex/ta
+inscription genus / personal status: inscriptiones christianae;  nomen singulare;  tituli sepulcrales;  viri
+
+publication: MEFR-1999-984         EDCS-ID: EDCS-70000105
+province: Africa proconsularis         place: Sbeitla / Subaytilah / el-Ouara, Hr. / Oued Cheria / Oued ech-Cheraya / Scheria / Sufetula
+[Fe]licianus / [V]ictoria
+inscription genus / personal status: inscriptiones christianae;  mulieres;  nomen singulare;  tituli sepulcrales;  viri
